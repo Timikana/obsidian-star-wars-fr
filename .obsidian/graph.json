@@ -1,0 +1,163 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"couleur\":\"bleu\"]",
+      "color": {
+        "a": 1,
+        "rgb": 3055095
+      }
+    },
+    {
+      "query": "[\"couleur\":\"vert\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5025616
+      }
+    },
+    {
+      "query": "[\"couleur\":\"rouge\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15022389
+      }
+    },
+    {
+      "query": "[\"couleur\":\"violet\"]",
+      "color": {
+        "a": 1,
+        "rgb": 9315498
+      }
+    },
+    {
+      "query": "[\"couleur\":\"jaune\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16635957
+      }
+    },
+    {
+      "query": "[\"couleur\":\"blanc\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15527921
+      }
+    },
+    {
+      "query": "[\"couleur\":\"noir\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1710618
+      }
+    },
+    {
+      "query": "[\"couleur\":\"orange\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16485376
+      }
+    },
+    {
+      "query": "[\"couleur\":\"rebellion\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16740096
+      }
+    },
+    {
+      "query": "[\"couleur\":\"empire\"]",
+      "color": {
+        "a": 1,
+        "rgb": 4342338
+      }
+    },
+    {
+      "query": "[\"couleur\":\"premier-ordre\"]",
+      "color": {
+        "a": 1,
+        "rgb": 12000284
+      }
+    },
+    {
+      "query": "[\"couleur\":\"republique\"]",
+      "color": {
+        "a": 1,
+        "rgb": 13214247
+      }
+    },
+    {
+      "query": "[\"couleur\":\"mandalorien\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5227511
+      }
+    },
+    {
+      "query": "[\"couleur\":\"hutts\"]",
+      "color": {
+        "a": 1,
+        "rgb": 7162945
+      }
+    },
+    {
+      "query": "[\"couleur\":\"prime\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6111287
+      }
+    },
+    {
+      "query": "[\"couleur\":\"jedi\"]",
+      "color": {
+        "a": 1,
+        "rgb": 35195
+      }
+    },
+    {
+      "query": "[\"couleur\":\"sith\"]",
+      "color": {
+        "a": 1,
+        "rgb": 4854924
+      }
+    },
+    {
+      "query": "[\"couleur\":\"wookiee\"]",
+      "color": {
+        "a": 1,
+        "rgb": 9268835
+      }
+    },
+    {
+      "query": "[\"couleur\":\"droide\"]",
+      "color": {
+        "a": 1,
+        "rgb": 12434877
+      }
+    },
+    {
+      "query": "[\"couleur\":\"yoda\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6868280
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.25402115851084656,
+  "close": true
+}

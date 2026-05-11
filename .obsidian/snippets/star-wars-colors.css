@@ -1,0 +1,90 @@
+/* ============================================================
+   Star Wars — Couleurs (personnages + planètes + vaisseaux + créatures + organisations)
+   ============================================================ */
+
+/* === PERSONNAGES (sabres + factions + espèces) === */
+.perso-bleu     { --sw-color: #2E9DF7; }
+.perso-vert     { --sw-color: #4CAF50; }
+.perso-rouge    { --sw-color: #E53935; }
+.perso-violet   { --sw-color: #8E24AA; }
+.perso-jaune    { --sw-color: #FDD835; }
+.perso-blanc    { --sw-color: #ECEFF1; }
+.perso-noir     { --sw-color: #1A1A1A; }
+.perso-orange   { --sw-color: #FB8C00; }
+.perso-rebellion       { --sw-color: #FF6F00; }
+.perso-empire          { --sw-color: #424242; }
+.perso-premier-ordre   { --sw-color: #B71C1C; }
+.perso-republique      { --sw-color: #C9A227; }
+.perso-mandalorien     { --sw-color: #4FC3F7; }
+.perso-hutts           { --sw-color: #6D4C41; }
+.perso-nouvelle-rep    { --sw-color: #1565C0; }
+.perso-prime           { --sw-color: #5D4037; }
+.perso-jedi            { --sw-color: #00897B; }
+.perso-sith            { --sw-color: #4A148C; }
+.perso-wookiee         { --sw-color: #8D6E63; }
+.perso-droide          { --sw-color: #BDBDBD; }
+.perso-yoda            { --sw-color: #689F38; }
+
+/* === PLANÈTES (par région galactique) === */
+.planete-core       { --sw-color: #00BCD4; }
+.planete-colonies   { --sw-color: #009688; }
+.planete-inner      { --sw-color: #3F51B5; }
+.planete-expansion  { --sw-color: #673AB7; }
+.planete-mid        { --sw-color: #9C27B0; }
+.planete-outer      { --sw-color: #FF5722; }
+.planete-wild       { --sw-color: #795548; }
+.planete-unknown    { --sw-color: #212121; }
+.planete-hutt       { --sw-color: #827717; }
+
+/* === VAISSEAUX === */
+.vaisseau-rebellion     { --sw-color: #FF6F00; }
+.vaisseau-empire        { --sw-color: #424242; }
+.vaisseau-republique    { --sw-color: #C9A227; }
+.vaisseau-cis           { --sw-color: #5D4037; }
+.vaisseau-civil         { --sw-color: #607D8B; }
+.vaisseau-resistance    { --sw-color: #FF6F00; }
+.vaisseau-premier-ordre { --sw-color: #B71C1C; }
+
+/* === CRÉATURES === */
+.creature-fauve     { --sw-color: #6D4C41; }
+.creature-monture   { --sw-color: #8D6E63; }
+.creature-aquatique { --sw-color: #006064; }
+.creature-mythique  { --sw-color: #4A148C; }
+
+/* === ORGANISATIONS === */
+.org-jedi          { --sw-color: #00897B; }
+.org-sith          { --sw-color: #4A148C; }
+.org-empire        { --sw-color: #424242; }
+.org-rebelle       { --sw-color: #FF6F00; }
+.org-pegre         { --sw-color: #6D4C41; }
+.org-mando         { --sw-color: #4FC3F7; }
+.org-premier-ordre { --sw-color: #B71C1C; }
+
+
+/* === APPLICATION TITRES === */
+[class*="perso-"] h1,
+[class*="planete-"] h1,
+[class*="vaisseau-"] h1,
+[class*="creature-"] h1,
+[class*="org-"] h1 {
+  color: var(--sw-color);
+  border-bottom: 3px solid var(--sw-color);
+  padding-bottom: 6px;
+}
+[class*="perso-"] h2,
+[class*="planete-"] h2,
+[class*="vaisseau-"] h2,
+[class*="creature-"] h2,
+[class*="org-"] h2 {
+  color: var(--sw-color);
+  border-left: 4px solid var(--sw-color);
+  padding-left: 10px;
+}
+[class*="perso-"] h3,
+[class*="planete-"] h3,
+[class*="vaisseau-"] h3,
+[class*="creature-"] h3,
+[class*="org-"] h3 {
+  color: var(--sw-color);
+  opacity: 0.9;
+}

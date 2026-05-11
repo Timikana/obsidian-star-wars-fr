@@ -1,0 +1,30 @@
+---
+alias: [Sabé, Doublure de la Reine]
+espece: Humain
+affiliation: [Naboo, Garde Royale]
+periode: [Prélogie, Empire]
+statut: vivant
+canon: Canon
+premiere_apparition: La Menace Fantôme (1999)
+acteur_voix: Keira Knightley
+sabre_couleur: 
+sabre_hex: 
+couleur: republique
+couleur_hex: "#C9A227"
+cssclasses:
+  - perso-republique
+tags: [personnage, naboo, doublure, garde-royale]
+---
+
+# Sabé
+> [!color] Couleur signature
+> <span style="color:#C9A227">█</span> **Or République** — doublure officielle de la Reine Amidala.
+
+## Résumé
+Doublure et garde rapprochée de [[Padmé Amidala]] à Naboo. Continue ses missions secrètes après la mort de Padmé (comics Vader, série Obi-Wan Kenobi).
+
+## Relations
+- Alliés : [[Padmé Amidala]], [[Captain Typho]], handmaidens (Cordé, Versé, Dormé, Eirtaé)
+
+## Apparitions
+Films I, II · Comics Vader, Queen's Shadow · Mention Obi-Wan Kenobi
