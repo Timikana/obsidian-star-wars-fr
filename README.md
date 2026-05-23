@@ -104,10 +104,6 @@ tags: [...]
 
 Canon Wookieepedia + StarWars.com Databank.
 
-## 🤖 Génération
-
-Ce vault a été généré et organisé via [Claude Code](https://claude.ai/code) en utilisant des agents en parallèle pour couvrir toutes les ères Star Wars.
-
 ## 📄 Licence
 
 Contenu fan-made non-officiel. Star Wars © Lucasfilm Ltd.
