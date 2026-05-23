@@ -14,7 +14,7 @@ tags: [artefact, mandalorien, mythosaure, symbole]
 
 # Médaillon Mythosaure
 > [!color] Symbolique
-> <span style="color:#9E9E9E">█</span> — Crâne du Mythosaure, sceau du peuple mandalorien.
+> <span style="color:#4FC3F7">█</span> — Crâne du Mythosaure, sceau du peuple mandalorien.
 
 ## Résumé
 Le médaillon Mythosaure est un pendentif en beskar gravé du crâne du Mythosaure, créature légendaire jadis domptée par [[Mandalore le Grand]]. Il est l'emblème suprême du peuple mandalorien et symbolise l'unification de [[Mandalore]]. La résurgence d'un véritable Mythosaure vivant est considérée comme un signe annonciateur de renaissance du peuple.

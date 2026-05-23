@@ -21,7 +21,7 @@ tags: [personnage, senateur, centristes]
 > <span style="color:#C9A227">█</span> **Or République** — jeune sénateur Centriste idéaliste, allié inattendu de Leia.
 
 ## Résumé
-Sénateur Centriste de Riosa, collectionneur d'artefacts impériaux mais farouchement anti-Empire. Devient l'allié de [[Leia Organa]] avant d'être trahi par [[Lady Carise Sindian]] et accusé du massacre de Hosnian.
+Jeune sénateur Centriste de Riosa, propulsé en politique malgré ses origines modestes après avoir vu sa planète exsangue sous le joug impérial durant son enfance. Collectionneur passionné d'artefacts impériaux — casques, blasters, reliques — qu'il considère comme des trophées d'une tyrannie vaincue plutôt que des objets de culte. Idéaliste fougueux et orateur passionné, il forme un duo improbable avec [[Leia Organa]] pour enquêter sur les activités criminelles de Rinnrivin Di. Leur alliance se brise brutalement lorsqu'il apprend par [[Lady Carise Sindian]] que Leia est la fille de [[Dark Vador]], révélation qu'il vit comme une trahison personnelle viscérale. Manipulé puis livré à la justice par Carise, il est emprisonné injustement pour le massacre de Hosnian Prime avant d'être libéré et réhabilité grâce à Leia. Son arc illustre tragiquement la fracture du Sénat entre Populistes et Centristes, et la difficulté de transcender les blessures du passé. Personnage central du roman Bloodline de Claudia Gray.
 
 ## Relations
 - Allié : [[Leia Organa]], [[Yendor]]

@@ -10,7 +10,7 @@ acteur_voix: Bill Hader (effets), Brian Herring
 sabre_couleur: 
 sabre_hex: 
 couleur: orange
-couleur_hex: "#FF8F00"
+couleur_hex: "#FB8C00"
 cssclasses:
   - perso-orange
 tags: [personnage, droide, astromecano, resistance]
@@ -19,7 +19,7 @@ tags: [personnage, droide, astromecano, resistance]
 # BB-8
 
 > [!color] Couleur signature
-> <span style="color:#FF8F00">█</span> **Orange signature** — boule blanche et orange.
+> <span style="color:#FB8C00">█</span> **Orange signature** — boule blanche et orange.
 
 ## Résumé
 Droïde astromécano sphérique appartenant à [[Poe Dameron]]. Détient la carte menant à [[Luke Skywalker]] dans ép. VII.

@@ -15,7 +15,7 @@ tags: [artefact, armure, mandalorien, beskar]
 
 # Armure beskar
 > [!color] Symbolique
-> <span style="color:#9E9E9E">█</span> — Acier mandalorien, capable de résister à un sabre laser.
+> <span style="color:#4FC3F7">█</span> — Acier mandalorien, capable de résister à un sabre laser.
 
 ## Résumé
 Le beskar (ou "acier mandalorien") est un alliage métallique extrêmement résistant, capable de bloquer les tirs de blaster et même les coups de sabre laser. Il constitue le matériau de base des armures mandaloriennes traditionnelles. Massivement pillé par l'[[Empire galactique]] lors de la Grande Purge de [[Mandalore]].

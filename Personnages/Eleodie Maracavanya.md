@@ -21,7 +21,7 @@ tags: [personnage, pirate, contrebandier]
 > <span style="color:#FB8C00">█</span> **Orange Pirate** — pirate au genre fluide, autoproclamé·e Roi-Reine du Vide.
 
 ## Résumé
-Pirate flamboyant·e qui s'empare d'un Super Destroyer impérial à la chute de l'Empire et bâtit une flotte indépendante dans les Régions Inconnues. Refuse toute allégeance à la Nouvelle République.
+Pirate flamboyant·e au genre fluide se faisant appeler « Roi-Reine du Vide », figure légendaire des marges galactiques durant la chute de l'Empire. Capture un Super Destroyer de classe Executor abandonné par ses ingénieurs impériaux désertant après Endor, qu'iel rebaptise et transforme en vaisseau-amiral d'une flotte pirate composée de transfuges, de mercenaires et d'aliens marginalisés. Refuse catégoriquement toute allégeance, qu'il s'agisse de la Nouvelle République, de l'Empire résiduel ou des cartels Hutt, prônant une indépendance absolue dans les Régions Inconnues. Personnalité théâtrale et imprévisible, à la fois charismatique et menaçant·e, iel collectionne titres ronflants et reliques impériales détournées comme trophées. Refuse l'offre de [[Mon Mothma]] de rejoindre la République, préférant régner sur sa flotte pirate qu'obéir à un Sénat. Personnage important pour la représentation non-binaire dans le canon Star Wars, introduit par Chuck Wendig dans Aftermath: Empire's End.
 
 ## Relations
 - Ennemis : Empire résiduel, Nouvelle République

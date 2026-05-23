@@ -21,7 +21,7 @@ tags: [personnage, imperial, amiral]
 > <span style="color:#424242">█</span> **Gris Empire** — amiral impérial fanatique, père d'[[Iden Versio]] et architecte de l'Opération Cendre.
 
 ## Résumé
-Amiral impérial directement choisi par l'Empereur pour exécuter l'Opération Cendre. Père d'[[Iden Versio]], dont il finit par ordonner la mort lorsqu'elle déserte. Meurt à la bataille de Jakku.
+Amiral impérial de haut rang originaire de Vardos, choisi personnellement par l'Empereur Palpatine comme l'un des exécutants de l'Opération Cendre — un protocole testamentaire ordonnant la destruction de mondes-clés de l'Empire pour ne rien laisser aux rebelles. Père distant et autoritaire d'[[Iden Versio]], qu'il a formée à devenir l'arme parfaite du régime au sein de l'Inferno Squad. Sa loyauté absolue à la doctrine impériale prime sur tout : il sacrifie sa planète natale Vardos et ordonne froidement la mort de sa propre fille lorsqu'elle déserte, déclarant qu'elle n'est plus sa fille mais une traîtresse. Architecte de la flotte qui tentera de glorifier l'Empire à Jakku, il meurt lors de la bataille finale quand sa flotte est anéantie par la Nouvelle République. Figure paternelle toxique illustrant comment l'idéologie impériale dévore jusqu'aux liens familiaux. Antagoniste principal de la campagne solo de Battlefront II.
 
 ## Relations
 - Famille : [[Iden Versio]] (fille), [[Zay Versio]] (petite-fille)

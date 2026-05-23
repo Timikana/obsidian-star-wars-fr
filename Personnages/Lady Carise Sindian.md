@@ -21,7 +21,7 @@ tags: [personnage, senateur, centristes]
 > <span style="color:#B71C1C">█</span> **Rouge Premier Ordre** — sénatrice Centriste aristocrate, complice secrète du Premier Ordre.
 
 ## Résumé
-Noble d'Arkanis, sénatrice Centriste qui révèle publiquement la filiation de Leia avec [[Dark Vador]]. Soutient secrètement le Premier Ordre et fait emprisonner [[Casterfo]].
+Aristocrate d'Arkanis obsédée par les titres, les protocoles nobiliaires et la grandeur perdue de l'Empire, qu'elle considère comme l'âge d'or de l'ordre galactique. Sénatrice Centriste apparemment loyale à la Nouvelle République, elle entretient secrètement des liens étroits avec le Premier Ordre naissant, transmettant informations et soutien à [[Snoke]] et ses agents. Manipulatrice glaciale, elle se sert de la confiance que [[Leia Organa]] lui accorde pour découvrir le secret de sa filiation avec [[Dark Vador]], qu'elle révèle publiquement pour briser sa carrière politique. Elle orchestre l'arrestation de [[Casterfo]] en l'accusant injustement d'avoir orchestré le massacre de Hosnian Prime. Son sens du devoir aristocratique se retourne finalement contre elle : Leia la fait déchoir de son titre honorifique d'Élu-Reine d'Arkanis selon les anciennes lois nobiliaires qu'elle vénère, ruinant son existence sociale. Personnage incarnant la nostalgie toxique de l'autoritarisme impérial dans la haute société de la Nouvelle République. Antagoniste majeure du roman Bloodline.
 
 ## Relations
 - Ennemis : [[Leia Organa]], [[Casterfo]]
