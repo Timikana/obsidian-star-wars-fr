@@ -13,7 +13,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
-tags: [personnage, sith, dathomir, zabrak, darksaber]
+tags: [personnage, sith, dathomir, zabrak, darksaber, clone-wars, empire]
 ---
 
 # Dark Maul

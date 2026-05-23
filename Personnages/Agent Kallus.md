@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, isb, rebellion, fulcrum, defection]
+tags: [personnage, isb, rebellion, fulcrum, defection, empire]
 ---
 
 # Agent Kallus

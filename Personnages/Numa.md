@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, twilek, ryloth, rebellion]
+tags: [personnage, twilek, ryloth, rebellion, clone-wars, empire]
 ---
 
 # Numa

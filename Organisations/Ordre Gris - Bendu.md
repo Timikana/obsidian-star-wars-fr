@@ -8,7 +8,7 @@ couleur_hex: "#90A4AE"
 cssclasses:
   - org-gris
 epoque_active: Toutes époques (marginal)
-tags: [organisation, force, neutralite, bendu, jedi-gris, philosophie]
+tags: [organisation, force, neutralite, bendu, jedi-gris, philosophie, sequels]
 ---
 
 # Ordre Gris / Bendu

@@ -13,7 +13,7 @@ couleur: droide
 couleur_hex: "#90A4AE"
 cssclasses:
   - perso-droide
-tags: [personnage, droide, astromecano, assassin, aphra]
+tags: [personnage, droide, astromecano, assassin, aphra, empire]
 ---
 
 # BT-1

@@ -9,7 +9,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [evenement, bataille, guerre-des-clones]
+tags: [evenement, bataille, guerre-des-clones, clone-wars]
 ---
 
 # Bataille de Geonosis

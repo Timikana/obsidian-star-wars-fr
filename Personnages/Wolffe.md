@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, commandant, "104", wolfpack]
+tags: [personnage, clone, commandant, 104, wolfpack, clone-wars, empire]
 ---
 
 # Wolffe

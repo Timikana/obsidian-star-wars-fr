@@ -13,7 +13,7 @@ couleur: droide
 couleur_hex: "#90A4AE"
 cssclasses:
   - perso-droide
-tags: [personnage, droide, andor, ferrix]
+tags: [personnage, droide, andor, ferrix, empire]
 ---
 
 # B2EMO

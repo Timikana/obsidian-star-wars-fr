@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, jedi, talz]
+tags: [personnage, jedi, talz, clone-wars]
 ---
 
 # Foul Moudama

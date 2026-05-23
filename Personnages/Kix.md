@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, "501", medic]
+tags: [personnage, clone, 501, medic, clone-wars, empire]
 ---
 
 # Kix

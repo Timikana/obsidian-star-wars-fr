@@ -9,7 +9,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - vaisseau-republique
-tags: [vaisseau, bad-batch, clone-force-99, omicron, cargo-assault]
+tags: [vaisseau, bad-batch, clone-force-99, omicron, cargo-assault, clone-wars, empire]
 ---
 
 # Marauder (Havoc Marauder)

@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, resistance, mecanicienne]
+tags: [personnage, resistance, mecanicienne, sequels]
 ---
 
 # Rose Tico

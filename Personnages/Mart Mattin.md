@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, iron-squadron, neveu-commander-sato]
+tags: [personnage, rebellion, iron-squadron, neveu-commander-sato, empire]
 ---
 
 # Mart Mattin

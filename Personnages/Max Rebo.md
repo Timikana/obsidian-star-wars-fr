@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, ortolan, musicien, jabba]
+tags: [personnage, ortolan, musicien, jabba, empire]
 ---
 
 # Max Rebo

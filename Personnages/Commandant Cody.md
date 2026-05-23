@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, commandant, "212"]
+tags: [personnage, clone, commandant, 212, clone-wars, empire]
 ---
 
 # Commandant Cody

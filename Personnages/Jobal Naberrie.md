@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, humaine, naboo, famille-naberrie]
+tags: [personnage, humaine, naboo, famille-naberrie, empire]
 ---
 
 # Jobal Naberrie

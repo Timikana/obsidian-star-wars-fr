@@ -9,7 +9,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [evenement, bataille, guerre-des-clones, mandalore]
+tags: [evenement, bataille, guerre-des-clones, mandalore, clone-wars]
 ---
 
 # Siège de Mandalore

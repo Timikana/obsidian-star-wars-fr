@@ -13,7 +13,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
-tags: [personnage, legendes, jedi-dechu, weequay, vaapad]
+tags: [personnage, legendes, jedi-dechu, weequay, vaapad, clone-wars]
 ---
 
 # Sora Bulq

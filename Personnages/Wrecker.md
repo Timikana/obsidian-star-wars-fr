@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, bad-batch, force-brute]
+tags: [personnage, clone, bad-batch, force-brute, clone-wars, empire]
 ---
 
 # Wrecker

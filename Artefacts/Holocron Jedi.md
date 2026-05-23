@@ -7,7 +7,7 @@ couleur: jedi
 couleur_hex: "#2196F3"
 cssclasses:
   - artefact-jedi
-tags: [artefact, holocron, jedi, savoir]
+tags: [artefact, holocron, jedi, savoir, empire]
 ---
 
 # Holocron Jedi

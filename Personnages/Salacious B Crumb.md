@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, kowakian, jabba, bouffon]
+tags: [personnage, kowakian, jabba, bouffon, empire]
 ---
 
 # Salacious B. Crumb

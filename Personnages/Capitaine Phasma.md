@@ -13,7 +13,7 @@ couleur: premier-ordre
 couleur_hex: "#D32F2F"
 cssclasses:
   - perso-premier-ordre
-tags: [personnage, premier-ordre, capitaine, chrome]
+tags: [personnage, premier-ordre, capitaine, chrome, sequels]
 ---
 
 # Capitaine Phasma

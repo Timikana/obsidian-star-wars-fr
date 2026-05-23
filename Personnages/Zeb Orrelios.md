@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, lasat, rebellion, spectres]
+tags: [personnage, lasat, rebellion, spectres, empire]
 ---
 
 # Zeb Orrelios

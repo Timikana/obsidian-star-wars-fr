@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, twilek, esclave, jabba]
+tags: [personnage, twilek, esclave, jabba, empire]
 ---
 
 # Oola

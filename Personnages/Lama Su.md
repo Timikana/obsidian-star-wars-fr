@@ -13,7 +13,7 @@ couleur: prime
 couleur_hex: "#5D4037"
 cssclasses:
   - perso-prime
-tags: [personnage, kaminoen, prime, clones]
+tags: [personnage, kaminoen, prime, clones, empire]
 ---
 
 # Lama Su

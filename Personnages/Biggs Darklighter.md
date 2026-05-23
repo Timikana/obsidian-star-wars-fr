@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, pilote, tatooine]
+tags: [personnage, rebellion, pilote, tatooine, empire, trilogie-originale]
 ---
 
 # Biggs Darklighter

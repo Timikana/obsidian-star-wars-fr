@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, mon-calamari, resistance, canon]
+tags: [personnage, mon-calamari, resistance, canon, sequels]
 ---
 
 # Bey'wan Aygo

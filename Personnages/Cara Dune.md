@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, alderaan, marshal, shock-trooper]
+tags: [personnage, rebellion, alderaan, marshal, shock-trooper, empire]
 ---
 
 # Cara Dune

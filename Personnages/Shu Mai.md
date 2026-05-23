@@ -13,7 +13,7 @@ couleur: cis
 couleur_hex: "#1976D2"
 cssclasses:
   - perso-cis
-tags: [personnage, separatiste, gossam, commerce-guild, cis]
+tags: [personnage, separatiste, gossam, commerce-guild, cis, clone-wars]
 ---
 
 # Shu Mai

@@ -13,7 +13,7 @@ couleur: droide
 couleur_hex: "#90A4AE"
 cssclasses:
   - perso-droide
-tags: [personnage, droide, chasseur-primes]
+tags: [personnage, droide, chasseur-primes, empire, trilogie-originale]
 ---
 
 # 4-LOM

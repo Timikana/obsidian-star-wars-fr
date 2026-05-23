@@ -13,7 +13,7 @@ couleur: prime
 couleur_hex: "#5D4037"
 cssclasses:
   - perso-prime
-tags: [personnage, contrebandier, mentor, han]
+tags: [personnage, contrebandier, mentor, han, empire]
 ---
 
 # Tobias Beckett

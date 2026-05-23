@@ -1,0 +1,156 @@
+---
+title: Époque — Trilogie Originale / Guerre Civile Galactique
+type: epoque
+epoque: Trilogie Originale
+periode: "0 BBY → 4 ABY"
+couleur: rebellion
+couleur_hex: "#FF5722"
+cssclasses:
+  - perso-rebellion
+tags: [epoque, trilogie-originale, rebellion, guerre-civile-galactique, moc-epoque]
+---
+
+# Époque — Trilogie Originale
+
+> [!color] Orange rebelle
+> <span style="color:#FF5722">█</span> **Guerre Civile Galactique** — du vol des plans de l'[[Etoile de la Mort]] à la chute de [[Anakin Skywalker|Dark Vador]] et de l'[[Dark Sidious|Empereur]] sur la [[Etoile de la Mort II|seconde Étoile de la Mort]].
+
+## Résumé
+Quatre années qui scellent le destin de la galaxie (0 BBY → 4 ABY). [[Luke Skywalker]] quitte [[Tatooine]] après le meurtre de [[Owen Lars|son oncle]] et [[Beru Lars|sa tante]], rejoint l'[[Alliance Rebelle]] avec [[Han Solo]], [[Chewbacca]], [[Leia Organa]] et les droïdes [[R2-D2]] et [[C-3PO]]. La [[Bataille de Yavin]] détruit la [[Etoile de la Mort]]. [[Anakin Skywalker|Dark Vador]] traque les Rebelles : [[Bataille de Hoth]], [[Bespin]], révélation paternelle. La [[Bataille d'Endor]] voit [[Anakin Skywalker]] redevenir lui-même, tuer [[Dark Sidious|Palpatine]] et accomplir la prophétie. Naissance de la [[Nouvelle République]].
+
+## Personnages
+- [[Amiral Ackbar]]
+- [[Amiral Ozzel]]
+- [[Amiral Piett]]
+- [[Amiral Raddus]]
+- [[Anakin Skywalker]]
+- [[Bail Organa]]
+- [[Baze Malbus]]
+- [[Beilert Valance]]
+- [[Biggs Darklighter]]
+- [[Black Krrsantan]]
+- [[Bodhi Rook]]
+- [[Borsk Fey'lya]]
+- [[Boba Fett]]
+- [[C-3PO]]
+- [[Capitaine Needa]]
+- [[Captain Bren Derlin]]
+- [[Cassian Andor]]
+- [[Caluan Ematt]]
+- [[Carnor Jax]]
+- [[Chewbacca]]
+- [[Chief Chirpa]]
+- [[Chirrut Imwe]]
+- [[Dark Sidious]]
+- [[Davits Draven]]
+- [[Del Meeko]]
+- [[Dengar]]
+- [[Doctor Aphra]]
+- [[Ezra Bridger]]
+- [[Garm Bel Iblis]]
+- [[Garrick Versio]]
+- [[General Carlist Rieekan]]
+- [[General Crix Madine]]
+- [[General Dodonna]]
+- [[General Veers]]
+- [[Greedo]]
+- [[Han Solo]]
+- [[Hask]]
+- [[Hera Syndulla]]
+- [[Iden Versio]]
+- [[Jan Ors]]
+- [[Jyn Erso]]
+- [[Ketsu Onyo]]
+- [[Kir Kanos]]
+- [[Lando Calrissian]]
+- [[Leia Organa]]
+- [[Logray]]
+- [[Luke Skywalker]]
+- [[Maz Kanata]]
+- [[Melshi]]
+- [[Mon Mothma]]
+- [[Mart Mattin]]
+- [[Naare]]
+- [[Nien Nunb]]
+- [[Norra Wexley]]
+- [[Numa]]
+- [[Plourr Ilo]]
+- [[Sabine Wren]]
+- [[Sana Starros]]
+- [[Saw Gerrera]]
+- [[Shriv Suurgav]]
+- [[Sinjir Rath Velus]]
+- [[Tagge]]
+- [[Tristan Wren]]
+- [[Trios]]
+- [[Tycho Celchu]]
+- [[Ursa Wren]]
+- [[Voss Parck]]
+- [[Wedge Antilles]]
+- [[Wicket]]
+- [[Yoda]]
+- [[Zeb Orrelios]]
+
+## Planètes
+- [[Tatooine]]
+- [[Yavin 4]]
+- [[Alderaan]]
+- [[Hoth]]
+- [[Dagobah]]
+- [[Bespin]]
+- [[Endor]]
+- [[Scarif]]
+- [[Mon Cala]]
+- [[Sullust]]
+- [[Jedha]]
+
+## Vaisseaux
+- [[Etoile de la Mort]]
+- [[Etoile de la Mort II]]
+- [[Executor]]
+- [[Devastator]]
+- [[Star Destroyer]]
+- [[Imperial Shuttle Tydirium]]
+- [[Lambda Shuttle]]
+- [[Imperial Light Cruiser]]
+- [[TIE Fighter]]
+- [[TIE Bomber]]
+- [[TIE Interceptor]]
+- [[AT-AT]]
+- [[AT-ST]]
+- [[Faucon Millenium]]
+- [[Tantive IV]]
+- [[X-Wing]]
+- [[Y-Wing]]
+- [[A-Wing]]
+- [[B-Wing]]
+- [[U-Wing]]
+- [[Home One]]
+- [[Profundity]]
+- [[Mon Calamari Star Cruiser]]
+- [[Hammerhead Corvette]]
+- [[CR90 Corvette]]
+- [[Slave I]]
+- [[Outrider]]
+- [[Lusankya]]
+
+## Évènements
+- [[Bataille de Scarif]]
+- [[Destruction d'Alderaan]]
+- [[Bataille de Yavin]]
+- [[Bataille de Hoth]]
+- [[Bataille d'Endor]]
+- [[Bataille de Coruscant (3 ABY)]]
+
+## Organisations
+- [[Alliance Rebelle]]
+- [[Empire galactique]]
+- [[Ordre Sith]]
+- [[Hutt Cartel]]
+- [[Bounty Hunter Guild]]
+- [[Black Sun]]
+- [[Crimson Dawn]]
+
+## Artefacts
+- [[Sabre d'Anakin-Luke]]
+- [[Casque de Vader]]

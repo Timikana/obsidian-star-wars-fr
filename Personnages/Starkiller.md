@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, legendes, force-unleashed, sith, jedi]
+tags: [personnage, legendes, force-unleashed, sith, jedi, empire]
 ---
 
 # Starkiller / Galen Marek

@@ -13,7 +13,7 @@ couleur: orange
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-orange
-tags: [personnage, anzellan, droidsmith]
+tags: [personnage, anzellan, droidsmith, sequels]
 ---
 
 # Babu Frik

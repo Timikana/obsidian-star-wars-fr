@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, jedi, kel-dor, conseil]
+tags: [personnage, jedi, kel-dor, conseil, clone-wars]
 ---
 
 # Plo Koon

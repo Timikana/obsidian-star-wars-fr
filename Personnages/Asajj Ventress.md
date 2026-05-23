@@ -13,7 +13,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
-tags: [personnage, sith-acolyte, dathomir, sorciere, primes]
+tags: [personnage, sith-acolyte, dathomir, sorciere, primes, clone-wars]
 ---
 
 # Asajj Ventress

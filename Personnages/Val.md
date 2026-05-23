@@ -13,7 +13,7 @@ couleur: orange
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-orange
-tags: [personnage, contrebandier]
+tags: [personnage, contrebandier, empire]
 ---
 
 # Val

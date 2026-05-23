@@ -13,7 +13,7 @@ couleur: vert
 couleur_hex: "#4CAF50"
 cssclasses:
   - perso-vert
-tags: [personnage, jedi, lannik, conseil]
+tags: [personnage, jedi, lannik, conseil, clone-wars]
 ---
 
 # Even Piell

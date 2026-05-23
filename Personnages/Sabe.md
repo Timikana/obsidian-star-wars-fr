@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, naboo, doublure, garde-royale]
+tags: [personnage, naboo, doublure, garde-royale, empire]
 ---
 
 # Sabé

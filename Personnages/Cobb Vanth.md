@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, marshal, tatooine, mandalorian]
+tags: [personnage, marshal, tatooine, mandalorian, empire]
 ---
 
 # Cobb Vanth

@@ -9,7 +9,7 @@ couleur: sith
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
-tags: [evenement, bataille, rebels, sith]
+tags: [evenement, bataille, rebels, sith, empire]
 ---
 
 # Mission de Malachor

@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, droide, protocole, dore]
+tags: [personnage, droide, protocole, dore, clone-wars, empire, sequels]
 ---
 
 # C-3PO

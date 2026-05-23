@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, arc, "501", puces-inhibitrices]
+tags: [personnage, clone, arc, 501, puces-inhibitrices, clone-wars]
 ---
 
 # Fives

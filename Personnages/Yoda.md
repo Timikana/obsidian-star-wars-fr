@@ -13,7 +13,7 @@ couleur: vert
 couleur_hex: "#4CAF50"
 cssclasses:
   - perso-vert
-tags: [personnage, jedi, grand-maitre, dagobah]
+tags: [personnage, jedi, grand-maitre, dagobah, clone-wars, empire]
 ---
 
 # Yoda

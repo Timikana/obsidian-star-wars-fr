@@ -13,7 +13,7 @@ couleur: droide
 couleur_hex: "#90A4AE"
 cssclasses:
   - perso-droide
-tags: [personnage, legendes, droide, force-unleashed]
+tags: [personnage, legendes, droide, force-unleashed, empire]
 ---
 
 # PROXY

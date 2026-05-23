@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, resistance, tarsunt]
+tags: [personnage, resistance, tarsunt, sequels]
 ---
 
 # Vober Dand

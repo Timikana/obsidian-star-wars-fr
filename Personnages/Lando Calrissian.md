@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, contrebandier, bespin]
+tags: [personnage, rebellion, contrebandier, bespin, empire, sequels]
 ---
 
 # Lando Calrissian

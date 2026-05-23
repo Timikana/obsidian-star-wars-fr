@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, lieutenant, coruscant-guard]
+tags: [personnage, clone, lieutenant, coruscant-guard, clone-wars]
 ---
 
 # Commandant Thire

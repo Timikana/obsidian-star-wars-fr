@@ -13,7 +13,7 @@ couleur: wookiee
 couleur_hex: "#8D6E63"
 cssclasses:
   - perso-wookiee
-tags: [personnage, wookiee, kashyyyk, rebellion, faucon]
+tags: [personnage, wookiee, kashyyyk, rebellion, faucon, clone-wars, empire, sequels]
 ---
 
 # Chewbacca

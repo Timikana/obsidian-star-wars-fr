@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, archeologue, comics, aphra]
+tags: [personnage, archeologue, comics, aphra, empire]
 ---
 
 # Doctor Aphra

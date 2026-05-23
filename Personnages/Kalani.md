@@ -13,7 +13,7 @@ couleur: cis
 couleur_hex: "#1976D2"
 cssclasses:
   - perso-cis
-tags: [personnage, droide, super-tactical-droid, cis, agamar, rebels]
+tags: [personnage, droide, super-tactical-droid, cis, agamar, rebels, clone-wars, empire]
 ---
 
 # Général Kalani

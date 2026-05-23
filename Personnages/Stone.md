@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, commandant, coruscant-guard]
+tags: [personnage, clone, commandant, coruscant-guard, clone-wars]
 ---
 
 # Commandant Stone

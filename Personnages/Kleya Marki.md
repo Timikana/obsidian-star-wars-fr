@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, andor, espionne]
+tags: [personnage, rebellion, andor, espionne, empire]
 ---
 
 # Kleya Marki

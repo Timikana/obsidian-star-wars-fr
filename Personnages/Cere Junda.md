@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, jedi, fallen-order, survivant, hidden-path]
+tags: [personnage, jedi, fallen-order, survivant, hidden-path, empire]
 ---
 
 # Cere Junda

@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, chagrian, palpatine]
+tags: [personnage, chagrian, palpatine, clone-wars, empire]
 ---
 
 # Mas Amedda

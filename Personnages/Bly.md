@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, commandant, felucia]
+tags: [personnage, clone, commandant, felucia, clone-wars]
 ---
 
 # Bly

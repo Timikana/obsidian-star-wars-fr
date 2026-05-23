@@ -9,7 +9,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [evenement, bataille, rebels, thrawn]
+tags: [evenement, bataille, rebels, thrawn, empire]
 ---
 
 # Bataille d'Atollon

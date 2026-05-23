@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, kaminoenne, clones, scientifique]
+tags: [personnage, kaminoenne, clones, scientifique, clone-wars, empire]
 ---
 
 # Nala Se

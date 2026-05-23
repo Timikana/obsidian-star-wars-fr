@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, bad-batch, sergeant]
+tags: [personnage, clone, bad-batch, sergeant, clone-wars, empire]
 ---
 
 # Hunter

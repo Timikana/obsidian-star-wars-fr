@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, andor, manifeste, ideologue]
+tags: [personnage, andor, manifeste, ideologue, empire]
 ---
 
 # Karis Nemik

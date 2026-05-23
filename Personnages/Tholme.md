@@ -13,7 +13,7 @@ couleur: vert
 couleur_hex: "#4CAF50"
 cssclasses:
   - perso-vert
-tags: [personnage, jedi, shadow, espion, legendes]
+tags: [personnage, jedi, shadow, espion, legendes, clone-wars]
 ---
 
 # Maître Tholme

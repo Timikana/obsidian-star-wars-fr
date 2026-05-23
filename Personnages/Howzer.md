@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, clone, ryloth, deserteur]
+tags: [personnage, clone, ryloth, deserteur, empire]
 ---
 
 # Howzer

@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, hutt, fils-jabba]
+tags: [personnage, hutt, fils-jabba, clone-wars]
 ---
 
 # Rotta the Hutt

@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, lothal, pere-ezra]
+tags: [personnage, lothal, pere-ezra, empire]
 ---
 
 # Ephraim Bridger

@@ -13,7 +13,7 @@ couleur: mandalorien
 couleur_hex: "#4FC3F7"
 cssclasses:
   - perso-mandalorien
-tags: [personnage, mandalorien, wren]
+tags: [personnage, mandalorien, wren, empire]
 ---
 
 # Tristan Wren

@@ -13,7 +13,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
-tags: [personnage, legendes, sith, empereur, dark-empire, clone]
+tags: [personnage, legendes, sith, empereur, dark-empire, clone, empire]
 ---
 
 # Empereur Clone

@@ -13,7 +13,7 @@ couleur: noir
 couleur_hex: "#212121"
 cssclasses:
   - perso-noir
-tags: [personnage, mandalorien, rebellion, padawan-ahsoka, artiste]
+tags: [personnage, mandalorien, rebellion, padawan-ahsoka, artiste, empire]
 ---
 
 # Sabine Wren

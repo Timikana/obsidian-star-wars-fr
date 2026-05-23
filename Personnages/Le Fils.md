@@ -13,7 +13,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
-tags: [personnage, mortis, force-wielder, cote-obscur]
+tags: [personnage, mortis, force-wielder, cote-obscur, clone-wars]
 ---
 
 # Le Fils

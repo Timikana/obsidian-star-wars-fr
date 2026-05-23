@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, commandant, coruscant-guard, shock-trooper]
+tags: [personnage, clone, commandant, coruscant-guard, shock-trooper, clone-wars]
 ---
 
 # Commandant Fox

@@ -13,7 +13,7 @@ couleur: mandalorien
 couleur_hex: "#4FC3F7"
 cssclasses:
   - perso-mandalorien
-tags: [personnage, mandalorien, kryze, pacifiste, mandalor]
+tags: [personnage, mandalorien, kryze, pacifiste, mandalor, clone-wars]
 ---
 
 # Satine Kryze

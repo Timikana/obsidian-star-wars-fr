@@ -13,7 +13,7 @@ couleur: sith
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
-tags: [personnage, sith-eternal, assassin]
+tags: [personnage, sith-eternal, assassin, empire]
 ---
 
 # Ochi de Bestoon

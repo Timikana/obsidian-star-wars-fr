@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, andor, ferrix, martyr]
+tags: [personnage, andor, ferrix, martyr, empire]
 ---
 
 # Salman Paak

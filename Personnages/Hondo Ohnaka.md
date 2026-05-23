@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, pirate, weequay, florrum]
+tags: [personnage, pirate, weequay, florrum, clone-wars, empire]
 ---
 
 # Hondo Ohnaka

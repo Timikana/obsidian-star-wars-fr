@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, andor, ghorman]
+tags: [personnage, rebellion, andor, ghorman, empire]
 ---
 
 # Cinta Kaz

@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, contrebandier, corellien]
+tags: [personnage, rebellion, contrebandier, corellien, empire, sequels]
 ---
 
 # Han Solo

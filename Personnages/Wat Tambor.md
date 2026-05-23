@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, skakoan, separatistes, techno-union]
+tags: [personnage, skakoan, separatistes, techno-union, clone-wars]
 ---
 
 # Wat Tambor

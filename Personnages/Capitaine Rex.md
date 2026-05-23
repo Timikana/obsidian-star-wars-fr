@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, clone, capitaine, "501", rebellion]
+tags: [personnage, clone, capitaine, 501, rebellion, clone-wars, empire]
 ---
 
 # Capitaine Rex

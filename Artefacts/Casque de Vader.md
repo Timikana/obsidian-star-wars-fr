@@ -8,7 +8,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - artefact-rouge
-tags: [artefact, vador, sith, relique]
+tags: [artefact, vador, sith, relique, empire, sequels]
 ---
 
 # Casque de Vader

@@ -13,7 +13,7 @@ couleur: orange
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-orange
-tags: [personnage, ardennien, contrebandier]
+tags: [personnage, ardennien, contrebandier, empire]
 ---
 
 # Rio Durant

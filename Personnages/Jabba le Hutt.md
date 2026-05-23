@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, hutt, criminel, tatooine]
+tags: [personnage, hutt, criminel, tatooine, clone-wars, empire]
 ---
 
 # Jabba le Hutt

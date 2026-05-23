@@ -13,7 +13,7 @@ couleur: mandalorien
 couleur_hex: "#4FC3F7"
 cssclasses:
   - perso-mandalorien
-tags: [personnage, mandalorien, kryze]
+tags: [personnage, mandalorien, kryze, clone-wars]
 ---
 
 # Korkie Kryze

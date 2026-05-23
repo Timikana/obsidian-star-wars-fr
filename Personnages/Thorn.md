@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, commandant, coruscant-guard, scipio]
+tags: [personnage, clone, commandant, coruscant-guard, scipio, clone-wars]
 ---
 
 # Commandant Thorn

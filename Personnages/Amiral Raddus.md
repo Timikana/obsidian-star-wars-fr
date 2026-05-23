@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, mon-calamari, amiral, scarif]
+tags: [personnage, rebellion, mon-calamari, amiral, scarif, empire, trilogie-originale]
 ---
 
 # Amiral Raddus

@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, senateur, chandrila, fondatrice-alliance]
+tags: [personnage, rebellion, senateur, chandrila, fondatrice-alliance, clone-wars, empire]
 ---
 
 # Mon Mothma

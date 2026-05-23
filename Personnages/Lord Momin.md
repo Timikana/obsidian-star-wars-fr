@@ -13,7 +13,7 @@ couleur: sith
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
-tags: [personnage, canon, sith, esprit, comics]
+tags: [personnage, canon, sith, esprit, comics, empire]
 ---
 
 # Lord Momin

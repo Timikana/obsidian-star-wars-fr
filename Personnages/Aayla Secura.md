@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, jedi, twilek]
+tags: [personnage, jedi, twilek, prelogie, clone-wars]
 ---
 
 # Aayla Secura

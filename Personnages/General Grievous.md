@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, cyborg, separatistes, kaleesh, sabres-voles]
+tags: [personnage, cyborg, separatistes, kaleesh, sabres-voles, clone-wars]
 ---
 
 # Général Grievous

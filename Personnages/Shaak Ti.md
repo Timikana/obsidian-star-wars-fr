@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, jedi, togruta, conseil, kamino]
+tags: [personnage, jedi, togruta, conseil, kamino, clone-wars]
 ---
 
 # Shaak Ti

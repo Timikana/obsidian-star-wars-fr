@@ -13,7 +13,7 @@ couleur: cis
 couleur_hex: "#1976D2"
 cssclasses:
   - perso-cis
-tags: [personnage, droide, tactical-droid, cis]
+tags: [personnage, droide, tactical-droid, cis, clone-wars]
 ---
 
 # Aut-O

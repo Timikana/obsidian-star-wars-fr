@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, pantoran, pirate-archeologue, bad-batch]
+tags: [personnage, pantoran, pirate-archeologue, bad-batch, empire]
 ---
 
 # Phee Genoa

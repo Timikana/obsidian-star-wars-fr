@@ -13,7 +13,7 @@ couleur: prime
 couleur_hex: "#5D4037"
 cssclasses:
   - perso-prime
-tags: [personnage, chasseur-primes, mandalorien, clone, daimyo]
+tags: [personnage, chasseur-primes, mandalorien, clone, daimyo, prelogie, clone-wars, empire, trilogie-originale, nouvelle-republique]
 ---
 
 # Boba Fett

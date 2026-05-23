@@ -13,7 +13,7 @@ couleur: prime
 couleur_hex: "#5D4037"
 cssclasses:
   - perso-prime
-tags: [personnage, chasseur-primes, trandoshan]
+tags: [personnage, chasseur-primes, trandoshan, clone-wars, empire]
 ---
 
 # Bossk

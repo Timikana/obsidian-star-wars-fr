@@ -13,7 +13,7 @@ couleur: contrebandier
 couleur_hex: "#FFB74D"
 cssclasses:
   - perso-contrebandier
-tags: [personnage, tatooine, mecanicienne, mos-eisley, nouvelle-republique]
+tags: [personnage, tatooine, mecanicienne, mos-eisley, nouvelle-republique, empire]
 ---
 
 # Peli Motto

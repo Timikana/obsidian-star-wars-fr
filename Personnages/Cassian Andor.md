@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, espion, andor, kenari]
+tags: [personnage, rebellion, espion, andor, kenari, empire]
 ---
 
 # Cassian Andor

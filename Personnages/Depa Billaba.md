@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, jedi, conseil, vaapad]
+tags: [personnage, jedi, conseil, vaapad, clone-wars]
 ---
 
 # Depa Billaba

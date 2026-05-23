@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, phoenix, commander]
+tags: [personnage, rebellion, phoenix, commander, empire]
 ---
 
 # Jun Sato

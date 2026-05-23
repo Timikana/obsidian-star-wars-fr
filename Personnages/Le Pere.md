@@ -13,7 +13,7 @@ couleur: jedi
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
-tags: [personnage, mortis, force-wielder, equilibre]
+tags: [personnage, mortis, force-wielder, equilibre, clone-wars]
 ---
 
 # Le Père

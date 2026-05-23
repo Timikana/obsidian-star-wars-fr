@@ -13,7 +13,7 @@ couleur: vert
 couleur_hex: "#4CAF50"
 cssclasses:
   - perso-vert
-tags: [personnage, jedi, lothal, spectres, padawan]
+tags: [personnage, jedi, lothal, spectres, padawan, empire]
 ---
 
 # Ezra Bridger

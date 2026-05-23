@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, rodien, mos-eisley]
+tags: [personnage, rodien, mos-eisley, empire]
 ---
 
 # Greedo

@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, empire, amiral, executor]
+tags: [personnage, empire, amiral, executor, trilogie-originale]
 ---
 
 # Amiral Ozzel

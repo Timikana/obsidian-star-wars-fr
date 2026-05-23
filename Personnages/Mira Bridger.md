@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, lothal, mere-ezra]
+tags: [personnage, lothal, mere-ezra, empire]
 ---
 
 # Mira Bridger

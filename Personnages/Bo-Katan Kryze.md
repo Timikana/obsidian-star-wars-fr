@@ -13,7 +13,7 @@ couleur: noir
 couleur_hex: "#212121"
 cssclasses:
   - perso-noir
-tags: [personnage, mandalorien, darksaber, kryze, mandalor]
+tags: [personnage, mandalorien, darksaber, kryze, mandalor, clone-wars, empire, nouvelle-republique, mandalorian]
 ---
 
 # Bo-Katan Kryze

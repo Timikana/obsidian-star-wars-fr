@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, palowick, musicienne, jabba]
+tags: [personnage, palowick, musicienne, jabba, clone-wars, empire]
 ---
 
 # Sy Snootles

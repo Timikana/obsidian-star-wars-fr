@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, resistance, capitaine, colossus]
+tags: [personnage, resistance, capitaine, colossus, sequels]
 ---
 
 # Capitaine Doza

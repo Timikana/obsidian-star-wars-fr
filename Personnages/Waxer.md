@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, "212", ryloth]
+tags: [personnage, clone, 212, ryloth, clone-wars]
 ---
 
 

@@ -13,7 +13,7 @@ couleur: jedi
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
-tags: [personnage, force, jedha, gardiens-whills, aveugle]
+tags: [personnage, force, jedha, gardiens-whills, aveugle, empire]
 ---
 
 # Chirrut Îmwe

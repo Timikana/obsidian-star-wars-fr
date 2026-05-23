@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, andor, ferrix, mere-adoptive]
+tags: [personnage, andor, ferrix, mere-adoptive, empire]
 ---
 
 # Maarva Andor

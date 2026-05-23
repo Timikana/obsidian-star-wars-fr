@@ -13,7 +13,7 @@ couleur: wookiee
 couleur_hex: "#8D6E63"
 cssclasses:
   - perso-wookiee
-tags: [personnage, wookiee, chasseur-primes, gladiateur]
+tags: [personnage, wookiee, chasseur-primes, gladiateur, empire]
 ---
 
 # Black Krrsantan

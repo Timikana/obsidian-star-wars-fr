@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, jedi, republique, exil]
+tags: [personnage, jedi, republique, exil, clone-wars, empire]
 ---
 
 # Obi-Wan Kenobi

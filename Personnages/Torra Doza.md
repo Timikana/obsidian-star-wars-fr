@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, resistance, pilote, aces]
+tags: [personnage, resistance, pilote, aces, sequels]
 ---
 
 # Torra Doza

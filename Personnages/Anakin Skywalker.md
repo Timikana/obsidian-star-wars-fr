@@ -13,7 +13,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
-tags: [personnage, sith, jedi, skywalker, elu]
+tags: [personnage, sith, jedi, skywalker, elu, prelogie, clone-wars, empire, trilogie-originale]
 ---
 
 # Anakin Skywalker / Dark Vador

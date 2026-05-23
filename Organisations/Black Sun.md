@@ -6,7 +6,7 @@ couleur: pegre
 couleur_hex: "#6D4C41"
 cssclasses:
   - org-pegre
-tags: [organisation, pegre, syndicat, criminel]
+tags: [organisation, pegre, syndicat, criminel, empire]
 ---
 
 # Black Sun

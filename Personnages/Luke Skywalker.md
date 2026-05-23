@@ -13,7 +13,7 @@ couleur: vert
 couleur_hex: "#4CAF50"
 cssclasses:
   - perso-vert
-tags: [personnage, jedi, skywalker, rebellion]
+tags: [personnage, jedi, skywalker, rebellion, empire, sequels]
 ---
 
 # Luke Skywalker

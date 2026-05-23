@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, duros, pilote]
+tags: [personnage, duros, pilote, sequels]
 ---
 
 # Shriv Suurgav

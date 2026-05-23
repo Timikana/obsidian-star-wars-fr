@@ -13,7 +13,7 @@ couleur: sith
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
-tags: [personnage, sith, empereur-eternel, swtor, legendes]
+tags: [personnage, sith, empereur-eternel, swtor, legendes, empire]
 ---
 
 # Valkorion

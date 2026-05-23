@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, general, yavin]
+tags: [personnage, rebellion, general, yavin, empire]
 ---
 
 # Général Dodonna

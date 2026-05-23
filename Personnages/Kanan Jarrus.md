@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, jedi, rebellion, spectres, lothal]
+tags: [personnage, jedi, rebellion, spectres, lothal, clone-wars, empire]
 ---
 
 # Kanan Jarrus

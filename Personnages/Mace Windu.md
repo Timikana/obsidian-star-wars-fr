@@ -13,7 +13,7 @@ couleur: violet
 couleur_hex: "#9C27B0"
 cssclasses:
   - perso-violet
-tags: [personnage, jedi, conseil, vaapad]
+tags: [personnage, jedi, conseil, vaapad, clone-wars]
 ---
 
 # Mace Windu

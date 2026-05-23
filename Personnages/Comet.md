@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, 104th, wolfpack, plo-koon]
+tags: [personnage, clone, 104th, wolfpack, plo-koon, clone-wars]
 ---
 
 # Comet

@@ -13,7 +13,7 @@ couleur: vert
 couleur_hex: "#4CAF50"
 cssclasses:
   - perso-vert
-tags: [personnage, jedi, nautolan, conseil]
+tags: [personnage, jedi, nautolan, conseil, clone-wars]
 ---
 
 # Kit Fisto

@@ -9,7 +9,7 @@ couleur: sith
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
-tags: [evenement, genocide, ordre-66, sith]
+tags: [evenement, genocide, ordre-66, sith, clone-wars]
 ---
 
 # Ordre 66

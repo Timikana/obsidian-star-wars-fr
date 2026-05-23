@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, twilek, resistance]
+tags: [personnage, twilek, resistance, sequels]
 ---
 
 # Hype Fazon

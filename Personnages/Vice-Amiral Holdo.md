@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, resistance, vice-amiral]
+tags: [personnage, resistance, vice-amiral, sequels]
 ---
 
 # Vice-Amiral Holdo

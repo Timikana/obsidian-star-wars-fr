@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, commandant, saleucami, ordre-66, BARC]
+tags: [personnage, clone, commandant, saleucami, ordre-66, BARC, clone-wars]
 ---
 
 # Commandant Neyo

@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, bad-batch, ingenieur]
+tags: [personnage, clone, bad-batch, ingenieur, clone-wars, empire]
 ---
 
 # Tech

@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, alderaan, senateur, fondateur-alliance]
+tags: [personnage, rebellion, alderaan, senateur, fondateur-alliance, prelogie, clone-wars, empire]
 ---
 
 # Bail Organa

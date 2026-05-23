@@ -13,7 +13,7 @@ couleur: cis
 couleur_hex: "#1976D2"
 cssclasses:
   - perso-cis
-tags: [personnage, separatiste, muun, banque, cis]
+tags: [personnage, separatiste, muun, banque, cis, clone-wars]
 ---
 
 # San Hill

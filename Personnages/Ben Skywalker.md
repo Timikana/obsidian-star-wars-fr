@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, legendes, skywalker, jedi]
+tags: [personnage, legendes, skywalker, jedi, nouvelle-republique]
 ---
 
 # Ben Skywalker (Légendes)

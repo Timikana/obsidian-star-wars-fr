@@ -9,7 +9,7 @@ couleur: rebelle
 couleur_hex: "#FF6F00"
 cssclasses:
   - org-rebelle
-tags: [evenement, evasion, andor, rebellion]
+tags: [evenement, evasion, andor, rebellion, empire]
 ---
 
 # Évasion de Narkina-5

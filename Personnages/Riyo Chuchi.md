@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, pantoran, senateur]
+tags: [personnage, pantoran, senateur, clone-wars, empire]
 ---
 
 # Riyo Chuchi

@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, legendes, rebellion, espionne, pilote]
+tags: [personnage, legendes, rebellion, espionne, pilote, empire]
 ---
 
 # Jan Ors

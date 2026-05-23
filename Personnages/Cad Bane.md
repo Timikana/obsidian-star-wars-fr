@@ -13,7 +13,7 @@ couleur: prime
 couleur_hex: "#5D4037"
 cssclasses:
   - perso-prime
-tags: [personnage, chasseur-primes, duros, bad-batch]
+tags: [personnage, chasseur-primes, duros, bad-batch, clone-wars, empire]
 ---
 
 # Cad Bane

@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, empire, etoile-mort, gouverneur, eriadu]
+tags: [personnage, empire, etoile-mort, gouverneur, eriadu, clone-wars]
 ---
 
 # Grand Moff Tarkin

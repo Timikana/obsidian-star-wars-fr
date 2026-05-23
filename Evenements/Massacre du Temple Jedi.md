@@ -9,7 +9,7 @@ couleur: sith
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
-tags: [evenement, massacre, sith, jedi]
+tags: [evenement, massacre, sith, jedi, clone-wars]
 ---
 
 # Massacre du Temple Jedi

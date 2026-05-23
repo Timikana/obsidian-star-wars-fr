@@ -13,7 +13,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
-tags: [personnage, jedi-dechu, inquisitrice, mirialan, redemption]
+tags: [personnage, jedi-dechu, inquisitrice, mirialan, redemption, clone-wars, empire]
 ---
 
 # Barriss Offee

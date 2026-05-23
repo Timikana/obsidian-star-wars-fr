@@ -13,7 +13,7 @@ couleur: jaune
 couleur_hex: "#FFC107"
 cssclasses:
   - perso-jaune
-tags: [personnage, jedi-dechu, besalisk, traitre]
+tags: [personnage, jedi-dechu, besalisk, traitre, clone-wars]
 ---
 
 # Pong Krell

@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, 501st, guerre-des-clones]
+tags: [personnage, clone, 501st, guerre-des-clones, clone-wars]
 ---
 
 # Tucker

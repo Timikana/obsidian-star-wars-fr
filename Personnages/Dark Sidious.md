@@ -13,7 +13,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
-tags: [personnage, sith, empereur, regle-deux]
+tags: [personnage, sith, empereur, regle-deux, clone-wars, empire, sequels]
 ---
 
 # Dark Sidious / Palpatine

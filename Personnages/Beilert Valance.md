@@ -13,7 +13,7 @@ couleur: prime
 couleur_hex: "#5D4037"
 cssclasses:
   - perso-prime
-tags: [personnage, cyborg, chasseur-primes, comics]
+tags: [personnage, cyborg, chasseur-primes, comics, empire]
 ---
 
 # Beilert Valance

@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, cloud-riders, proto-alliance]
+tags: [personnage, rebellion, cloud-riders, proto-alliance, empire]
 ---
 
 # Enfys Nest

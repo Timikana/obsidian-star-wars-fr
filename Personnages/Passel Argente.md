@@ -13,7 +13,7 @@ couleur: cis
 couleur_hex: "#1976D2"
 cssclasses:
   - perso-cis
-tags: [personnage, separatiste, koorivar, corporate-alliance, cis]
+tags: [personnage, separatiste, koorivar, corporate-alliance, cis, clone-wars]
 ---
 
 # Passel Argente

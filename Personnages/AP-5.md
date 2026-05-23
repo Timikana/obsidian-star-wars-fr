@@ -13,7 +13,7 @@ couleur: droide
 couleur_hex: "#90A4AE"
 cssclasses:
   - perso-droide
-tags: [personnage, droide, rebels, alliance]
+tags: [personnage, droide, rebels, alliance, empire]
 ---
 
 # AP-5

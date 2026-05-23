@@ -13,7 +13,7 @@ couleur: orange
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-orange
-tags: [personnage, jedi-dechu, mercenaire, orange, peridea]
+tags: [personnage, jedi-dechu, mercenaire, orange, peridea, empire, nouvelle-republique]
 ---
 
 # Baylan Skoll

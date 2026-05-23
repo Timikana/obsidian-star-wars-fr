@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, mirialan, resistance, pirate]
+tags: [personnage, mirialan, resistance, pirate, sequels]
 ---
 
 # Synara San

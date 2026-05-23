@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, jedi, lasat, fallen-order]
+tags: [personnage, jedi, lasat, fallen-order, clone-wars]
 ---
 
 # Jaro Tapal

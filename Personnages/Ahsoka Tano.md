@@ -13,7 +13,7 @@ couleur: blanc
 couleur_hex: "#ECEFF1"
 cssclasses:
   - perso-blanc
-tags: [personnage, togruta, jedi, fulcrum, ahsoka]
+tags: [personnage, togruta, jedi, fulcrum, ahsoka, clone-wars, empire, nouvelle-republique]
 ---
 
 # Ahsoka Tano

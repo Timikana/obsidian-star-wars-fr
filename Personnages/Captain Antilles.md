@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, canon, rebellion, alderaan]
+tags: [personnage, canon, rebellion, alderaan, empire]
 ---
 
 # Captain Antilles

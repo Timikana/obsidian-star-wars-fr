@@ -13,7 +13,7 @@ couleur: jaune
 couleur_hex: "#FFC107"
 cssclasses:
   - perso-jaune
-tags: [personnage, jedi, palpatine, resistance, skywalker]
+tags: [personnage, jedi, palpatine, resistance, skywalker, sequels]
 ---
 
 # Rey Skywalker

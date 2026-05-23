@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, domino-squad, rishi, shiny]
+tags: [personnage, clone, domino-squad, rishi, shiny, clone-wars]
 ---
 
 # Cutup

@@ -13,7 +13,7 @@ couleur: jaune
 couleur_hex: "#FFC107"
 cssclasses:
   - perso-jaune
-tags: [personnage, abednedo, canto-bight]
+tags: [personnage, abednedo, canto-bight, sequels]
 ---
 
 # Slowen Lo

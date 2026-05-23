@@ -13,7 +13,7 @@ couleur: jedi
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
-tags: [personnage, mortis, force-wielder, cote-lumineux]
+tags: [personnage, mortis, force-wielder, cote-lumineux, clone-wars]
 ---
 
 # La Fille

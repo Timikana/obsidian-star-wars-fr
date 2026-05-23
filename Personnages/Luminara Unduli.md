@@ -13,7 +13,7 @@ couleur: vert
 couleur_hex: "#4CAF50"
 cssclasses:
   - perso-vert
-tags: [personnage, jedi, mirialan]
+tags: [personnage, jedi, mirialan, clone-wars, empire]
 ---
 
 # Luminara Unduli

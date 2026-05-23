@@ -13,7 +13,7 @@ couleur: prime
 couleur_hex: "#5D4037"
 cssclasses:
   - perso-prime
-tags: [personnage, chasseur-primes, sniper]
+tags: [personnage, chasseur-primes, sniper, prelogie, clone-wars]
 ---
 
 # Aurra Sing

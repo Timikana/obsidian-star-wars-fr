@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, arc, bad-batch, cyborg]
+tags: [personnage, clone, arc, bad-batch, cyborg, clone-wars, empire]
 ---
 
 # Echo

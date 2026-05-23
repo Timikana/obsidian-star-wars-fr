@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, "501", arc]
+tags: [personnage, clone, 501, arc, clone-wars, empire]
 ---
 
 # Jesse

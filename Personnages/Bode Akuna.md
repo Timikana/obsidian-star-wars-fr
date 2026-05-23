@@ -13,7 +13,7 @@ couleur: sith
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
-tags: [personnage, jedi-cache, antagoniste]
+tags: [personnage, jedi-cache, antagoniste, empire]
 ---
 
 # Bode Akuna

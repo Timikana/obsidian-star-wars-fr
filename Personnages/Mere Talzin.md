@@ -13,7 +13,7 @@ couleur: sith
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
-tags: [personnage, sorciere-nuit, dathomir, magie]
+tags: [personnage, sorciere-nuit, dathomir, magie, clone-wars]
 ---
 
 # Mère Talzin

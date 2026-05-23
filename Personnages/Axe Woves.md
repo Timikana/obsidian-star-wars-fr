@@ -13,7 +13,7 @@ couleur: mandalorien
 couleur_hex: "#4FC3F7"
 cssclasses:
   - perso-mandalorien
-tags: [personnage, mandalorien, nite-owls]
+tags: [personnage, mandalorien, nite-owls, nouvelle-republique, mandalorian]
 ---
 
 # Axe Woves

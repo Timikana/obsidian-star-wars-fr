@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, commando, delta-squad, technicien]
+tags: [personnage, clone, commando, delta-squad, technicien, clone-wars]
 ---
 
 # Fixer

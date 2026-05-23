@@ -13,7 +13,7 @@ couleur: jedi
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
-tags: [personnage, jedi, mikkien, comics-canon]
+tags: [personnage, jedi, mikkien, comics-canon, empire]
 ---
 
 # Ferren Barr

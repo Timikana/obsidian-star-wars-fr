@@ -13,7 +13,7 @@ couleur: mandalorien
 couleur_hex: "#4FC3F7"
 cssclasses:
   - perso-mandalorien
-tags: [personnage, mandalorien, armurier, watch]
+tags: [personnage, mandalorien, armurier, watch, nouvelle-republique, mandalorian]
 ---
 
 # L'Armurière

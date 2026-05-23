@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, sister-omega, bad-batch]
+tags: [personnage, clone, sister-omega, bad-batch, empire]
 ---
 
 # Emerie Karr

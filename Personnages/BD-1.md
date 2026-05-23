@@ -13,7 +13,7 @@ couleur: droide
 couleur_hex: "#90A4AE"
 cssclasses:
   - perso-droide
-tags: [personnage, droide, compagnon, fallen-order]
+tags: [personnage, droide, compagnon, fallen-order, empire]
 ---
 
 # BD-1

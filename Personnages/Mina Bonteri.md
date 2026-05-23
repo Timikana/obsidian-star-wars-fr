@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, separatistes, senatrice, paix]
+tags: [personnage, separatistes, senatrice, paix, clone-wars]
 ---
 
 # Mina Bonteri

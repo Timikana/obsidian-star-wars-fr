@@ -9,7 +9,7 @@ couleur: premier-ordre
 couleur_hex: "#D32F2F"
 cssclasses:
   - perso-premier-ordre
-tags: [evenement, genocide, premier-ordre, starkiller]
+tags: [evenement, genocide, premier-ordre, starkiller, sequels]
 ---
 
 # Destruction du système Hosnian

@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, andor, chandrila, mariage]
+tags: [personnage, andor, chandrila, mariage, empire]
 ---
 
 # Perrin Fertha

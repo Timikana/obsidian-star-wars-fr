@@ -13,7 +13,7 @@ couleur: mandalorien
 couleur_hex: "#4FC3F7"
 cssclasses:
   - perso-mandalorien
-tags: [personnage, mandalorien, rebellion, pilote]
+tags: [personnage, mandalorien, rebellion, pilote, clone-wars, empire]
 ---
 
 # Fenn Rau

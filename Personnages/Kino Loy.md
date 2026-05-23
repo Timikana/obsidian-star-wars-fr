@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, andor, prison, narkina]
+tags: [personnage, andor, prison, narkina, empire]
 ---
 
 # Kino Loy

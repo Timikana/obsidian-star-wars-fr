@@ -10,7 +10,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - evenement
-tags: [evenement, bataille, guerre-des-clones, umbara, 501st, 212th]
+tags: [evenement, bataille, guerre-des-clones, umbara, 501st, 212th, clone-wars]
 ---
 
 # Bataille d'Umbara

@@ -13,7 +13,7 @@ couleur: cis
 couleur_hex: "#1976D2"
 cssclasses:
   - perso-cis
-tags: [personnage, separatiste, aqualish, ando, cis]
+tags: [personnage, separatiste, aqualish, ando, cis, clone-wars]
 ---
 
 # Po Nudo

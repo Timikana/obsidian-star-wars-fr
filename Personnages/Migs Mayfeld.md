@@ -13,7 +13,7 @@ couleur: prime
 couleur_hex: "#5D4037"
 cssclasses:
   - perso-prime
-tags: [personnage, ex-empire, mercenaire, mandalorian]
+tags: [personnage, ex-empire, mercenaire, mandalorian, empire]
 ---
 
 # Migs Mayfeld

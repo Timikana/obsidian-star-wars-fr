@@ -13,7 +13,7 @@ couleur: sith
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
-tags: [personnage, sith-eternal, premier-ordre, clone]
+tags: [personnage, sith-eternal, premier-ordre, clone, sequels]
 ---
 
 # Snoke

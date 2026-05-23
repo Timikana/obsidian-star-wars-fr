@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, "501", umbara]
+tags: [personnage, clone, 501, umbara, clone-wars]
 ---
 
 # Dogma

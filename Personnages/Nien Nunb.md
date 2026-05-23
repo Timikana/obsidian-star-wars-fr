@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, sullusteen, rebellion, pilote, faucon]
+tags: [personnage, sullusteen, rebellion, pilote, faucon, empire, sequels]
 ---
 
 # Nien Nunb

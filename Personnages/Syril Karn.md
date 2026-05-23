@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, isb, andor, ghorman]
+tags: [personnage, isb, andor, ghorman, empire]
 ---
 
 # Syril Karn

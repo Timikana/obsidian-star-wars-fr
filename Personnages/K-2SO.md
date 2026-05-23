@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, droide, KX, rebellion, andor]
+tags: [personnage, droide, KX, rebellion, andor, empire]
 ---
 
 # K-2SO

@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, askajienne, esclave, jabba]
+tags: [personnage, askajienne, esclave, jabba, empire]
 ---
 
 # Yarna d'al Gargan

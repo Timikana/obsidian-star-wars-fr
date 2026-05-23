@@ -13,7 +13,7 @@ couleur: noir
 couleur_hex: "#212121"
 cssclasses:
   - perso-noir
-tags: [personnage, hacker, mercenaire]
+tags: [personnage, hacker, mercenaire, sequels]
 ---
 
 # DJ

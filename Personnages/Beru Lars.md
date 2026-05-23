@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, tatooine, lars, tante-luke]
+tags: [personnage, tatooine, lars, tante-luke, prelogie, empire]
 ---
 
 # Beru Lars

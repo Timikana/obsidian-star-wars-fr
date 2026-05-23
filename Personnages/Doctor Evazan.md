@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, pegre, mos-eisley, cantina]
+tags: [personnage, pegre, mos-eisley, cantina, empire]
 ---
 
 # Doctor Evazan

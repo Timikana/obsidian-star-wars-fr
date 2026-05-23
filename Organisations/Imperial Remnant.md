@@ -8,7 +8,7 @@ couleur_hex: "#616161"
 cssclasses:
   - perso-empire
 epoque_active: Post-Endor → Jakku → période Mandalorian
-tags: [organisation, empire, remnant, moff-gideon, thrawn, jakku, mandalorian]
+tags: [organisation, empire, remnant, moff-gideon, thrawn, jakku, mandalorian, sequels]
 ---
 
 # Imperial Remnant

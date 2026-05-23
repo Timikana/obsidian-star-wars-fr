@@ -13,7 +13,7 @@ couleur: cis
 couleur_hex: "#1976D2"
 cssclasses:
   - perso-cis
-tags: [personnage, separatiste, harch, amiral, marine, cis]
+tags: [personnage, separatiste, harch, amiral, marine, cis, clone-wars, prelogie]
 ---
 
 # Amiral Trench

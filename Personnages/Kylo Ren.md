@@ -13,7 +13,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
-tags: [personnage, sith, premier-ordre, skywalker, redemption]
+tags: [personnage, sith, premier-ordre, skywalker, redemption, sequels]
 ---
 
 # Kylo Ren / Ben Solo

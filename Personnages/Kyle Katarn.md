@@ -13,7 +13,7 @@ couleur: bleu
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
-tags: [personnage, legendes, jedi, jeu, mercenaire]
+tags: [personnage, legendes, jedi, jeu, mercenaire, empire]
 ---
 
 # Kyle Katarn

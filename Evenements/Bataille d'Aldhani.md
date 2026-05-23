@@ -9,7 +9,7 @@ couleur: rebelle
 couleur_hex: "#FF6F00"
 cssclasses:
   - org-rebelle
-tags: [evenement, braquage, andor, rebellion]
+tags: [evenement, braquage, andor, rebellion, empire]
 ---
 
 # Bataille d'Aldhani

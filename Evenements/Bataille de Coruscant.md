@@ -9,7 +9,7 @@ couleur: jedi
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
-tags: [evenement, bataille, guerre-des-clones]
+tags: [evenement, bataille, guerre-des-clones, clone-wars]
 ---
 
 # Bataille de Coruscant

@@ -13,7 +13,7 @@ couleur: jedi
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
-tags: [personnage, force, takodana, pirate-reine]
+tags: [personnage, force, takodana, pirate-reine, empire, sequels]
 ---
 
 # Maz Kanata

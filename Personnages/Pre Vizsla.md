@@ -13,7 +13,7 @@ couleur: noir
 couleur_hex: "#212121"
 cssclasses:
   - perso-noir
-tags: [personnage, mandalorien, darksaber, death-watch, vizsla]
+tags: [personnage, mandalorien, darksaber, death-watch, vizsla, clone-wars]
 ---
 
 # Pré Vizsla

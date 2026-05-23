@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, rebellion, battlefront, versio]
+tags: [personnage, rebellion, battlefront, versio, sequels]
 ---
 
 # Zay Versio

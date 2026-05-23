@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, commando, seelos]
+tags: [personnage, clone, commando, seelos, clone-wars, empire]
 ---
 
 # Gregor

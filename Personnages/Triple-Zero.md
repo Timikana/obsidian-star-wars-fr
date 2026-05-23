@@ -13,7 +13,7 @@ couleur: droide
 couleur_hex: "#90A4AE"
 cssclasses:
   - perso-droide
-tags: [personnage, droide, protocole, sadique, aphra]
+tags: [personnage, droide, protocole, sadique, aphra, empire]
 ---
 
 # Triple-Zero (0-0-0)

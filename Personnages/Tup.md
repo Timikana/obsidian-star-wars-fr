@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, "501", puce-inhibitrice]
+tags: [personnage, clone, 501, puce-inhibitrice, clone-wars]
 ---
 
 # Tup

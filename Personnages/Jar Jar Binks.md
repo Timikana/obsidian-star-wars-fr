@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, gungan, naboo, senat]
+tags: [personnage, gungan, naboo, senat, clone-wars, empire]
 ---
 
 # Jar Jar Binks

@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, imperial, pilote, rebels]
+tags: [personnage, imperial, pilote, rebels, empire]
 ---
 
 # Captain Vult Skerris

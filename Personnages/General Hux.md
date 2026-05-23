@@ -13,7 +13,7 @@ couleur: premier-ordre
 couleur_hex: "#D32F2F"
 cssclasses:
   - perso-premier-ordre
-tags: [personnage, premier-ordre, general, starkiller]
+tags: [personnage, premier-ordre, general, starkiller, sequels]
 ---
 
 # Général Hux

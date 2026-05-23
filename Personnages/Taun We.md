@@ -13,7 +13,7 @@ couleur: prime
 couleur_hex: "#5D4037"
 cssclasses:
   - perso-prime
-tags: [personnage, kaminoenne, prime, clones]
+tags: [personnage, kaminoenne, prime, clones, empire]
 ---
 
 # Taun We

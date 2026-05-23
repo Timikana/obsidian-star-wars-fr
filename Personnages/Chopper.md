@@ -13,7 +13,7 @@ couleur: droide
 couleur_hex: "#90A4AE"
 cssclasses:
   - perso-droide
-tags: [personnage, droide, astromecano, rebellion, spectres]
+tags: [personnage, droide, astromecano, rebellion, spectres, clone-wars, empire]
 ---
 
 # Chopper (C1-10P)

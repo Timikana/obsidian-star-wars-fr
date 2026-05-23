@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, ithorian, lothal, taverne]
+tags: [personnage, ithorian, lothal, taverne, empire]
 ---
 
 # Old Jho

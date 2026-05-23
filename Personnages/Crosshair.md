@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, clone, bad-batch, sniper, redemption]
+tags: [personnage, clone, bad-batch, sniper, redemption, clone-wars, empire]
 ---
 
 # Crosshair

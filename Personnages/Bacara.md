@@ -13,7 +13,7 @@ couleur: republique
 couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
-tags: [personnage, clone, commandant, galactic-marines, mygeeto, ordre-66]
+tags: [personnage, clone, commandant, galactic-marines, mygeeto, ordre-66, clone-wars]
 ---
 
 # Commandant Bacara

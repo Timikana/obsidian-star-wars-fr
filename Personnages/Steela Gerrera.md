@@ -13,7 +13,7 @@ couleur: rebellion
 couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
-tags: [personnage, onderon, resistance, gerrera]
+tags: [personnage, onderon, resistance, gerrera, clone-wars]
 ---
 
 # Steela Gerrera

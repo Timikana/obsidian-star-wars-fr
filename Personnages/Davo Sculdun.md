@@ -13,7 +13,7 @@ couleur: hutts
 couleur_hex: "#6D4C41"
 cssclasses:
   - perso-hutts
-tags: [personnage, andor, banquier, chandrila]
+tags: [personnage, andor, banquier, chandrila, empire]
 ---
 
 # Davo Sculdun

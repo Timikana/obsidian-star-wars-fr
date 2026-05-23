@@ -13,7 +13,7 @@ couleur: rouge
 couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
-tags: [personnage, sith, jedi-dechu, separatistes, serenno]
+tags: [personnage, sith, jedi-dechu, separatistes, serenno, clone-wars]
 ---
 
 # Comte Dooku / Dark Tyranus

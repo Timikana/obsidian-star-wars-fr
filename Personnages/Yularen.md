@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, empire, isb, amiral]
+tags: [personnage, empire, isb, amiral, clone-wars]
 ---
 
 # Yularen

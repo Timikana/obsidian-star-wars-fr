@@ -13,7 +13,7 @@ couleur: premier-ordre
 couleur_hex: "#D32F2F"
 cssclasses:
   - perso-premier-ordre
-tags: [personnage, premier-ordre, allegiant-general, exegol]
+tags: [personnage, premier-ordre, allegiant-general, exegol, sequels]
 ---
 
 # Allegiant General Pryde

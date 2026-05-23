@@ -13,7 +13,7 @@ couleur: empire
 couleur_hex: "#616161"
 cssclasses:
   - perso-empire
-tags: [personnage, empire, executor, marine]
+tags: [personnage, empire, executor, marine, trilogie-originale]
 ---
 
 # Amiral Piett

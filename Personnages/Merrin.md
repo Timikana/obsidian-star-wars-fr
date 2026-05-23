@@ -13,7 +13,7 @@ couleur: jedi
 couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
-tags: [personnage, nightsister, dathomir]
+tags: [personnage, nightsister, dathomir, empire]
 ---
 
 # Merrin
