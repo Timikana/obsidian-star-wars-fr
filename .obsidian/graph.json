@@ -149,39 +149,66 @@
     },
     {
       "query": "tag:#ancienne-republique OR tag:#kotor OR tag:#swtor",
-      "color": { "a": 1, "rgb": 9849600 }
+      "color": {
+        "a": 1,
+        "rgb": 9849600
+      }
     },
     {
       "query": "tag:#haute-republique",
-      "color": { "a": 1, "rgb": 16766720 }
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
     },
     {
       "query": "tag:#prelogie",
-      "color": { "a": 1, "rgb": 2200012 }
+      "color": {
+        "a": 1,
+        "rgb": 2200012
+      }
     },
     {
       "query": "tag:#clone-wars",
-      "color": { "a": 1, "rgb": 16753920 }
+      "color": {
+        "a": 1,
+        "rgb": 16753920
+      }
     },
     {
       "query": "tag:#empire",
-      "color": { "a": 1, "rgb": 6381921 }
+      "color": {
+        "a": 1,
+        "rgb": 6381921
+      }
     },
     {
       "query": "tag:#trilogie-originale OR tag:#rebellion",
-      "color": { "a": 1, "rgb": 16734296 }
+      "color": {
+        "a": 1,
+        "rgb": 16734296
+      }
     },
     {
       "query": "tag:#nouvelle-republique OR tag:#mandalorian",
-      "color": { "a": 1, "rgb": 5230827 }
+      "color": {
+        "a": 1,
+        "rgb": 5230827
+      }
     },
     {
       "query": "tag:#sequels OR tag:#postlogie OR tag:#premier-ordre",
-      "color": { "a": 1, "rgb": 13776712 }
+      "color": {
+        "a": 1,
+        "rgb": 13776712
+      }
     },
     {
       "query": "tag:#legendes",
-      "color": { "a": 1, "rgb": 10233776 }
+      "color": {
+        "a": 1,
+        "rgb": 10233776
+      }
     }
   ],
   "collapse-display": true,
@@ -190,10 +217,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.1,
-  "repelStrength": 40,
-  "linkStrength": 0.2,
-  "linkDistance": 500,
-  "scale": 0.12923628358100572,
+  "centerStrength": 0.35,
+  "repelStrength": 15,
+  "linkStrength": 0.7,
+  "linkDistance": 320,
+  "scale": 0.042315902689758995,
   "close": true
 }
