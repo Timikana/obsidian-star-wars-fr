@@ -4,7 +4,7 @@ classe: Hyena-class Bomber Droid
 constructeur: Baktoid Fleet Ordnance
 proprietaire: Confédération des Systèmes Indépendants
 couleur: cis
-couleur_hex: "#5D4037"
+couleur_hex: "#1976D2"
 cssclasses:
   - vaisseau-cis
 tags: [vaisseau, cis, bombardier, droide]

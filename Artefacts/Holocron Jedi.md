@@ -4,7 +4,7 @@ proprietaires:
   - "[[Ordre Jedi]]"
 periode: Ancienne République à Empire
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
   - artefact-jedi
 tags: [artefact, holocron, jedi, savoir]

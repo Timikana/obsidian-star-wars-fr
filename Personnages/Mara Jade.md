@@ -10,7 +10,7 @@ acteur_voix: Heidi Shannon
 sabre_couleur: violet (Légendes)
 sabre_hex: "#8E24AA"
 couleur: violet
-couleur_hex: "#8E24AA"
+couleur_hex: "#9C27B0"
 cssclasses:
   - perso-violet
 tags: [personnage, legendes, jedi, empire, skywalker, mara-jade]

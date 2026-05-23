@@ -6,7 +6,7 @@ climat: Tempéré (ville-monde / écuménopole)
 gouvernement: République galactique → Empire → Nouvelle République
 especes_natives: [Humains et nombreuses]
 couleur: core
-couleur_hex: "#00BCD4"
+couleur_hex: "#FFEB3B"
 cssclasses:
   - planete-core
 tags: [planete, core, coruscant, capitale]

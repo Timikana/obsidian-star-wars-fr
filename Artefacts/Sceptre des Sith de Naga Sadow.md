@@ -5,7 +5,7 @@ proprietaires:
   - "[[Ordre Sith]]"
 periode: Ancienne République (Légendes)
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
   - artefact-sith
 tags: [artefact, sceptre, sith, naga-sadow, legendes]

@@ -6,9 +6,9 @@ lieu: [[Malachor]]
 factions: [Phoenix Cell, Empire Galactique, Dark Maul]
 issue: Victoire amère rebelle
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
-  - org-sith
+  - perso-sith
 tags: [evenement, bataille, rebels, sith]
 ---
 

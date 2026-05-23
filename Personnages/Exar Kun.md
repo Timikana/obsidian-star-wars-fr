@@ -10,7 +10,7 @@ acteur_voix: —
 sabre_couleur: rouge (double-lame)
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, legendes, sith, sith-war, yavin]

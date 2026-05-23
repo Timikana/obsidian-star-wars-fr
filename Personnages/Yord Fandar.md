@@ -10,7 +10,7 @@ acteur_voix: Charlie Barnett
 sabre_couleur: jaune
 sabre_hex: "#FDD835"
 couleur: jaune
-couleur_hex: "#FDD835"
+couleur_hex: "#FFC107"
 cssclasses:
   - perso-jaune
 tags: [personnage, jedi, gardien-temple, acolyte]

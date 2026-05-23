@@ -3,7 +3,7 @@ type: vaisseau
 classe: Imperial-I Star Destroyer (modifié)
 proprietaire: Grand Amiral Thrawn
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, chimaera, thrawn, peridea]

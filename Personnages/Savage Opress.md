@@ -10,7 +10,7 @@ acteur_voix: Clancy Brown
 sabre_couleur: rouge
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, sith-acolyte, dathomir, zabrak]

@@ -10,7 +10,7 @@ acteur_voix: Sam Witwer
 sabre_couleur: bleu / rouge (vie alternée)
 sabre_hex: "#2E9DF7"
 couleur: bleu
-couleur_hex: "#2E9DF7"
+couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
 tags: [personnage, legendes, force-unleashed, sith, jedi]

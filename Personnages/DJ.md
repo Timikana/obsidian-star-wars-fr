@@ -10,7 +10,7 @@ acteur_voix: Benicio del Toro
 sabre_couleur: 
 sabre_hex: 
 couleur: noir
-couleur_hex: "#1A1A1A"
+couleur_hex: "#212121"
 cssclasses:
   - perso-noir
 tags: [personnage, hacker, mercenaire]

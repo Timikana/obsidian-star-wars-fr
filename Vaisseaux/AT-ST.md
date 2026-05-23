@@ -4,7 +4,7 @@ classe: Walker bipède de reconnaissance
 constructeur: Kuat Drive Yards
 proprietaire: Empire Galactique
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, at-st, walker, endor]

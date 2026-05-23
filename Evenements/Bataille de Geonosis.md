@@ -6,9 +6,9 @@ lieu: [[Geonosis]]
 factions: [République, Jedi, CIS]
 issue: Victoire
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
-  - org-rebelle
+  - perso-republique
 tags: [evenement, bataille, guerre-des-clones]
 ---
 

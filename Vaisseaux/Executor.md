@@ -5,7 +5,7 @@ constructeur: Kuat Drive Yards
 proprietaire: Dark Vador
 statut: détruit (4 ABY, Endor)
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, executor, super-star-destroyer, vador]

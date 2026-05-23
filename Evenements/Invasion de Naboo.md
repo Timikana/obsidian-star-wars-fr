@@ -6,9 +6,9 @@ lieu: [[Naboo]]
 factions: [Fédération du Commerce, Royaume de Naboo, Gungans, Ordre Jedi]
 issue: Victoire Naboo
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
-  - org-empire
+  - perso-empire
 tags: [evenement, invasion, prelogie]
 ---
 

@@ -10,7 +10,7 @@ acteur_voix: Joseph Gordon-Levitt
 sabre_couleur: 
 sabre_hex: 
 couleur: jaune
-couleur_hex: "#FDD835"
+couleur_hex: "#FFC107"
 cssclasses:
   - perso-jaune
 tags: [personnage, abednedo, canto-bight]

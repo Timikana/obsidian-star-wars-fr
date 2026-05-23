@@ -10,7 +10,7 @@ acteur_voix: Matthew Wood
 sabre_couleur: divers (volés aux Jedi)
 sabre_hex: "#E53935"
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - perso-empire
 tags: [personnage, cyborg, separatistes, kaleesh, sabres-voles]

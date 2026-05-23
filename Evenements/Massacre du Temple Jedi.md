@@ -6,9 +6,9 @@ lieu: [[Coruscant]]
 factions: [Empire naissant, Jedi]
 issue: Victoire
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
-  - org-sith
+  - perso-sith
 tags: [evenement, massacre, sith, jedi]
 ---
 

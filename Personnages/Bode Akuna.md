@@ -10,7 +10,7 @@ acteur_voix: Noshir Dalal
 sabre_couleur: bleu
 sabre_hex: "#2E9DF7"
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
 tags: [personnage, jedi-cache, antagoniste]

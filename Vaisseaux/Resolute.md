@@ -4,7 +4,7 @@ classe: Destroyer stellaire de classe Venator
 constructeur: Kuat Drive Yards
 proprietaire: République Galactique
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
   - vaisseau-republique
 tags: [vaisseau, resolute, venator, clone-wars]

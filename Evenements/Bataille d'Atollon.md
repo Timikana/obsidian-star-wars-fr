@@ -6,9 +6,9 @@ lieu: [[Atollon]]
 factions: [Empire Galactique, Phoenix Cell, Clans Mandaloriens]
 issue: Défaite rebelle
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
-  - org-empire
+  - perso-empire
 tags: [evenement, bataille, rebels, thrawn]
 ---
 

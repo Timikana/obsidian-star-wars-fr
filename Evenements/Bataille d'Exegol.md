@@ -6,9 +6,9 @@ lieu: [[Exegol]]
 factions: [Résistance, Flotte Citoyenne, Final Order, Sith Eternal]
 issue: Victoire
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
-  - org-rebelle
+  - perso-rebellion
 tags: [evenement, bataille, sith, resistance]
 ---
 

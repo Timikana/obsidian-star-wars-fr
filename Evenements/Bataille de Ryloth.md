@@ -6,9 +6,9 @@ lieu: [[Ryloth]]
 factions: [République Galactique, Résistance Twi'lek, Confédération des Systèmes Indépendants]
 issue: Libération de Ryloth
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
-  - org-jedi
+  - perso-jedi
 tags: [evenement, bataille, guerre-des-clones, twi-lek]
 ---
 

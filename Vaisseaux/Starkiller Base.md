@@ -3,7 +3,7 @@ type: vaisseau
 classe: Super-arme planète (Premier Ordre)
 statut: détruite (34 ABY)
 couleur: premier-ordre
-couleur_hex: "#B71C1C"
+couleur_hex: "#D32F2F"
 cssclasses:
   - vaisseau-premier-ordre
 tags: [vaisseau, starkiller-base, super-arme, premier-ordre]

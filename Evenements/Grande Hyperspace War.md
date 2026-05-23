@@ -6,9 +6,9 @@ lieu: [[Coruscant]]
 factions: [Empire Sith, République Galactique, Ordre Jedi]
 issue: Victoire République
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
-  - org-sith
+  - perso-sith
 tags: [evenement, guerre, sith, ancienne-republique]
 ---
 

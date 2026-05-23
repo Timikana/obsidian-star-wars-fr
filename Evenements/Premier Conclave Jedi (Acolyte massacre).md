@@ -6,9 +6,9 @@ lieu: [[Brendok]]
 factions: [Ordre Jedi, Sorcières de Brendok]
 issue: Tragédie dissimulée
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
-  - org-sith
+  - perso-sith
 tags: [evenement, massacre, haute-republique, acolyte]
 ---
 

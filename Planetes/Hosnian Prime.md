@@ -4,7 +4,7 @@ region: Core
 climat: Tempéré, urbanisé, océans
 especes_natives: [Humains]
 couleur: core
-couleur_hex: "#00BCD4"
+couleur_hex: "#FFEB3B"
 cssclasses:
   - planete-core
 tags: [planete, core, hosnian-prime, nouvelle-republique, starkiller]

@@ -10,7 +10,7 @@ proprietaires:
   - "[[Din Djarin]]"
 periode: Ancienne République à Nouvelle République
 couleur: noir
-couleur_hex: "#1A1A1A"
+couleur_hex: "#212121"
 cssclasses:
   - artefact-noir
 tags: [artefact, sabre, mandalorien, relique]

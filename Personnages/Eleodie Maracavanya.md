@@ -10,7 +10,7 @@ acteur_voix:
 sabre_couleur: 
 sabre_hex: 
 couleur: orange
-couleur_hex: "#FB8C00"
+couleur_hex: "#FF9800"
 cssclasses:
   - perso-orange
 tags: [personnage, pirate, contrebandier]

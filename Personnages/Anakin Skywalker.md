@@ -10,7 +10,7 @@ acteur_voix: Jake Lloyd / Hayden Christensen / James Earl Jones (voix Vador)
 sabre_couleur: bleu (Anakin) puis rouge (Vador)
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, sith, jedi, skywalker, elu]

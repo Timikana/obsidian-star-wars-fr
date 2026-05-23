@@ -10,7 +10,7 @@ acteur_voix:
 sabre_couleur: bleu
 sabre_hex: "#2E9DF7"
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - perso-empire
 tags: [personnage, humain, empire, legacy, legendes]

@@ -10,7 +10,7 @@ acteur_voix: Gwendoline Christie
 sabre_couleur: 
 sabre_hex: 
 couleur: premier-ordre
-couleur_hex: "#B71C1C"
+couleur_hex: "#D32F2F"
 cssclasses:
   - perso-premier-ordre
 tags: [personnage, premier-ordre, capitaine, chrome]

@@ -6,9 +6,9 @@ lieu: [[Mandalore]]
 factions: [République, Mandaloriens loyalistes, Death Watch / Maul]
 issue: Victoire
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
-  - org-rebelle
+  - perso-republique
 tags: [evenement, bataille, guerre-des-clones, mandalore]
 ---
 

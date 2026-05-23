@@ -10,7 +10,7 @@ acteur_voix: Amandla Stenberg
 sabre_couleur: rouge (acquis avec Qimir)
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, jedi-dechu, sith, acolyte, brendok]

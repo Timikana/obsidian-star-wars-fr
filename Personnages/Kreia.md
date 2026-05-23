@@ -10,7 +10,7 @@ acteur_voix: Sara Kestelman
 sabre_couleur: violet
 sabre_hex: "#8E24AA"
 couleur: violet
-couleur_hex: "#8E24AA"
+couleur_hex: "#9C27B0"
 cssclasses:
   - perso-violet
 tags: [personnage, legendes, sith, jedi, kotor, traya]

@@ -2,9 +2,9 @@
 type: concept
 categorie: Combat
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
-  - org-jedi
+  - perso-jedi
 tags: [concept, combat, sabre-laser, formes]
 ---
 

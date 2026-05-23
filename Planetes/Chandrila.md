@@ -6,7 +6,7 @@ climat: tempéré
 especes_natives: [Humains]
 gouvernement: "République / Nouvelle République"
 couleur: core
-couleur_hex: "#00BCD4"
+couleur_hex: "#FFEB3B"
 cssclasses:
   - planete-core
 tags: [planete, core, chandrila, nouvelle-republique]

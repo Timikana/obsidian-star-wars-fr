@@ -3,7 +3,7 @@ type: vaisseau
 classe: RZ-1 A-wing
 constructeur: Kuat Systems Engineering
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - vaisseau-rebellion
 tags: [vaisseau, a-wing, chasseur, intercepteur]

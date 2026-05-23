@@ -10,7 +10,7 @@ acteur_voix: Jeff Bennett (Clone Wars)
 sabre_couleur: violet (signature) / rouge (Sith)
 sabre_hex: "#8E24AA"
 couleur: violet
-couleur_hex: "#8E24AA"
+couleur_hex: "#9C27B0"
 cssclasses:
   - perso-violet
 tags: [personnage, legendes, sith, jedi, kotor]

@@ -10,7 +10,7 @@ acteur_voix: Darin De Paul
 sabre_couleur: violet
 sabre_hex: "#8E24AA"
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
 tags: [personnage, sith, empereur-eternel, swtor, legendes]

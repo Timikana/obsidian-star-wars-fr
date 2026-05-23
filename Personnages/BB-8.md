@@ -10,7 +10,7 @@ acteur_voix: Bill Hader (effets), Brian Herring
 sabre_couleur: 
 sabre_hex: 
 couleur: orange
-couleur_hex: "#FB8C00"
+couleur_hex: "#FF9800"
 cssclasses:
   - perso-orange
 tags: [personnage, droide, astromecano, resistance]

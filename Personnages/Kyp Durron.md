@@ -10,7 +10,7 @@ acteur_voix:
 sabre_couleur: violet
 sabre_hex: "#8E24AA"
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
 tags: [personnage, jedi, legendes]

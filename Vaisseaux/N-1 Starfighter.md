@@ -4,7 +4,7 @@ classe: Chasseur stellaire N-1
 constructeur: Theed Palace Space Vessel Engineering Corps
 proprietaire: Forces de Sécurité Royales de Naboo
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
   - vaisseau-republique
 tags: [vaisseau, n-1, naboo, chasseur]

@@ -10,7 +10,7 @@ acteur_voix: Dave Fennoy
 sabre_couleur: jaune (deux sabres double-lame)
 sabre_hex: "#FDD835"
 couleur: jaune
-couleur_hex: "#FDD835"
+couleur_hex: "#FFC107"
 cssclasses:
   - perso-jaune
 tags: [personnage, jedi-dechu, besalisk, traitre]

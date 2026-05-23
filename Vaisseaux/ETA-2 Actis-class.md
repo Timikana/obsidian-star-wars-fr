@@ -4,7 +4,7 @@ classe: "Eta-2 Actis-class light interceptor"
 constructeur: Kuat Systems Engineering
 proprietaire: Ordre Jedi
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
   - vaisseau-republique
 tags: [vaisseau, republique, jedi, chasseur]

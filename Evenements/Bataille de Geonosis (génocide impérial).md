@@ -6,9 +6,9 @@ lieu: [[Geonosis]]
 factions: [Empire Galactique, Geonosiens]
 issue: Génocide
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
-  - org-empire
+  - perso-empire
 tags: [evenement, genocide, empire, etoile-de-la-mort]
 ---
 

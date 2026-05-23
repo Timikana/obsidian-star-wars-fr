@@ -6,9 +6,9 @@ lieu: [[Jedha]]
 factions: [Path of the Open Hand, Ordre Jedi, Pèlerins de Jedha]
 issue: Tragédie
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
-  - org-sith
+  - perso-sith
 tags: [evenement, massacre, haute-republique]
 ---
 

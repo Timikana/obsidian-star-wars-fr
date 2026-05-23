@@ -3,7 +3,7 @@ type: organisation
 periode: ? → 35 ABY
 allegeance: Côté Obscur
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
   - org-sith
 tags: [organisation, sith, culte, cote-obscur]

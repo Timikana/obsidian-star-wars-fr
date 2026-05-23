@@ -4,7 +4,7 @@ classe: Navette de classe Lambda T-4a
 constructeur: Sienar Fleet Systems
 proprietaire: Empire Galactique
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, navette, lambda, empire]

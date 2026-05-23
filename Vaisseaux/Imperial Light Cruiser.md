@@ -4,7 +4,7 @@ classe: Croiseur léger impérial Arquitens
 constructeur: Kuat Drive Yards
 proprietaire: Vestiges Impériaux
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, croiseur, mandalorian, gideon]

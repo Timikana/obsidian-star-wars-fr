@@ -10,7 +10,7 @@ acteur_voix: Daisy Ridley
 sabre_couleur: bleu (Anakin) puis jaune
 sabre_hex: "#FDD835"
 couleur: jaune
-couleur_hex: "#FDD835"
+couleur_hex: "#FFC107"
 cssclasses:
   - perso-jaune
 tags: [personnage, jedi, palpatine, resistance, skywalker]

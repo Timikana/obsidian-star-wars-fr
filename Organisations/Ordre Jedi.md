@@ -3,7 +3,7 @@ type: organisation
 periode: ~25000 BBY → 19 BBY (presque éteint), refondé ~9 ABY
 allegeance: Lumière, République puis Nouveau Temple Jedi
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
   - org-jedi
 tags: [organisation, jedi, force, lumiere]

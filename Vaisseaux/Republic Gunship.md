@@ -4,7 +4,7 @@ classe: "LAAT/i (Low Altitude Assault Transport / infantry)"
 constructeur: Rothana Heavy Engineering
 proprietaire: Grande Armée de la République
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
   - vaisseau-republique
 tags: [vaisseau, republique, canonniere, clone-wars]

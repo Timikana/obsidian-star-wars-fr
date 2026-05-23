@@ -6,7 +6,7 @@ climat: tempéré
 especes_natives: [Humains, Selonien, Drall]
 gouvernement: "Diktat / Gouvernement Corellien"
 couleur: core
-couleur_hex: "#00BCD4"
+couleur_hex: "#FFEB3B"
 cssclasses:
   - planete-core
 tags: [planete, core, corellia, chantiers-navals]

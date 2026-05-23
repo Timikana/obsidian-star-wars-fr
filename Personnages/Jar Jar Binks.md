@@ -10,7 +10,7 @@ acteur_voix: Ahmed Best
 sabre_couleur: 
 sabre_hex: 
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
 tags: [personnage, gungan, naboo, senat]

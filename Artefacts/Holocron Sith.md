@@ -6,7 +6,7 @@ proprietaires:
   - "[[Dark Sidious]]"
 periode: Toutes époques
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
   - artefact-sith
 tags: [artefact, holocron, sith, savoir-interdit]

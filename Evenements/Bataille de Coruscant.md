@@ -6,9 +6,9 @@ lieu: [[Coruscant]]
 factions: [République Galactique, Confédération des Systèmes Indépendants]
 issue: Victoire République
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
-  - org-jedi
+  - perso-jedi
 tags: [evenement, bataille, guerre-des-clones]
 ---
 

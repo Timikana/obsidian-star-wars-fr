@@ -10,7 +10,7 @@ acteur_voix: Carrie Fisher
 sabre_couleur: bleu (rare, abandonné)
 sabre_hex: "#2E9DF7"
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
 tags: [personnage, rebellion, resistance, skywalker, jedi]

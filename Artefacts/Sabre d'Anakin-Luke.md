@@ -7,7 +7,7 @@ proprietaires:
   - "[[Rey Skywalker]]"
 periode: Guerres des Clones à l'Ère de la Résistance
 couleur: bleu
-couleur_hex: "#2E9DF7"
+couleur_hex: "#2196F3"
 cssclasses:
   - artefact-bleu
 tags: [artefact, sabre, skywalker, jedi]

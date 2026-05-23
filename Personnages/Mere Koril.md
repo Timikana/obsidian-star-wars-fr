@@ -10,7 +10,7 @@ acteur_voix: Margarita Levieva
 sabre_couleur: 
 sabre_hex: 
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
 tags: [personnage, zabrak, brendok, coven]

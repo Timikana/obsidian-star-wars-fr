@@ -10,7 +10,7 @@ acteur_voix: —
 sabre_couleur: 
 sabre_hex: 
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, canon, empire, cyborg, comics]

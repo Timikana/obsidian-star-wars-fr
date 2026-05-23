@@ -3,7 +3,7 @@ type: vaisseau
 classe: VCX-100 light freighter (Corellian)
 proprietaire: Hera Syndulla (Spectres)
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - vaisseau-rebellion
 tags: [vaisseau, ghost, spectres, rebels]

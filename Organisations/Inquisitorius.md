@@ -3,7 +3,7 @@ type: organisation
 periode: 19 BBY → ~14 BBY
 allegeance: Empire
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
   - org-sith
 tags: [organisation, empire, inquisiteurs, cote-obscur]

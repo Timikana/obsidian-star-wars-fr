@@ -6,7 +6,7 @@ proprietaires:
   - "[[Empire galactique]]"
 periode: Toutes époques
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
   - artefact-jedi
 tags: [artefact, cristal, force, kyber]

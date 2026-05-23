@@ -6,9 +6,9 @@ lieu: [[Ossus]]
 factions: [Frères Sith, Ordre Jedi, République Galactique]
 issue: Victoire Jedi
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
-  - org-sith
+  - perso-sith
 tags: [evenement, guerre, sith, legendes]
 ---
 

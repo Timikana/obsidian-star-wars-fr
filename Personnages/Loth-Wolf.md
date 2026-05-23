@@ -10,7 +10,7 @@ acteur_voix: Steve Blum (vocalisations)
 sabre_couleur: 
 sabre_hex: 
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
 tags: [personnage, force, lothal, loth-wolf]

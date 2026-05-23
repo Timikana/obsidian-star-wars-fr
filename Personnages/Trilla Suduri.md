@@ -10,7 +10,7 @@ acteur_voix: Elizabeth Grullon
 sabre_couleur: rouge (double rotative)
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, inquisiteur, empire, jeu, redemption]

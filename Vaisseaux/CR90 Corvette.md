@@ -4,7 +4,7 @@ classe: "Corvette corellienne CR90"
 constructeur: Corellian Engineering Corporation
 proprietaire: Alliance Rebelle / divers
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - vaisseau-rebellion
 tags: [vaisseau, rebellion, corvette, corellien]

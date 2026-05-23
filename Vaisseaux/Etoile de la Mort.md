@@ -4,7 +4,7 @@ classe: Station de combat orbitale DS-1 (Étoile I) / DS-2 (Étoile II)
 constructeur: Empire (Krennic, Tarkin, Geonosiens, Galen Erso)
 statut: détruites
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, etoile-mort, super-arme, empire]

@@ -4,7 +4,7 @@ classe: "Lambda-class T-4a (navette impériale)"
 constructeur: Sienar Fleet Systems / Cygnus Spaceworks
 proprietaire: Alliance Rebelle (volée à l'Empire)
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - vaisseau-rebellion
 tags: [vaisseau, rebellion, navette, endor]

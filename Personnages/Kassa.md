@@ -10,7 +10,7 @@ acteur_voix: Antonio Viña
 sabre_couleur: 
 sabre_hex: 
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
 tags: [personnage, humain, kenari, andor, enfance]

@@ -4,7 +4,7 @@ classe: "Eclipse-class dreadnought (Super Star Destroyer)"
 constructeur: Kuat Drive Yards
 proprietaire: "Empire Galactique (renaissant / Légendes)"
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, empire, dreadnought, super-star-destroyer, legendes]

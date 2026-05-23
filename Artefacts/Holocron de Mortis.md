@@ -5,7 +5,7 @@ proprietaires:
   - "[[Anakin Skywalker]]"
 periode: Guerres des Clones
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
   - artefact-jedi
 tags: [artefact, holocron, mortis, equilibre]

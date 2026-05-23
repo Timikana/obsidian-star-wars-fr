@@ -6,7 +6,7 @@ proprietaires:
   - "[[Rey Skywalker]]"
 periode: Nouvelle République à Résistance
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
   - artefact-jedi
 tags: [artefact, navigation, jedi, ahch-to]

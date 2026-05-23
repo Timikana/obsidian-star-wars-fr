@@ -3,7 +3,7 @@ type: organisation
 periode: Haute République (~232 av. BY)
 allegeance: Pirates / Anti-Jedi
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
   - org-sith
 tags: [organisation, haute-republique, pirates, antagoniste]

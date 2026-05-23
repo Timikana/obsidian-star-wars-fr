@@ -6,9 +6,9 @@ lieu: [[Alderaan]]
 factions: [Empire Galactique, Alderaan]
 issue: Victoire
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
-  - org-empire
+  - perso-empire
 tags: [evenement, genocide, etoile-de-la-mort]
 ---
 

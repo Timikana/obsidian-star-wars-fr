@@ -10,7 +10,7 @@ acteur_voix: —
 sabre_couleur: noir (Darksaber)
 sabre_hex: "#1A1A1A"
 couleur: noir
-couleur_hex: "#1A1A1A"
+couleur_hex: "#212121"
 cssclasses:
   - perso-noir
 tags: [personnage, mandalorien, jedi, darksaber, createur]

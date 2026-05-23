@@ -4,7 +4,7 @@ classe: "Sphyrna-class corvette (Hammerhead)"
 constructeur: Corellian Engineering Corporation
 proprietaire: Alliance Rebelle
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - vaisseau-rebellion
 tags: [vaisseau, rebellion, corvette, scarif]

@@ -10,7 +10,7 @@ acteur_voix: Rebecca Henderson (Acolyte)
 sabre_couleur: violet (lightwhip transformable)
 sabre_hex: "#8E24AA"
 couleur: violet
-couleur_hex: "#8E24AA"
+couleur_hex: "#9C27B0"
 cssclasses:
   - perso-violet
 tags: [personnage, jedi, mirialan, haute-republique, lightwhip]

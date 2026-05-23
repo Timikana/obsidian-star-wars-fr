@@ -10,7 +10,7 @@ acteur_voix: Nicole Lewis
 sabre_couleur: vert
 sabre_hex: "#4CAF50"
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
 tags: [personnage, jedi, haute-republique, audio]

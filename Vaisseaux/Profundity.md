@@ -4,7 +4,7 @@ classe: MC75 Star Cruiser
 proprietaire: Amiral Raddus
 statut: détruit (0 BBY, Scarif)
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - vaisseau-rebellion
 tags: [vaisseau, profundity, rogue-one, raddus]

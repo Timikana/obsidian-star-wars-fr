@@ -10,7 +10,7 @@ acteur_voix: Jeff Bennett (Jedi Outcast)
 sabre_couleur: bleu (puis vert)
 sabre_hex: "#2E9DF7"
 couleur: bleu
-couleur_hex: "#2E9DF7"
+couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
 tags: [personnage, legendes, jedi, jeu, mercenaire]

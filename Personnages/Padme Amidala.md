@@ -10,7 +10,7 @@ acteur_voix: Natalie Portman
 sabre_couleur: 
 sabre_hex: 
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
 tags: [personnage, republique, naboo, senat, skywalker]

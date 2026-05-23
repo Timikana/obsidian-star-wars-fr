@@ -6,9 +6,9 @@ lieu: [[Crait]]
 factions: [Résistance, Premier Ordre]
 issue: Pyrrhic
 couleur: premier-ordre
-couleur_hex: "#B71C1C"
+couleur_hex: "#D32F2F"
 cssclasses:
-  - org-premier-ordre
+  - perso-premier-ordre
 tags: [evenement, bataille, resistance]
 ---
 

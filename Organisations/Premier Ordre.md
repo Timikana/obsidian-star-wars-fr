@@ -3,7 +3,7 @@ type: organisation
 periode: ~28 ABY → 35 ABY
 allegeance: Premier Ordre
 couleur: premier-ordre
-couleur_hex: "#B71C1C"
+couleur_hex: "#D32F2F"
 cssclasses:
   - org-premier-ordre
 tags: [organisation, premier-ordre, cote-obscur]

@@ -5,7 +5,7 @@ proprietaires:
   - "[[Kylo Ren]]"
 periode: Empire à Premier Ordre
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - artefact-rouge
 tags: [artefact, vador, sith, relique]

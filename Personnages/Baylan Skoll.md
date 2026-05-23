@@ -10,7 +10,7 @@ acteur_voix: Ray Stevenson
 sabre_couleur: orange
 sabre_hex: "#FB8C00"
 couleur: orange
-couleur_hex: "#FB8C00"
+couleur_hex: "#FF9800"
 cssclasses:
   - perso-orange
 tags: [personnage, jedi-dechu, mercenaire, orange, peridea]

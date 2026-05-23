@@ -6,9 +6,9 @@ lieu: [[Hetzal Prime]]
 factions: [Nihil, Ordre Jedi, République Galactique]
 issue: Désastre interstellaire
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
-  - org-sith
+  - perso-sith
 tags: [evenement, catastrophe, haute-republique, nihil]
 ---
 

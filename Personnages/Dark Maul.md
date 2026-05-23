@@ -10,7 +10,7 @@ acteur_voix: Ray Park / Sam Witwer (animé)
 sabre_couleur: rouge (double)
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, sith, dathomir, zabrak, darksaber]

@@ -4,7 +4,7 @@ classe: Variable Geometry Self-Propelled Battle Droid
 constructeur: Haor Chall Engineering / Baktoid
 proprietaire: Confédération des Systèmes Indépendants
 couleur: cis
-couleur_hex: "#5D4037"
+couleur_hex: "#1976D2"
 cssclasses:
   - vaisseau-cis
 tags: [vaisseau, cis, chasseur, droide]

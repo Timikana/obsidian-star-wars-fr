@@ -10,7 +10,7 @@ acteur_voix: Nika Futterman / Grey DeLisle
 sabre_couleur: rouge (deux courbés) puis jaune
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, sith-acolyte, dathomir, sorciere, primes]

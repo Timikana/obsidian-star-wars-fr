@@ -3,7 +3,7 @@ type: organisation
 periode: Guerres des Clones (22-19 av. BY)
 allegeance: Séparatistes
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - org-empire
 tags: [organisation, cis, separatistes, clone-wars]

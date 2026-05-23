@@ -10,7 +10,7 @@ acteur_voix: Diana Lee Inosanto
 sabre_couleur: rouge (forgé en Beskar)
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, sorciere-nuit, empire, dathomir, beskar]

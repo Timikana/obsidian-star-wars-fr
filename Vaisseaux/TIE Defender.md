@@ -4,7 +4,7 @@ classe: "TIE/D Defender"
 constructeur: Sienar Fleet Systems
 proprietaire: Empire Galactique (programme expérimental)
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, empire, chasseur, experimental, rebels]

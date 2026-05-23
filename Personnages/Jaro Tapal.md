@@ -10,7 +10,7 @@ acteur_voix: Travis Willingham
 sabre_couleur: bleu (double-lame)
 sabre_hex: "#2E9DF7"
 couleur: bleu
-couleur_hex: "#2E9DF7"
+couleur_hex: "#2196F3"
 cssclasses:
   - perso-bleu
 tags: [personnage, jedi, lasat, fallen-order]

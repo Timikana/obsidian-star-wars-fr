@@ -10,7 +10,7 @@ acteur_voix: Giancarlo Esposito
 sabre_couleur: noir (Darksaber)
 sabre_hex: "#1A1A1A"
 couleur: noir
-couleur_hex: "#1A1A1A"
+couleur_hex: "#212121"
 cssclasses:
   - perso-noir
 tags: [personnage, empire, darksaber, isb, clone-grogu]

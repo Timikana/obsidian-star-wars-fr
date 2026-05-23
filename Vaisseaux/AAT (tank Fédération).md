@@ -4,7 +4,7 @@ classe: Armored Assault Tank
 constructeur: Baktoid Armor Workshop
 proprietaire: Fédération du Commerce
 couleur: cis
-couleur_hex: "#5D4037"
+couleur_hex: "#1976D2"
 cssclasses:
   - vaisseau-cis
 tags: [vaisseau, cis, vehicule-terrestre, federation]

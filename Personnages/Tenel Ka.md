@@ -10,7 +10,7 @@ acteur_voix: —
 sabre_couleur: rouge (rare cristal Dathomir)
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, legendes, jedi, hapes, dathomir]

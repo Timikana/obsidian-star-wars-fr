@@ -3,7 +3,7 @@ type: vaisseau
 classe: Imperial Star Destroyer (Imperial-I, Imperial-II), Resurgent (Premier Ordre), Xyston (Sith Eternal)
 constructeur: Kuat Drive Yards
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, star-destroyer, empire, dreadnought]

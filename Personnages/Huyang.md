@@ -10,7 +10,7 @@ acteur_voix: David Tennant
 sabre_couleur: 
 sabre_hex: 
 couleur: droide
-couleur_hex: "#BDBDBD"
+couleur_hex: "#90A4AE"
 cssclasses:
   - perso-droide
 tags: [personnage, droide, jedi, architecte, sabres]

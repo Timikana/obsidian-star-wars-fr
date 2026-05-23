@@ -5,7 +5,7 @@ planete_origine: [[Pantora]]
 langue: Galactique Basique
 ere_apparition: Pré-République
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
   - perso-republique
 tags: [espece, pantoran, pantora]

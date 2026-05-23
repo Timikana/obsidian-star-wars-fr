@@ -3,7 +3,7 @@ type: vaisseau
 classe: T-65 X-wing (et T-70, T-85 successeurs)
 constructeur: Incom Corporation
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - vaisseau-rebellion
 tags: [vaisseau, x-wing, chasseur, rogue-squadron]

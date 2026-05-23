@@ -10,7 +10,7 @@ acteur_voix: Jennifer Hale
 sabre_couleur: jaune
 sabre_hex: "#FDD835"
 couleur: jaune
-couleur_hex: "#FDD835"
+couleur_hex: "#FFC107"
 cssclasses:
   - perso-jaune
 tags: [personnage, legendes, jedi, kotor, battle-meditation]

@@ -5,7 +5,7 @@ proprietaires:
   - "[[Rey Skywalker]]"
 periode: Ère de la Résistance
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
   - artefact-sith
 tags: [artefact, sith, poignard, exegol]

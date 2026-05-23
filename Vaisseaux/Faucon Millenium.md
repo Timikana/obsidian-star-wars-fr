@@ -4,7 +4,7 @@ classe: Cargo léger YT-1300 (modifié)
 constructeur: Corellian Engineering Corporation
 proprietaires: [Lando Calrissian, Han Solo, Rey Skywalker]
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - vaisseau-rebellion
 tags: [vaisseau, faucon, ytt-1300, contrebande]

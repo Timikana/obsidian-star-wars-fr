@@ -3,7 +3,7 @@ type: organisation
 periode: 19 BBY → 4 ABY
 allegeance: Empire
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - org-empire
 tags: [organisation, empire, cote-obscur]

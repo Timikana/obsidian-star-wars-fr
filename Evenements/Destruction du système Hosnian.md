@@ -6,9 +6,9 @@ lieu: [[Hosnian Prime]]
 factions: [Premier Ordre, Nouvelle République]
 issue: Anéantissement
 couleur: premier-ordre
-couleur_hex: "#B71C1C"
+couleur_hex: "#D32F2F"
 cssclasses:
-  - org-premier-ordre
+  - perso-premier-ordre
 tags: [evenement, genocide, premier-ordre, starkiller]
 ---
 

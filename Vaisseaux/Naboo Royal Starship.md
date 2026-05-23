@@ -4,7 +4,7 @@ classe: Yacht royal J-type 327
 constructeur: Theed Palace Space Vessel Engineering Corps
 proprietaire: Maison Royale de Naboo
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
   - vaisseau-republique
 tags: [vaisseau, naboo, royal, amidala]

@@ -5,7 +5,7 @@ planete_origine: [[Endor]]
 langue: Ewokais
 ere_apparition: Pré-République
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - perso-rebellion
 tags: [espece, ewok, endor]

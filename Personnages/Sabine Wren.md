@@ -10,7 +10,7 @@ acteur_voix: Tiya Sircar / Natasha Liu Bordizzo (live)
 sabre_couleur: noir (Darksaber, temporairement)
 sabre_hex: "#1A1A1A"
 couleur: noir
-couleur_hex: "#1A1A1A"
+couleur_hex: "#212121"
 cssclasses:
   - perso-noir
 tags: [personnage, mandalorien, rebellion, padawan-ahsoka, artiste]

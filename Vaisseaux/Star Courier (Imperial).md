@@ -4,7 +4,7 @@ classe: Lambda-class Personal Shuttle (variante)
 constructeur: Sienar Fleet Systems
 proprietaire: Dark Vador
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, empire, navette, vador]

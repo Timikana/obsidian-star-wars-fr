@@ -6,9 +6,9 @@ lieu: [[Hoth]]
 factions: [Alliance Rebelle, Empire Galactique]
 issue: Défaite
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
-  - org-empire
+  - perso-empire
 tags: [evenement, bataille, empire]
 ---
 

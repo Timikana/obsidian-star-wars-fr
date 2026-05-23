@@ -6,9 +6,9 @@ lieu: [[Scarif]]
 factions: [Alliance Rebelle, Empire Galactique]
 issue: Pyrrhic
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
-  - org-rebelle
+  - perso-rebellion
 tags: [evenement, bataille, rogue-one]
 ---
 

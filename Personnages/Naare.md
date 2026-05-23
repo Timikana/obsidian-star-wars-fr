@@ -10,7 +10,7 @@ acteur_voix:
 sabre_couleur: rouge
 sabre_hex: "#E53935"
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-sith
 tags: [personnage, sith, espionne, canon]

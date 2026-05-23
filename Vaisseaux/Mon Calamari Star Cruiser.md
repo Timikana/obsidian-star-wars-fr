@@ -4,7 +4,7 @@ classe: "Croiseur stellaire MC80 (Mon Calamari Star Cruiser)"
 constructeur: Mon Calamari Shipyards
 proprietaire: Alliance pour la Restauration de la République
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - vaisseau-rebellion
 tags: [vaisseau, rebellion, capital, mon-calamari]

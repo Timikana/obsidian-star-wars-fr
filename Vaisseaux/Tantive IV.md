@@ -3,7 +3,7 @@ type: vaisseau
 classe: CR90 Corvette Corellienne
 proprietaire: Bail Organa / Maison Organa
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
   - vaisseau-rebellion
 tags: [vaisseau, tantive, leia, rebellion]

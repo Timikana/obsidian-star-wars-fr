@@ -3,7 +3,7 @@ type: vaisseau
 classe: TIE/ln (Twin Ion Engine)
 constructeur: Sienar Fleet Systems
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
   - vaisseau-empire
 tags: [vaisseau, tie, chasseur, empire]

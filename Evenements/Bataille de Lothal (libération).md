@@ -6,9 +6,9 @@ lieu: [[Lothal]]
 factions: [Spectres, Cellule Phoenix, Empire Galactique]
 issue: Victoire
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
-  - org-rebelle
+  - perso-rebellion
 tags: [evenement, bataille, rebels, lothal]
 ---
 

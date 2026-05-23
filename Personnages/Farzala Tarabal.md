@@ -10,7 +10,7 @@ acteur_voix:
 sabre_couleur: bleu
 sabre_hex: "#2E9DF7"
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
 tags: [personnage, jedi, devaronien, haute-republique]

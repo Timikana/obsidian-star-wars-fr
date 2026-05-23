@@ -4,7 +4,7 @@ classe: Marcheur de reconnaissance bipède
 constructeur: Kuat Drive Yards
 proprietaire: Grande Armée de la République
 couleur: republique
-couleur_hex: "#C9A227"
+couleur_hex: "#FF9800"
 cssclasses:
   - vaisseau-republique
 tags: [vaisseau, republique, marcheur, reconnaissance]

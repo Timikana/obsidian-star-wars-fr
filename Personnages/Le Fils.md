@@ -10,7 +10,7 @@ acteur_voix: Sam Witwer
 sabre_couleur: rouge (manipulation)
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, mortis, force-wielder, cote-obscur]

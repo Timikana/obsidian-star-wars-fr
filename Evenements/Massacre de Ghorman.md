@@ -6,9 +6,9 @@ lieu: [[Ghorman]]
 factions: [Empire Galactique, Civils Ghormans]
 issue: Victoire
 couleur: empire
-couleur_hex: "#424242"
+couleur_hex: "#616161"
 cssclasses:
-  - org-empire
+  - perso-empire
 tags: [evenement, massacre, andor]
 ---
 

@@ -5,7 +5,7 @@ planete_origine: [[Shili]]
 langue: Togruti
 ere_apparition: Pré-République
 couleur: jedi
-couleur_hex: "#00897B"
+couleur_hex: "#2196F3"
 cssclasses:
   - perso-jedi
 tags: [espece, togruta, shili]

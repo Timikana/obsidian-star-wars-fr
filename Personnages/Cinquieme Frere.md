@@ -10,7 +10,7 @@ acteur_voix: Philip Anthony-Rodriguez
 sabre_couleur: rouge (double rotative)
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, inquisiteur, dowutin, empire]

@@ -7,7 +7,7 @@ gouvernement: Monarchie élective
 especes_natives: [Humains]
 statut: détruite (0 BBY par l'Étoile de la Mort)
 couleur: core
-couleur_hex: "#00BCD4"
+couleur_hex: "#FFEB3B"
 cssclasses:
   - planete-core
 tags: [planete, core, alderaan, detruite]

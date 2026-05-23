@@ -6,9 +6,9 @@ lieu: [[Jakku]]
 factions: [Nouvelle République, Empire résiduel]
 issue: Victoire
 couleur: rebellion
-couleur_hex: "#FF6F00"
+couleur_hex: "#FF5722"
 cssclasses:
-  - org-rebelle
+  - perso-rebellion
 tags: [evenement, bataille, aftermath]
 ---
 

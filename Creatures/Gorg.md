@@ -3,7 +3,7 @@ type: creature
 classe: amphibien
 habitat: marais, mares, étalages alimentaires
 couleur: aquatique
-couleur_hex: "#006064"
+couleur_hex: "#0277BD"
 cssclasses:
   - creature-aquatique
 tags: [creature, aquatique, gorg, tatooine]

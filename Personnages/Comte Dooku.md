@@ -10,7 +10,7 @@ acteur_voix: Christopher Lee / Corey Burton (animé)
 sabre_couleur: rouge (courbé)
 sabre_hex: "#E53935"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, sith, jedi-dechu, separatistes, serenno]

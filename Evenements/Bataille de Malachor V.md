@@ -6,9 +6,9 @@ lieu: [[Malachor V]]
 factions: [République Galactique, Néo-Croisés Mandaloriens]
 issue: Victoire pyrrhique
 couleur: sith
-couleur_hex: "#4A148C"
+couleur_hex: "#B71C1C"
 cssclasses:
-  - org-sith
+  - perso-sith
 tags: [evenement, bataille, mandaloriens, legendes]
 ---
 

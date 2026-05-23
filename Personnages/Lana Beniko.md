@@ -10,7 +10,7 @@ acteur_voix: Allegra Clark
 sabre_couleur: jaune
 sabre_hex: "#FDD835"
 couleur: rouge
-couleur_hex: "#E53935"
+couleur_hex: "#B71C1C"
 cssclasses:
   - perso-rouge
 tags: [personnage, sith, swtor, old-republic, legendes]
