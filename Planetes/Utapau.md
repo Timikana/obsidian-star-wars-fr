@@ -2,7 +2,7 @@
 type: planete
 region: Outer Rim
 climat: Désertique (pueblos de cratère)
-especes_natives: [Pau'ans, Utai]
+especes_natives: ["Pau'ans", Utai]
 couleur: outer
 couleur_hex: "#FF5722"
 cssclasses:

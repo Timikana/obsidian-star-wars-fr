@@ -3,7 +3,7 @@ type: planete
 region: Outer Rim
 secteur: Gaulus
 climat: Désertique-tempéré (rotation synchrone)
-especes_natives: [Twi'leks]
+especes_natives: ["Twi'leks"]
 couleur: outer
 couleur_hex: "#FF5722"
 cssclasses:

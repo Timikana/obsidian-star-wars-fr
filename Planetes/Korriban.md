@@ -1,9 +1,9 @@
 ---
-alias: [Moraband (canon)]
+alias: ["Moraband (canon)"]
 type: planete
 region: Outer Rim
 climat: Désertique-tombal
-especes_natives: [Sith pur (extinct)]
+especes_natives: ["Sith pur (extinct)"]
 couleur: outer
 couleur_hex: "#FF5722"
 cssclasses:

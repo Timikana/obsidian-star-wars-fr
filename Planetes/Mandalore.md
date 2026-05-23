@@ -4,7 +4,7 @@ region: Outer Rim
 secteur: Mandalore
 climat: Désertique (post-bombardement)
 gouvernement: Mand'alor
-especes_natives: [Humains Mandaloriens, Mythosaures (extinct)]
+especes_natives: [Humains Mandaloriens, "Mythosaures (extinct)"]
 couleur: outer
 couleur_hex: "#FF5722"
 cssclasses:

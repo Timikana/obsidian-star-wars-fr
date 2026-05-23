@@ -2,7 +2,7 @@
 type: planete
 region: Unknown Regions
 climat: Océanique (îles rocheuses)
-especes_natives: [Caretakers (Lanai), Porgs]
+especes_natives: ["Caretakers (Lanai)", Porgs]
 couleur: unknown
 couleur_hex: "#212121"
 cssclasses:

@@ -2,7 +2,7 @@
 type: planete
 region: Unknown Regions
 climat: Tempéré, plaines, ruines anciennes, trois lunes
-especes_natives: [Noti, Sœurs Nuit (exilées)]
+especes_natives: [Noti, "Sœurs Nuit (exilées)"]
 couleur: unknown
 couleur_hex: "#212121"
 cssclasses:

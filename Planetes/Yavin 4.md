@@ -3,7 +3,7 @@ type: planete
 region: Outer Rim
 secteur: Gordian Reach
 climat: Forêt tropicale (lune)
-especes_natives: [Massassi (extinct)]
+especes_natives: ["Massassi (extinct)"]
 couleur: outer
 couleur_hex: "#FF5722"
 cssclasses:

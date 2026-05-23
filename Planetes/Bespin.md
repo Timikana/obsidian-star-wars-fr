@@ -3,7 +3,7 @@ type: planete
 region: Outer Rim
 secteur: Anoat
 climat: Géante gazeuse
-especes_natives: [Ugnaughts (lune)]
+especes_natives: ["Ugnaughts (lune)"]
 couleur: outer
 couleur_hex: "#FF5722"
 cssclasses:
