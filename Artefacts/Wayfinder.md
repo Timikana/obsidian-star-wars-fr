@@ -1,11 +1,15 @@
 ---
 type: artefact
-proprietaires: [[Dark Sidious]], [[Luke Skywalker]], [[Kylo Ren]], [[Rey]]
+proprietaires:
+  - "[[Dark Sidious]]"
+  - "[[Luke Skywalker]]"
+  - "[[Kylo Ren]]"
+  - "[[Rey Skywalker]]"
 periode: Ère de la Résistance
 couleur: sith
 couleur_hex: "#4A148C"
 cssclasses:
-  - perso-sith
+  - artefact-sith
 tags: [artefact, navigation, sith-eternal, exegol]
 ---
 
@@ -20,7 +24,7 @@ Les Wayfinders (ou "boussoles") sont des pyramides de navigation forgées par le
 - Créés par les [[Sith Eternal]] pour protéger l'accès à [[Exegol]]
 - [[Kylo Ren]] récupère le sien sur [[Mustafar]]
 - [[Luke Skywalker]] cache un autre sur [[Pasaana]] dans l'épave d'un TIE
-- [[Rey]] s'en empare puis l'utilise pour guider la flotte de la [[Résistance]]
+- [[Rey Skywalker]] s'en empare puis l'utilise pour guider la flotte de la [[Résistance]]
 
 ## Apparitions
 [[The Rise of Skywalker]].

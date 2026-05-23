@@ -1,11 +1,13 @@
 ---
 type: artefact
-proprietaires: [[Dark Vador]], [[Kylo Ren]]
+proprietaires:
+  - "[[Dark Vador]]"
+  - "[[Kylo Ren]]"
 periode: Empire à Premier Ordre
 couleur: rouge
 couleur_hex: "#E53935"
 cssclasses:
-  - perso-rouge
+  - artefact-rouge
 tags: [artefact, vador, sith, relique]
 ---
 
@@ -14,7 +16,7 @@ tags: [artefact, vador, sith, relique]
 > <span style="color:#E53935">█</span> — Masque noir scellé, icône de la terreur impériale.
 
 ## Résumé
-Le casque et le masque de [[Dark Vador]] forment l'élément central de son armure de survie, indispensable après les blessures de [[Mustafar]]. Il est devenu l'icône absolue du pouvoir Sith et de l'[[Empire Galactique]]. Après la mort de Vador sur la seconde [[Étoile de la Mort]], le casque fut brûlé sur [[Endor]].
+Le casque et le masque de [[Dark Vador]] forment l'élément central de son armure de survie, indispensable après les blessures de [[Mustafar]]. Il est devenu l'icône absolue du pouvoir Sith et de l'[[Empire galactique]]. Après la mort de Vador sur la seconde [[Étoile de la Mort]], le casque fut brûlé sur [[Endor]].
 
 ## Histoire / Porteurs successifs
 - [[Dark Vador]] — porté de 19 av.BY à 4 ap.BY

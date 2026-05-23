@@ -1,11 +1,14 @@
 ---
 type: artefact
-proprietaires: [[Luke Skywalker]], [[Lor San Tekka]], [[Rey]]
+proprietaires:
+  - "[[Luke Skywalker]]"
+  - "[[Lor San Tekka]]"
+  - "[[Rey Skywalker]]"
 periode: Nouvelle République à Résistance
 couleur: jedi
 couleur_hex: "#00897B"
 cssclasses:
-  - perso-jedi
+  - artefact-jedi
 tags: [artefact, navigation, jedi, ahch-to]
 ---
 
@@ -20,7 +23,7 @@ Le compas Jedi est un dispositif de navigation ancien capable de localiser les s
 - Cartes anciennes conservées par les premiers [[Jedi]]
 - [[Luke Skywalker]] en confie une part à [[R2-D2]]
 - [[Lor San Tekka]] détient le fragment manquant sur [[Jakku]]
-- Réuni par [[Rey]] pour atteindre Luke en exil
+- Réuni par [[Rey Skywalker]] pour atteindre Luke en exil
 
 ## Apparitions
 [[The Force Awakens]], [[The Last Jedi]].

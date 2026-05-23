@@ -60,13 +60,27 @@
 .org-mando         { --sw-color: #4FC3F7; }
 .org-premier-ordre { --sw-color: #B71C1C; }
 
+/* === ARTEFACTS (mêmes couleurs que personnages) === */
+.artefact-bleu        { --sw-color: #2E9DF7; }
+.artefact-vert        { --sw-color: #4CAF50; }
+.artefact-rouge       { --sw-color: #E53935; }
+.artefact-violet      { --sw-color: #8E24AA; }
+.artefact-jaune       { --sw-color: #FDD835; }
+.artefact-noir        { --sw-color: #1A1A1A; }
+.artefact-orange      { --sw-color: #FB8C00; }
+.artefact-jedi        { --sw-color: #00897B; }
+.artefact-sith        { --sw-color: #4A148C; }
+.artefact-mandalorien { --sw-color: #4FC3F7; }
+.artefact-yoda        { --sw-color: #689F38; }
+
 
 /* === APPLICATION TITRES === */
 [class*="perso-"] h1,
 [class*="planete-"] h1,
 [class*="vaisseau-"] h1,
 [class*="creature-"] h1,
-[class*="org-"] h1 {
+[class*="org-"] h1,
+[class*="artefact-"] h1 {
   color: var(--sw-color);
   border-bottom: 3px solid var(--sw-color);
   padding-bottom: 6px;
@@ -75,7 +89,8 @@
 [class*="planete-"] h2,
 [class*="vaisseau-"] h2,
 [class*="creature-"] h2,
-[class*="org-"] h2 {
+[class*="org-"] h2,
+[class*="artefact-"] h2 {
   color: var(--sw-color);
   border-left: 4px solid var(--sw-color);
   padding-left: 10px;
@@ -84,7 +99,8 @@
 [class*="planete-"] h3,
 [class*="vaisseau-"] h3,
 [class*="creature-"] h3,
-[class*="org-"] h3 {
+[class*="org-"] h3,
+[class*="artefact-"] h3 {
   color: var(--sw-color);
   opacity: 0.9;
 }

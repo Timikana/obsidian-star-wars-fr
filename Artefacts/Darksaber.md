@@ -1,11 +1,18 @@
 ---
 type: artefact
-proprietaires: [[Tarre Vizsla]], [[Pré Vizsla]], [[Dark Maul]], [[Sabine Wren]], [[Bo-Katan Kryze]], [[Moff Gideon]], [[Din Djarin]]
+proprietaires:
+  - "[[Tarre Vizsla]]"
+  - "[[Pré Vizsla]]"
+  - "[[Dark Maul]]"
+  - "[[Sabine Wren]]"
+  - "[[Bo-Katan Kryze]]"
+  - "[[Moff Gideon]]"
+  - "[[Din Djarin]]"
 periode: Ancienne République à Nouvelle République
 couleur: noir
 couleur_hex: "#1A1A1A"
 cssclasses:
-  - perso-noir
+  - artefact-noir
 tags: [artefact, sabre, mandalorien, relique]
 ---
 

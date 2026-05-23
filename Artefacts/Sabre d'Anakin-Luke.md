@@ -1,11 +1,15 @@
 ---
 type: artefact
-proprietaires: [[Anakin Skywalker]], [[Luke Skywalker]], [[Maz Kanata]], [[Rey]]
+proprietaires:
+  - "[[Anakin Skywalker]]"
+  - "[[Luke Skywalker]]"
+  - "[[Maz Kanata]]"
+  - "[[Rey Skywalker]]"
 periode: Guerres des Clones à l'Ère de la Résistance
 couleur: bleu
 couleur_hex: "#2E9DF7"
 cssclasses:
-  - perso-bleu
+  - artefact-bleu
 tags: [artefact, sabre, skywalker, jedi]
 ---
 
@@ -21,7 +25,7 @@ Construit par [[Anakin Skywalker]] avant les Guerres des Clones, ce sabre laser 
 - [[Obi-Wan Kenobi]] — récupéré et conservé sur [[Tatooine]]
 - [[Luke Skywalker]] — reçu à Tatooine, perdu sur [[Bespin]]
 - [[Maz Kanata]] — retrouvé mystérieusement sur [[Takodana]]
-- [[Rey]] — appelée par le sabre, brisé sur [[Crait]], réparé
+- [[Rey Skywalker]] — appelée par le sabre, brisé sur [[Crait]], réparé
 - Confié à la mémoire des [[Jedi]] sur [[Tatooine]]
 
 ## Apparitions

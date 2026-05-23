@@ -1,11 +1,14 @@
 ---
 type: artefact
-proprietaires: [[Mandaloriens]], [[Din Djarin]], [[Bo-Katan Kryze]]
+proprietaires:
+  - "[[Mandaloriens]]"
+  - "[[Din Djarin]]"
+  - "[[Bo-Katan Kryze]]"
 periode: Toutes époques
 couleur: mandalorien
-couleur_hex: "#9E9E9E"
+couleur_hex: "#4FC3F7"
 cssclasses:
-  - perso-mandalorien
+  - artefact-mandalorien
 tags: [artefact, mandalorien, mythosaure, symbole]
 ---
 

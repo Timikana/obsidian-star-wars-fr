@@ -1,11 +1,13 @@
 ---
 type: artefact
-proprietaires: [[Naga Sadow]], [[Sith]]
+proprietaires:
+  - "[[Naga Sadow]]"
+  - "[[Ordre Sith]]"
 periode: Ancienne République (Légendes)
 couleur: sith
 couleur_hex: "#4A148C"
 cssclasses:
-  - perso-sith
+  - artefact-sith
 tags: [artefact, sceptre, sith, naga-sadow, legendes]
 ---
 

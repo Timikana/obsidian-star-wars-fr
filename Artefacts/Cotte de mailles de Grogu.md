@@ -1,11 +1,12 @@
 ---
 type: artefact
-proprietaires: [[Grogu]]
+proprietaires:
+  - "[[Grogu]]"
 periode: Nouvelle République
 couleur: yoda
-couleur_hex: "#4CAF50"
+couleur_hex: "#689F38"
 cssclasses:
-  - perso-yoda
+  - artefact-yoda
 tags: [artefact, beskar, grogu, mandalorien]
 ---
 

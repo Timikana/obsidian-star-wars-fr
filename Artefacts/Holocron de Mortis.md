@@ -1,11 +1,13 @@
 ---
 type: artefact
-proprietaires: [[Le Père]], [[Anakin Skywalker]]
+proprietaires:
+  - "[[Le Père]]"
+  - "[[Anakin Skywalker]]"
 periode: Guerres des Clones
 couleur: jedi
 couleur_hex: "#00897B"
 cssclasses:
-  - perso-jedi
+  - artefact-jedi
 tags: [artefact, holocron, mortis, equilibre]
 ---
 

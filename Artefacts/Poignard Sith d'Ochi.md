@@ -1,11 +1,13 @@
 ---
 type: artefact
-proprietaires: [[Ochi de Bestoon]], [[Rey]]
+proprietaires:
+  - "[[Ochi de Bestoon]]"
+  - "[[Rey Skywalker]]"
 periode: Ère de la Résistance
 couleur: sith
 couleur_hex: "#4A148C"
 cssclasses:
-  - perso-sith
+  - artefact-sith
 tags: [artefact, sith, poignard, exegol]
 ---
 
@@ -18,8 +20,8 @@ Ce poignard rituel Sith appartenait à [[Ochi de Bestoon]], assassin au service 
 
 ## Histoire / Porteurs successifs
 - Forgé par les [[Sith Eternal]] et confié à [[Ochi de Bestoon]]
-- Utilisé pour assassiner les parents de [[Rey]]
-- Retrouvé sur [[Pasaana]] par [[Rey]] et la [[Résistance]]
+- Utilisé pour assassiner les parents de [[Rey Skywalker]]
+- Retrouvé sur [[Pasaana]] par [[Rey Skywalker]] et la [[Résistance]]
 - Détruit symboliquement après la chute de [[Dark Sidious]]
 
 ## Apparitions

@@ -1,11 +1,12 @@
 ---
 type: artefact
-proprietaires: [[Mace Windu]]
+proprietaires:
+  - "[[Mace Windu]]"
 periode: Guerres des Clones
 couleur: violet
 couleur_hex: "#8E24AA"
 cssclasses:
-  - perso-violet
+  - artefact-violet
 tags: [artefact, sabre, jedi, mace-windu]
 ---
 

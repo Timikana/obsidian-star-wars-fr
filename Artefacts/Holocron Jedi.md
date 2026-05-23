@@ -1,11 +1,12 @@
 ---
 type: artefact
-proprietaires: [[Ordre Jedi]]
+proprietaires:
+  - "[[Ordre Jedi]]"
 periode: Ancienne République à Empire
 couleur: jedi
 couleur_hex: "#00897B"
 cssclasses:
-  - perso-jedi
+  - artefact-jedi
 tags: [artefact, holocron, jedi, savoir]
 ---
 
@@ -18,7 +19,7 @@ Les holocrons Jedi sont des dispositifs cubiques ou sphériques cristallins acti
 
 ## Histoire / Porteurs successifs
 - Conservés au Temple Jedi sous la garde des [[Maître Jedi]]
-- Pillés par l'[[Empire Galactique]] après l'[[Ordre 66]]
+- Pillés par l'[[Empire galactique]] après l'[[Ordre 66]]
 - Récupérés notamment par [[Ezra Bridger]] et [[Kanan Jarrus]]
 - Recherchés par l'[[Inquisitorius]] pour traquer les survivants
 
