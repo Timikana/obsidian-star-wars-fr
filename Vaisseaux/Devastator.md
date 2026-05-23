@@ -20,4 +20,4 @@ Imperial-class Star Destroyer servant de vaisseau amiral à [[Dark Vador]] duran
 ## Apparitions
 - *Star Wars Épisode IV : Un Nouvel Espoir* (1977)
 - *Rogue One: A Star Wars Story* (2016)
-- Comics Marvel **Star Wars: Darth Vader**
+- Comics Marvel **Star Wars: Dark Vader**

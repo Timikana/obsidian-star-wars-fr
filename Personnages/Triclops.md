@@ -5,7 +5,7 @@ affiliation: [Aucune, Rébellion (sympathisant)]
 periode: [Guerre civile galactique, Nouvelle République]
 statut: Vivant (Lég.)
 canon: Légendes
-premiere_apparition: The Glove of Darth Vader (1992)
+premiere_apparition: The Glove of Dark Vader (1992)
 acteur_voix: 
 sabre_couleur: 
 sabre_hex: 

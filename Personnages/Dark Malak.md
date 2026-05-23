@@ -1,5 +1,5 @@
 ---
-alias: [Darth Malak, Alek Squinquargesimus]
+alias: [Dark Malak, Alek Squinquargesimus]
 espece: Humain
 affiliation: [Sith Empire (Revan)]
 periode: [Old Republic (~3956 BBY)]

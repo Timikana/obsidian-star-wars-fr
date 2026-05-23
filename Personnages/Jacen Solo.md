@@ -1,5 +1,5 @@
 ---
-alias: [Darth Caedus]
+alias: [Dark Caedus]
 espece: Humain
 affiliation: [Nouvel Ordre Jedi (déchu), Sith]
 periode: [Nouvelle République (Légendes)]
@@ -16,12 +16,12 @@ cssclasses:
 tags: [personnage, legendes, sith, solo, caedus]
 ---
 
-# Jacen Solo / Darth Caedus
+# Jacen Solo / Dark Caedus
 > [!color] Couleur signature
 > <span style="color:#E53935">█</span> **Rouge** — fils Solo bascule en Sith Caedus, tué par sa jumelle.
 
 ## Résumé
-**[Légendes]** Jumeau de [[Jaina Solo]]. Maître Jedi puis Sith Lord Darth Caedus. Tué par sa sœur Jaina dans Legacy of the Force.
+**[Légendes]** Jumeau de [[Jaina Solo]]. Maître Jedi puis Sith Lord Dark Caedus. Tué par sa sœur Jaina dans Legacy of the Force.
 
 ## Relations
 - Famille : [[Han Solo]], [[Leia Organa]], [[Jaina Solo]] (jumelle, tueuse), [[Anakin Solo (Légendes)]]

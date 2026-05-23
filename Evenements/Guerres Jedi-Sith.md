@@ -27,4 +27,4 @@ Au crépuscule de l'[[Ancienne République]], un siècle de guerres ininterrompu
 [[Ruusan]] = annihilation mutuelle. Refondation Sith par [[Dark Bane]]. Réformes Jedi.
 
 ## Apparitions
-*Tales of the Jedi*, *Darth Bane* trilogy, *Jedi vs Sith* (Légendes).
+*Tales of the Jedi*, *Dark Bane* trilogy, *Jedi vs Sith* (Légendes).

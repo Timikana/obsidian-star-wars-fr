@@ -5,7 +5,7 @@ affiliation: [Ordre Sith ancien]
 periode: [Ancienne République (esprit), Règne de l'Empire (manifestation)]
 statut: mort (esprit détruit par Dark Vador)
 canon: Canon
-premiere_apparition: Darth Vader (2017) #21
+premiere_apparition: Dark Vader (2017) #21
 acteur_voix: —
 sabre_couleur: rouge
 sabre_hex: "#E53935"
@@ -25,4 +25,4 @@ tags: [personnage, canon, sith, esprit, comics, empire]
 
 ## Relations / Apparitions
 - Sert : [[Anakin Skywalker|Dark Vador]]
-- Comics Darth Vader vol. 2 (Soule)
+- Comics Dark Vader vol. 2 (Soule)

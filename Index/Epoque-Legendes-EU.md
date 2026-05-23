@@ -13,10 +13,10 @@ tags: [epoque, legendes, eu, expanded-universe, njo, legacy, dark-empire, moc-ep
 # Époque — Légendes / Expanded Universe
 
 > [!color] Violet apocryphe
-> <span style="color:#9C27B0">█</span> **Légendes** — continuité pré-Disney : Thrawn Trilogy, [[Croisade Yuuzhan Vong|New Jedi Order]], *Legacy of the Force*, *Dark Empire*, *Sword of the Jedi*, BD *Legacy* avec [[Cade Skywalker]] et [[Darth Krayt]].
+> <span style="color:#9C27B0">█</span> **Légendes** — continuité pré-Disney : Thrawn Trilogy, [[Croisade Yuuzhan Vong|New Jedi Order]], *Legacy of the Force*, *Dark Empire*, *Sword of the Jedi*, BD *Legacy* avec [[Cade Skywalker]] et [[Dark Krayt]].
 
 ## Résumé
-La continuité de l'**Univers Étendu** (déclassée en 2014, rebaptisée *Legends*) prolonge la saga d'une trentaine de romans et BD. La Thrawn Trilogy ressuscite l'Empire via [[Grand Amiral Thrawn Legendes]]. *Dark Empire* voit le clonage de [[Empereur Clone|Palpatine]]. [[Luke Skywalker]] reforme l'Ordre Jedi avec [[Mara Jade]], [[Kyle Katarn]], [[Corran Horn]]. La [[Croisade Yuuzhan Vong]] (25-29 ABY) ravage la galaxie, tuant [[Anakin Solo Legendes|Anakin Solo]]. [[Jacen Solo]] devient [[Darth Caedus]] (*Legacy of the Force*). Un siècle plus tard, *Legacy* met en scène [[Cade Skywalker]] face à [[Darth Krayt]] et son Ordre Sith Un.
+La continuité de l'**Univers Étendu** (déclassée en 2014, rebaptisée *Legends*) prolonge la saga d'une trentaine de romans et BD. La Thrawn Trilogy ressuscite l'Empire via [[Grand Amiral Thrawn Legendes]]. *Dark Empire* voit le clonage de [[Empereur Clone|Palpatine]]. [[Luke Skywalker]] reforme l'Ordre Jedi avec [[Mara Jade]], [[Kyle Katarn]], [[Corran Horn]]. La [[Croisade Yuuzhan Vong]] (25-29 ABY) ravage la galaxie, tuant [[Anakin Solo Legendes|Anakin Solo]]. [[Jacen Solo]] devient [[Dark Caedus]] (*Legacy of the Force*). Un siècle plus tard, *Legacy* met en scène [[Cade Skywalker]] face à [[Dark Krayt]] et son Ordre Sith Un.
 
 ## Personnages
 - [[Allana Solo]]
@@ -29,11 +29,11 @@ La continuité de l'**Univers Étendu** (déclassée en 2014, rebaptisée *Legen
 - [[Cilghal]]
 - [[Corran Horn]]
 - [[Dark Bane]]
-- [[Darth Caedus]]
-- [[Darth Krayt]]
-- [[Darth Nihl]]
-- [[Darth Talon]]
-- [[Darth Wyyrlok]]
+- [[Dark Caedus]]
+- [[Dark Krayt]]
+- [[Dark Nihl]]
+- [[Dark Talon]]
+- [[Dark Wyyrlok]]
 - [[Deliah Blue]]
 - [[Empereur Clone]]
 - [[Ganner Rhysode]]

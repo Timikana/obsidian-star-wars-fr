@@ -5,7 +5,7 @@ affiliation: [Empire Galactique, Cylo]
 periode: [Règne de l'Empire]
 statut: mort (tué par Dark Vador)
 canon: Canon
-premiere_apparition: Darth Vader (2015) #16
+premiere_apparition: Dark Vader (2015) #16
 acteur_voix: —
 sabre_couleur: 
 sabre_hex: 
@@ -26,4 +26,4 @@ tags: [personnage, canon, empire, cyborg, comics]
 ## Relations / Apparitions
 - Créateur : [[Doctor Cylo]]
 - Ennemi : [[Anakin Skywalker|Dark Vador]]
-- Comics Darth Vader vol. 1 (Kieron Gillen)
+- Comics Dark Vader vol. 1 (Kieron Gillen)

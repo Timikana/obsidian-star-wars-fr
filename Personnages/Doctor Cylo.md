@@ -5,7 +5,7 @@ affiliation: [Empire]
 periode: [Empire]
 statut: "mort (canon : tué par Vader)"
 canon: Canon
-premiere_apparition: Comics Darth Vader (2015)
+premiere_apparition: Comics Dark Vader (2015)
 acteur_voix: —
 sabre_couleur: 
 sabre_hex: 
@@ -27,4 +27,4 @@ Scientifique impérial cyborg, transfère sa conscience entre corps clones. Cré
 - Ennemi : [[Dark Vador]]
 
 ## Apparitions
-Comics Darth Vader (Soule)
+Comics Dark Vader (Soule)

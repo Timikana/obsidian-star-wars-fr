@@ -21,13 +21,13 @@ tags: [personnage, jedi, skywalker, legacy, legendes]
 > <span style="color:#00897B">█</span> **Jedi** — Descendant de [[Luke Skywalker|Luke]], chasseur de primes Jedi déchu de l'ère Legacy.
 
 ## Résumé
-Cade Skywalker est le héros de la série de comics Star Wars: Legacy, situé environ 130 ans après la Bataille de Yavin. Descendant direct de [[Luke Skywalker]] via [[Ben Skywalker]], il est le fils du Maître Jedi Kol Skywalker. Survivant du massacre du Temple Jedi par les Sith de [[Darth Krayt]], le jeune Cade renie l'Ordre Jedi, devient chasseur de primes puis pirate à bord du Mynock. Toxicomane au « death sticks », hanté par les fantômes de la Force, il finit par accepter son héritage et s'allie aux Jedi survivants et à l'Empereur [[Roan Fel]] pour combattre Krayt. Son arc explore la culpabilité, la rédemption et la nature ambivalente du nom Skywalker à travers les siècles.
+Cade Skywalker est le héros de la série de comics Star Wars: Legacy, situé environ 130 ans après la Bataille de Yavin. Descendant direct de [[Luke Skywalker]] via [[Ben Skywalker]], il est le fils du Maître Jedi Kol Skywalker. Survivant du massacre du Temple Jedi par les Sith de [[Dark Krayt]], le jeune Cade renie l'Ordre Jedi, devient chasseur de primes puis pirate à bord du Mynock. Toxicomane au « death sticks », hanté par les fantômes de la Force, il finit par accepter son héritage et s'allie aux Jedi survivants et à l'Empereur [[Roan Fel]] pour combattre Krayt. Son arc explore la culpabilité, la rédemption et la nature ambivalente du nom Skywalker à travers les siècles.
 
 ## Relations
 - Ancêtre : [[Luke Skywalker]]
 - Père : Kol Skywalker
 - Allié impérial : [[Roan Fel]], [[Antares Draco]]
-- Ennemi : [[Darth Krayt]]
+- Ennemi : [[Dark Krayt]]
 - Équipage : Jariah Syn, Deliah Blue
 
 ## Apparitions

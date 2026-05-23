@@ -31,4 +31,4 @@ tags: [personnage, sith, ancienne-republique, legendes, technobeasts, alchimie-s
 - **Rouge** ; alchimie Sith, métamorphe shi'ido.
 
 ## Apparitions
-*The Essential Guide to the Force* · roman *Darth Bane: Path of Destruction* · *Book of Sith*
+*The Essential Guide to the Force* · roman *Dark Bane: Path of Destruction* · *Book of Sith*

@@ -1,5 +1,5 @@
 ---
-alias: [Darth Malgus]
+alias: [Dark Malgus]
 espece: Humain
 affiliation: [Empire Sith Reconstitué]
 periode: [Old Republic (~3653 BBY)]
@@ -16,7 +16,7 @@ cssclasses:
 tags: [personnage, legendes, sith, swtor]
 ---
 
-# Darth Malgus
+# Dark Malgus
 > [!color] Couleur signature
 > <span style="color:#E53935">█</span> **Rouge** — Sith Lord du saccage de Coruscant dans SWTOR.
 

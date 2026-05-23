@@ -349,7 +349,7 @@ tags: [moc, personnages]
 - 🟪 [[Marchion Ro]] · 🟪 [[Marda Ro]] · 🟦 [[Loden Greatstorm]] · 🟦 [[Indeera Stokes]] · 🟩 [[Sskeer]] · 🟪 [[Lourna Dee]] · 🟦 [[Reath Silas]] · 🟦 [[Imri Cantaros]] · 🔶 [[Mari San Tekka]] · 🟦 [[Torbin]]
 
 ### Légendes anciens (Sith War / SWTOR)
-- ⬛ [[Tarre Vizsla]] · 🟦 [[Kyle Katarn]] · 🔶 [[Juno Eclipse]] · 🤖 [[PROXY]] · 🟧 [[Nomi Sunrider]] · 🟦 [[Ulic Qel-Droma]] · 🟥 [[Exar Kun]] · 🟥 [[Naga Sadow]] · 🟥 [[Vitiate]] · 🟥 [[Darth Malgus]]
+- ⬛ [[Tarre Vizsla]] · 🟦 [[Kyle Katarn]] · 🔶 [[Juno Eclipse]] · 🤖 [[PROXY]] · 🟧 [[Nomi Sunrider]] · 🟦 [[Ulic Qel-Droma]] · 🟥 [[Exar Kun]] · 🟥 [[Naga Sadow]] · 🟥 [[Vitiate]] · 🟥 [[Dark Malgus]]
 
 ### Yuuzhan Vong + Battlefront + divers
 - 🟪 [[Nom Anor]] · 🟪 [[Shimrra Jamaane]] · 🟪 [[Tsavong Lah]] · 🟪 [[Onimi]] · 🟥 [[Lumiya]] · 🔶 [[Zay Versio]] · 🔶 [[Del Meeko]] · ⬛ [[Doctor Cylo]] · 🟫 [[Doctor Evazan]] · 🔶 [[Wicket]]

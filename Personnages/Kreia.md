@@ -1,5 +1,5 @@
 ---
-alias: [Darth Traya, Kreia, La Vieille Mémoire]
+alias: [Dark Traya, Kreia, La Vieille Mémoire]
 espece: Humain
 affiliation: [Ordre Jedi (déchue), Sith (exilée du Triumvirate)]
 periode: [Old Republic (~3951 BBY)]
@@ -16,7 +16,7 @@ cssclasses:
 tags: [personnage, legendes, sith, jedi, kotor, traya]
 ---
 
-# Kreia / Darth Traya
+# Kreia / Dark Traya
 > [!color] Couleur signature
 > <span style="color:#8E24AA">█</span> **Violet** — maîtresse philosophe ambiguë, Sith déchue redevenue Jedi.
 

@@ -37,4 +37,4 @@ Seigneur Sith Muun, banquier de l'InterGalactic Banking Clan sous l'identité He
 
 ## Apparitions
 - **Films** : III (mention "La tragédie de Dark Plagueis le Sage")
-- **Romans** : *Darth Plagueis* (Légendes, 2012, James Luceno)
+- **Romans** : *Dark Plagueis* (Légendes, 2012, James Luceno)

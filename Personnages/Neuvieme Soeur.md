@@ -5,7 +5,7 @@ affiliation: [Inquisitorius, Empire]
 periode: [Empire]
 statut: "mort (Jedi: Fallen Order)"
 canon: Canon
-premiere_apparition: "Comics Darth Vader (2017) / Jedi: Fallen Order"
+premiere_apparition: "Comics Dark Vader (2017) / Jedi: Fallen Order"
 acteur_voix: Misty Lee
 sabre_couleur: rouge (double rotative)
 sabre_hex: "#E53935"
@@ -30,4 +30,4 @@ Inquisitrice corpulente Dowutin. Tuée par [[Cal Kestis]] dans *Fallen Order*.
 - **Rouge double rotatif**.
 
 ## Apparitions
-Comics Darth Vader · Jedi: Fallen Order
+Comics Dark Vader · Jedi: Fallen Order

@@ -24,7 +24,7 @@ tags: [personnage, legendes, sith, swtor, immortel]
 **[Légendes]** Empereur Sith millénaire, créateur d'un nouvel Empire Sith. Antagoniste principal de *Star Wars: The Old Republic*. Dévore des planètes entières.
 
 ## Relations
-- Apprentis : Darth Marr, Darth Malgus
+- Apprentis : Dark Marr, Dark Malgus
 
 ## Sabre(s) laser
 - **Rouge**.

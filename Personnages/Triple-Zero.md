@@ -5,7 +5,7 @@ affiliation: [Doctor Aphra]
 periode: [Empire]
 statut: actif
 canon: Canon
-premiere_apparition: Comics Darth Vader (2015)
+premiere_apparition: Comics Dark Vader (2015)
 acteur_voix: —
 sabre_couleur: 
 sabre_hex: 
@@ -28,4 +28,4 @@ Droïde de protocole noir, programmé pour la torture et l'étiquette. Compagnon
 - Compagnon : [[BT-1]]
 
 ## Apparitions
-Comics Darth Vader, Doctor Aphra
+Comics Dark Vader, Doctor Aphra

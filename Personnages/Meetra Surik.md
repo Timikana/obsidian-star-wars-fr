@@ -24,7 +24,7 @@ tags: [personnage, legendes, jedi, kotor, exile]
 **[Légendes]** Jedi exilée pour avoir suivi [[Dark Revan]] dans les Guerres Mandaloriennes. Coupée volontairement de la Force après Malachor V. Élève de [[Kreia]]. Héroïne de KOTOR II.
 
 ## Relations
-- Maîtresse : [[Kreia]] / Darth Traya
+- Maîtresse : [[Kreia]] / Dark Traya
 - Allié : [[Dark Revan]] (en mission)
 
 ## Sabre(s) laser

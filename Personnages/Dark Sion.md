@@ -1,5 +1,5 @@
 ---
-alias: [Darth Sion, Le Seigneur de la Douleur]
+alias: [Dark Sion, Le Seigneur de la Douleur]
 espece: Humain (mort-vivant Sith)
 affiliation: [Sith Triumvirate]
 periode: [Old Republic (~3951 BBY)]

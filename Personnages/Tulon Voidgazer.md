@@ -5,7 +5,7 @@ affiliation: [Empire Galactique, Cylo]
 periode: [Règne de l'Empire]
 statut: morte (tuée par Dark Vador)
 canon: Canon
-premiere_apparition: Darth Vader (2015) #6
+premiere_apparition: Dark Vader (2015) #6
 acteur_voix: —
 sabre_couleur: 
 sabre_hex: 
@@ -26,4 +26,4 @@ tags: [personnage, canon, empire, cyborg, comics]
 ## Relations / Apparitions
 - Mentor : [[Doctor Cylo]]
 - Pairs : [[Karbin]]
-- Comics Darth Vader vol. 1
+- Comics Dark Vader vol. 1

@@ -5,7 +5,7 @@ affiliation: [Empire Sith primitif]
 periode: [~5200 BBY (avant Grande Hyperspace War)]
 statut: mort (Légendes)
 canon: Légendes
-premiere_apparition: "Darth Plagueis (roman, 2012)"
+premiere_apparition: "Dark Plagueis (roman, 2012)"
 acteur_voix: —
 sabre_couleur: rouge
 sabre_hex: "#B71C1C"
@@ -32,4 +32,4 @@ tags: [personnage, sith, ancienne-republique, legendes, dromund-kaas, lignee-vit
 - **Épée Sith** rouge ; magie Sith pure.
 
 ## Apparitions
-Roman *Darth Plagueis* (mention) · *The Old Republic: Annihilation* · *Book of Sith*
+Roman *Dark Plagueis* (mention) · *The Old Republic: Annihilation* · *Book of Sith*

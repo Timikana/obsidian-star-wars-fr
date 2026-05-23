@@ -5,7 +5,7 @@ affiliation: [Indépendante, Empire (contractuelle), Crimson Dawn]
 periode: [Empire]
 statut: vivant
 canon: Canon
-premiere_apparition: Comics Darth Vader (2015) #3
+premiere_apparition: Comics Dark Vader (2015) #3
 acteur_voix: Emily Woo Zeller
 sabre_couleur: 
 sabre_hex: 
@@ -35,4 +35,4 @@ Archéologue spécialiste des artefacts Sith, employée brièvement par [[Dark V
 N/A — pistolet et intelligence.
 
 ## Apparitions
-Comics Darth Vader, Doctor Aphra (séries dédiées)
+Comics Dark Vader, Doctor Aphra (séries dédiées)

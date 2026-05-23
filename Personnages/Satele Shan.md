@@ -27,7 +27,7 @@ Descendante de Bastila Shan et Revan, Satele Shan est élevée au rang de Grand 
 - Revan, Bastila Shan (ancêtres)
 - Theron Shan (fils)
 - Jace Malcom (compagnon)
-- Darth Marr (rival respecté)
+- Dark Marr (rival respecté)
 
 ## Apparitions
 The Old Republic — Threat of Peace, Hope, Deceived (Lég.).

@@ -5,7 +5,7 @@ affiliation: [Indépendant, Cartel Hutt, Boba Fett]
 periode: [Empire, Nouvelle République]
 statut: vivant
 canon: Canon
-premiere_apparition: "Star Wars: Darth Vader (comic, 2015) / Boba Fett S1"
+premiere_apparition: "Star Wars: Dark Vader (comic, 2015) / Boba Fett S1"
 acteur_voix: Carey Jones
 sabre_couleur: 
 sabre_hex: 

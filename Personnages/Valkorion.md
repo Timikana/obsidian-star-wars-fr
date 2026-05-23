@@ -28,7 +28,7 @@ Sous le nom de Valkorion, l'antique Sith Tenebrae (alias Empereur Vitiate) règn
 - Arcann, Thexan, Vaylin (enfants)
 - Senya Tirall (épouse)
 - Le Survivant (hôte ciblé)
-- Darth Marr (victime)
+- Dark Marr (victime)
 
 ## Apparitions
 SWTOR — Knights of the Fallen Empire, Knights of the Eternal Throne (Lég.).

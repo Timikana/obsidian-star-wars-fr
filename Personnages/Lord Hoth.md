@@ -26,10 +26,10 @@ tags: [personnage, ancienne-republique, jedi, ruusan, legendes]
 ## Relations
 - Adversaires Sith : [[Dark Kaan]], [[Dark Bane]], Confrérie des Ténèbres
 - Disciples : Valenthyne Farfalla, Pernicar
-- Orpheline du champ de bataille : Rain ([[Darth Zannah]])
+- Orpheline du champ de bataille : Rain ([[Dark Zannah]])
 
 ## Sabre(s) laser
 - **Bleu** Gardien Jedi, style Djem So.
 
 ## Apparitions
-Comics *Jedi vs. Sith* (2001) · roman *Darth Bane: Path of Destruction* (2006)
+Comics *Jedi vs. Sith* (2001) · roman *Dark Bane: Path of Destruction* (2006)

@@ -33,4 +33,4 @@ Cheffe spirituelle des Sœurs de la Nuit de Dathomir. Mère biologique de [[Dark
 N/A — magie de la Nuit, ichor.
 
 ## Apparitions
-Clone Wars · Comics Darth Maul: Son of Dathomir
+Clone Wars · Comics Dark Maul: Son of Dathomir

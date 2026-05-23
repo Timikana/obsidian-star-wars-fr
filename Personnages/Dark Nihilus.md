@@ -1,5 +1,5 @@
 ---
-alias: [Darth Nihilus, Le Seigneur de la Faim]
+alias: [Dark Nihilus, Le Seigneur de la Faim]
 espece: Humain (modifié par la Force)
 affiliation: [Sith Triumvirate]
 periode: [Old Republic (~3951 BBY)]
@@ -24,7 +24,7 @@ tags: [personnage, legendes, sith, kotor, masque]
 **[Légendes]** Membre du Sith Triumvirate avec [[Dark Sion]] et [[Kreia]]. Dévore la Force des planètes entières. Masque blanc et capuche signature.
 
 ## Relations
-- Alliés : [[Dark Sion]], [[Kreia]] / Darth Traya, [[Visas Marr]] (apprentie liée)
+- Alliés : [[Dark Sion]], [[Kreia]] / Dark Traya, [[Visas Marr]] (apprentie liée)
 - Ennemi : [[Meetra Surik]]
 
 ## Sabre(s) laser

@@ -27,4 +27,4 @@ L'ultime affrontement des [[Guerres Jedi-Sith]] se déroule sur la planète [[Ru
 Annihilation mutuelle. [[Dark Bane]] refonde l'[[Ordre Sith]]. Réforme militaire et politique des Jedi et de la [[République Galactique]].
 
 ## Apparitions
-*Darth Bane: Path of Destruction* (Drew Karpyshyn), comics *Jedi vs Sith*. Légendes principalement, mentions canon.
+*Dark Bane: Path of Destruction* (Drew Karpyshyn), comics *Jedi vs Sith*. Légendes principalement, mentions canon.
