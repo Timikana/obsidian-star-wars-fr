@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi-dechue, bando-gora, jango]
 
 # Komari Vosa
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — ancienne padawan de Dooku, leader de Bando Gora, tuée par Jango Fett.
+> <span style="color:#B71C1C">█</span> **Rouge** — ancienne padawan de Dooku, leader de Bando Gora, tuée par Jango Fett.
 
 ## Résumé
 **[Légendes]** Ancienne padawan de [[Comte Dooku]]. Devient cheffe du culte Bando Gora après la massacre de Galidraan. Tuée par [[Jango Fett]] pour décrocher le contrat de modèle ADN clone.

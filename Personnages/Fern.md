@@ -18,7 +18,7 @@ tags: [personnage, skeleton-crew, at-attin, jeune]
 
 # Fern
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — leader de l'équipe d'enfants, fille du Superviseur d'At Attin.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — leader de l'équipe d'enfants, fille du Superviseur d'At Attin.
 
 ## Résumé
 Fille du Superviseur d'At Attin. Leader naturelle de l'équipe d'enfants. Devient capitaine de leur vaisseau pirate "Onyx Cinder".

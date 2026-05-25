@@ -18,7 +18,7 @@ tags: [personnage, legendes, skywalker, jedi, nouvelle-republique]
 
 # Ben Skywalker (Légendes)
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — fils de Luke et Mara Jade, cousin des Solo.
+> <span style="color:#2196F3">█</span> **Bleu** — fils de Luke et Mara Jade, cousin des Solo.
 
 ## Résumé
 **[Légendes]** Fils unique de [[Luke Skywalker]] et [[Mara Jade]]. Cousin des [[Jaina Solo]], [[Jacen Solo]], [[Anakin Solo (Légendes)]]. Différent du [[Kylo Ren]] (Ben Solo) du canon.

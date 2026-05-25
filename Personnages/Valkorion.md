@@ -18,7 +18,7 @@ tags: [personnage, sith, empereur-eternel, swtor, legendes, empire]
 
 # Valkorion
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Sith** — Avatar public de l'Empereur Sith Vitiate, fondateur de l'Empire Éternel.
+> <span style="color:#B71C1C">█</span> **Sith** — Avatar public de l'Empereur Sith Vitiate, fondateur de l'Empire Éternel.
 
 ## Résumé
 Sous le nom de Valkorion, l'antique Sith Tenebrae (alias Empereur Vitiate) règne secrètement sur l'Empire Éternel de Zakuul pendant des siècles. Quasi immortel grâce à un transfert d'esprit perpétuel, il tente de posséder le Survivant après sa mort apparente. Sa chute marque la fin d'une menace millénaire.

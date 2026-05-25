@@ -19,7 +19,7 @@ tags: [personnage, jedi, fallen-order, survivant, jeu, empire]
 # Cal Kestis
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — sabre Jedi survivant, héros de la trilogie Jedi (Fallen Order / Survivor).
+> <span style="color:#2196F3">█</span> **Bleu** — sabre Jedi survivant, héros de la trilogie Jedi (Fallen Order / Survivor).
 
 ## Résumé
 Padawan de [[Jaro Tapal]] survivant de l'Ordre 66. Mécano sur Bracca, retrouvé par [[Cere Junda]]. Reconstruit son sabre, défait [[Trilla Suduri]], affronte [[Dark Vador]]. Cherche le Hidden Path et combat les Inquisiteurs.

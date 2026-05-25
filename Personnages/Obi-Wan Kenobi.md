@@ -19,7 +19,7 @@ tags: [personnage, jedi, republique, exil, clone-wars, empire]
 # Obi-Wan Kenobi
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — sabre Jedi construit après la mort de [[Qui-Gon Jinn]], emblématique de toute sa carrière.
+> <span style="color:#2196F3">█</span> **Bleu** — sabre Jedi construit après la mort de [[Qui-Gon Jinn]], emblématique de toute sa carrière.
 
 ## Résumé
 Padawan de [[Qui-Gon Jinn]], maître d'[[Anakin Skywalker]] et plus tard de [[Luke Skywalker]]. Membre du Haut Conseil Jedi, "Le Négociateur" pendant la Guerre des Clones. Survit à l'Ordre 66 et veille sur Luke en exil sur Tatooine.

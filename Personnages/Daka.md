@@ -18,7 +18,7 @@ tags: [personnage, canon, sorciere, dathomir, clone-wars]
 
 # Daka
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Ancienne sorcière nécromancienne de Dathomir.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Ancienne sorcière nécromancienne de Dathomir.
 
 ## Résumé
 **[Canon]** Aïeule des Sœurs de la Nuit, Daka maîtrise la nécromancie et anime des armées de mortes-vivantes pour défendre [[Mere Talzin]] contre [[General Grievous]]. Tuée durant le massacre de Dathomir.

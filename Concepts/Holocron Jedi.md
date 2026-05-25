@@ -11,7 +11,7 @@ tags: [concept, jedi, artefact, savoir, canon, legendes]
 # Holocron Jedi
 
 > [!color] Concept / Artefact
-> <span style="color:#4169E1">█</span> **Holocron Jedi** — cube cristallin abritant le savoir vivant des Maîtres Jedi, ouvert par la [[La Force|Force]] lumineuse.
+> <span style="color:#2196F3">█</span> **Holocron Jedi** — cube cristallin abritant le savoir vivant des Maîtres Jedi, ouvert par la [[La Force|Force]] lumineuse.
 
 ## Résumé
 

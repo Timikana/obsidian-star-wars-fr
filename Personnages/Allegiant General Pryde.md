@@ -18,7 +18,7 @@ tags: [personnage, premier-ordre, allegiant-general, exegol, sequels]
 
 # Allegiant General Pryde
 > [!color] Couleur signature
-> <span style="color:#B71C1C">█</span> **Rouge Premier Ordre** — vétéran impérial loyal à Palpatine.
+> <span style="color:#D32F2F">█</span> **Rouge Premier Ordre** — vétéran impérial loyal à Palpatine.
 
 ## Résumé
 Vétéran impérial, fidèle à [[Dark Sidious]]. Exécute [[Hux]] pour trahison. Mort dans la destruction de la flotte d'Exegol.

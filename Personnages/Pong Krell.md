@@ -19,7 +19,7 @@ tags: [personnage, jedi-dechu, besalisk, traitre, clone-wars]
 # Pong Krell
 
 > [!color] Couleur signature
-> <span style="color:#FDD835">█</span> **Jaune** — Besalisk à quatre bras maniant deux sabres double-lame jaunes.
+> <span style="color:#FFC107">█</span> **Jaune** — Besalisk à quatre bras maniant deux sabres double-lame jaunes.
 
 ## Résumé
 Maître Jedi Besalisk au tempérament brutal, secrètement traître à la cause Jedi pour rejoindre Dooku. Exécuté par ses propres clones après avoir massacré sa propre légion.

@@ -11,7 +11,7 @@ tags: [concept, force, mortis, metaphysique, canon]
 # Mortis
 
 > [!color] Concept métaphysique
-> <span style="color:#F5F5F5">█</span> **Mortis** — royaume de la [[La Force|Force]] où vivent les Trois, incarnations cosmiques de la lumière, des ténèbres et de l'équilibre.
+> <span style="color:#ECEFF1">█</span> **Mortis** — royaume de la [[La Force|Force]] où vivent les Trois, incarnations cosmiques de la lumière, des ténèbres et de l'équilibre.
 
 ## Résumé
 

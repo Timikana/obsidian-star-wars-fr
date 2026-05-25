@@ -19,7 +19,7 @@ tags: [personnage, sith, empereur, regle-deux, clone-wars, empire, sequels]
 # Dark Sidious / Palpatine
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Seigneur Sith de la Règle des Deux, Empereur galactique.
+> <span style="color:#B71C1C">█</span> **Rouge** — Seigneur Sith de la Règle des Deux, Empereur galactique.
 
 ## Résumé
 Apprenti de [[Dark Plagueis]], maître de [[Comte Dooku]], [[Dark Maul]] et [[Dark Vador]]. Architecte de la chute de la République et de l'Ordre Jedi. Empereur de 19 BBY à 4 ABY, ressuscité via clonage sur Exegol jusqu'en 35 ABY.

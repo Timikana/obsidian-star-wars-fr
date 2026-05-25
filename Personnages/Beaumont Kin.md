@@ -18,7 +18,7 @@ tags: [personnage, resistance, historien, sequels]
 
 # Beaumont Kin
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — historien de la Résistance, expert Sith.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — historien de la Résistance, expert Sith.
 
 ## Résumé
 Officier humain de la Résistance au profil universitaire atypique, historien et linguiste spécialisé dans les langues anciennes de la galaxie, en particulier le Sith ancien et les cultures pré-Républicaines. Recruté tardivement dans la Résistance pour son expertise unique, il sert d'analyste stratégique et de spécialiste culturel auprès de [[Leia Organa]] et [[Poe Dameron]]. Joue un rôle déterminant dans L'Ascension de Skywalker en interprétant la transmission galactique du retour de [[Palpatine|Sidious]] et en aidant à décrypter les indices menant à Exegol et au Sith Wayfinder. Sa connaissance approfondie du culte Sith Eternal et de la mythologie obscure du côté obscur permet à la Résistance de comprendre l'ampleur de la menace du Final Order. Participe à la bataille d'Exegol comme officier au sol coordonnant l'appel des peuples libres mené par [[Lando Calrissian]]. Personnage incarné par Dominic Monaghan, ami personnel de J.J. Abrams, dont l'apparition souligne la dimension intellectuelle nécessaire à la Résistance au-delà du combat pur. Présent aussi dans le roman Resistance Reborn.

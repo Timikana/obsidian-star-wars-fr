@@ -14,7 +14,7 @@ tags: [evenement, bataille, rogue-one]
 
 # Bataille de Scarif
 > [!color] Faction victorieuse
-> <span style="color:#FF6F00">█</span> **Alliance Rebelle** — Victoire stratégique au prix de l'unité Rogue One entière.
+> <span style="color:#FF5722">█</span> **Alliance Rebelle** — Victoire stratégique au prix de l'unité Rogue One entière.
 
 ## Résumé
 L'équipe Rogue One infiltre la Citadelle impériale de [[Scarif]] pour voler les plans de l'[[Étoile de la Mort]]. Au sol comme en orbite, l'opération réussit de justesse, transmise au vaisseau de [[Princesse Leia]] juste avant l'assaut de [[Dark Vador]].

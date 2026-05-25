@@ -18,7 +18,7 @@ tags: [personnage, legendes, contrebandier, nouvelle-republique, bespin]
 
 # Lando Calrissian (Légendes)
 > [!color] Faction
-> <span style="color:#FF6F00">█</span> **Nouvelle République** — entrepreneur-aventurier, magnat de Nkllon et de Kessel.
+> <span style="color:#FF5722">█</span> **Nouvelle République** — entrepreneur-aventurier, magnat de Nkllon et de Kessel.
 
 ## Résumé
 **[Légendes]** Après Endor, **Lando Calrissian** abandonne le commandement militaire pour redevenir entrepreneur. Il fonde la **mine de Nkllon** (planète brûlée par son soleil, exploitée via tracteurs blindés) où [[Grand Amiral Thrawn (Légendes)]] vole ses moissonneuses pour cloner. Il prend ensuite les rênes des **mines d'épices de Kessel** qu'il modernise. Il épouse **Tendra Risant** et a un fils, **Chance Calrissian**. Pendant la guerre [[Yuuzhan Vong]], il finance la résistance et fournit des **YVH droids** (Yuuzhan Vong Hunter) à la flotte. Survivant pragmatique, il navigue les bouleversements de la **Crise Caedus** et de l'ère [[Dark Krayt]] en se réfugiant dans ses affaires. Vieux compagnon de [[Han Solo]], il garde le sourire éclatant et la cape favorite jusqu'à un âge avancé.

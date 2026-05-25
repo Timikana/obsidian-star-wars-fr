@@ -15,7 +15,9 @@ tags: [creature, rancor, dathomir, jabba]
 > <span style="color:#6D4C41">█</span> **Fauve** — bête monumentale, monture des Sœurs de la Nuit.
 
 ## Résumé
-Énorme reptilien semi-sentient. Le Rancor de [[Jabba le Hutt]] dévore [[Oola]] et est tué par [[Luke Skywalker]] dans ép. VI. Les **Sœurs de la Nuit** chevauchent des rancors sur [[Dathomir]]. [[Boba Fett]] adopte un bébé rancor en S1.
+Le rancor est un mammifère-reptilien semi-sentient mesurant en moyenne cinq mètres debout, originaire des forêts rouges de [[Dathomir]] où les **Sœurs de la Nuit** ([[Nightsisters]]) et les **Frères de la Nuit** ([[Nightbrothers]]) les domestiquent comme montures de guerre — [[Dark Maul]] en chevauche un dans *The Clone Wars*. Capturés et exportés comme bêtes de fosse, certains rancors finissent dans les arènes des seigneurs criminels : le plus célèbre, **Pateesa**, est offert à [[Jabba le Hutt]] par [[Bib Fortuna]] et dévore la Twi'lek [[Oola]] devant la cour avant d'être écrasé par [[Luke Skywalker]] sous une herse en 4 ABY, un drame qui brise le bestiaire de Jabba et précipite sa chute. Lorsque [[Boba Fett]] reprend le palais en 9 ABY, le **Frère de la Nuit** lui offre un jeune rancor aveugle qu'il adopte et apprend à monter avec [[Fennec Shand]] et [[Din Djarin]] durant la bataille de Mos Espa contre le Pyke Syndicate.
 
 ## Apparitions
-Films VI · Animés Clone Wars · Séries The Book of Boba Fett
+- [[Le Retour du Jedi]] (Pateesa)
+- [[The Clone Wars]] (Dathomir, Dark Maul)
+- *The Book of Boba Fett* (rancor de Boba)

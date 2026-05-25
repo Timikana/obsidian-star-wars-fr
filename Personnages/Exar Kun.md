@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, sith-war, yavin]
 
 # Exar Kun
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Sith Lord de la Sith War, esprit hantant Yavin 4.
+> <span style="color:#B71C1C">█</span> **Rouge** — Sith Lord de la Sith War, esprit hantant Yavin 4.
 
 ## Résumé
 **[Légendes]** Premier Dark Lord à utiliser un sabre double-lame. Esprit emprisonné dans le Temple Massassi de Yavin 4 où il tente de corrompre Luke et son académie.

@@ -19,7 +19,7 @@ tags: [personnage, droide, jedi, architecte, sabres, clone-wars, empire]
 # Huyang
 
 > [!color] Couleur signature
-> <span style="color:#BDBDBD">█</span> **Gris droïde** — droïde architecte millénaire qui aide les jeunes Jedi à construire leurs sabres.
+> <span style="color:#90A4AE">█</span> **Gris droïde** — droïde architecte millénaire qui aide les jeunes Jedi à construire leurs sabres.
 
 ## Résumé
 Très ancien droïde architecte, professeur des sabres laser au Temple Jedi pendant des millénaires. Aide [[Ahsoka Tano]] dans sa série après la chute de l'Empire. Mémoire vivante de l'Ordre Jedi.

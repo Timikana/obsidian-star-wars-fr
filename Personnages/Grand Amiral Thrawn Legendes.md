@@ -18,7 +18,7 @@ tags: [personnage, legendes, empire, chiss, strategie, thrawn]
 
 # Grand Amiral Thrawn (Légendes)
 > [!color] Faction
-> <span style="color:#424242">█</span> **Empire reliquat** — stratège chiss qui faillit reconquérir la galaxie cinq ans après Endor.
+> <span style="color:#616161">█</span> **Empire reliquat** — stratège chiss qui faillit reconquérir la galaxie cinq ans après Endor.
 
 ## Résumé
 **[Légendes]** Seul **Grand Amiral non-humain** de l'[[Empire Galactique]], **Mitth'raw'nuruodo** revient des Régions Inconnues en **9 ABY** pour reprendre la guerre contre la jeune [[Nouvelle République]]. Doté d'une intelligence tactique surhumaine, il étudie l'**art** des peuples pour anticiper leurs failles psychologiques. Allié au Jedi noir [[Joruus C'baoth]] caché sur [[Wayland]], et flanqué de son garde du corps Noghri **Rukh**, il commande le [[Chimaera]] et orchestre la prise des cylindres Spaarti du **Mount Tantiss** pour produire une armée clonée. Sa campagne menace Coruscant jusqu'à la **bataille de Bilbringi**, où Rukh — apprenant le massacre Noghri impérial sur Honoghr — l'assassine d'un coup de couteau au cœur. Sa mort marque la fin du dernier sursaut crédible de l'Empire avant le **Dark Empire**. Pierre angulaire de la **Trilogie Thrawn** de Timothy Zahn, fondateur de l'univers étendu moderne.

@@ -18,7 +18,7 @@ tags: [personnage, zabrak, brendok, coven]
 
 # Mère Koril
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Zabrak Dathomirienne, mère biologique apparente des jumelles.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Zabrak Dathomirienne, mère biologique apparente des jumelles.
 
 ## Résumé
 Sorcière Zabrak Dathomirienne, compagne de [[Mère Aniseya]] et "porteuse" biologique des jumelles. Survivante du massacre de Brendok.

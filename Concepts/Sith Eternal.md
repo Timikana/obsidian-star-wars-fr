@@ -11,7 +11,7 @@ tags: [concept, sith, culte, cote-obscur, canon]
 # Sith Eternal
 
 > [!color] Concept / Organisation occulte
-> <span style="color:#8B0000">█</span> **Sith Eternal** — culte secret servant [[Dark Sidious]] sur [[Exegol]] et bâtisseur de la flotte de la [[Final Order]].
+> <span style="color:#B71C1C">█</span> **Sith Eternal** — culte secret servant [[Dark Sidious]] sur [[Exegol]] et bâtisseur de la flotte de la [[Final Order]].
 
 ## Résumé
 

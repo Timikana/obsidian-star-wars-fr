@@ -18,7 +18,7 @@ tags: [personnage, inquisiteur, empire]
 
 # Huitième Frère
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Inquisiteur Terrelian, tué par Maul sur Malachor.
+> <span style="color:#B71C1C">█</span> **Rouge** — Inquisiteur Terrelian, tué par Maul sur Malachor.
 
 ## Résumé
 Inquisiteur envoyé contre les Spectres et [[Maul]]. Tué par [[Dark Maul]] sur Malachor.

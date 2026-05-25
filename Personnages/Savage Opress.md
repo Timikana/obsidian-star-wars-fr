@@ -19,7 +19,7 @@ tags: [personnage, sith-acolyte, dathomir, zabrak, clone-wars]
 # Savage Opress
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — sabre double-lame, frère de Maul.
+> <span style="color:#B71C1C">█</span> **Rouge** — sabre double-lame, frère de Maul.
 
 ## Résumé
 Frère de [[Dark Maul]] et [[Feral]], fils de [[Mère Talzin]]. Transformé par magie Nightsister en super-soldat ; apprenti de [[Comte Dooku]] puis de Maul. Tué par [[Dark Sidious]].

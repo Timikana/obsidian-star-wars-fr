@@ -11,7 +11,7 @@ tags: [concept, voyage, technologie, canon, legendes]
 # Hyperespace
 
 > [!color] Concept / Physique galactique
-> <span style="color:#4169E1">█</span> **Hyperespace** — dimension alternative permettant les voyages plus rapides que la lumière à travers la galaxie.
+> <span style="color:#2196F3">█</span> **Hyperespace** — dimension alternative permettant les voyages plus rapides que la lumière à travers la galaxie.
 
 ## Résumé
 

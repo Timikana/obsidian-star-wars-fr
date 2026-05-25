@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Ithorien
 
 > [!color] Espèce sentiente — Bordure Médiane
-> <span style="color:#6B8E23">█</span> **Ithorien** — « hommes-marteaux » pacifistes et écologistes natifs d'[[Ithor]].
+> <span style="color:#4CAF50">█</span> **Ithorien** — « hommes-marteaux » pacifistes et écologistes natifs d'[[Ithor]].
 
 ## Résumé
 

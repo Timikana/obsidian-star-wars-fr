@@ -18,7 +18,7 @@ tags: [personnage, resistance, alliance, canon]
 
 # Caluan Ematt
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Rébellion** — Vétéran de l'Alliance, espion et major de la Résistance.
+> <span style="color:#FF5722">█</span> **Rébellion** — Vétéran de l'Alliance, espion et major de la Résistance.
 
 ## Résumé
 Vétéran de la Bataille de Yavin et de l'unité de reconnaissance Shrikes, Caluan Ematt sert dans toutes les guerres de son époque : Alliance Rebelle, opérations clandestines de la Nouvelle République puis Résistance contre le Premier Ordre. Sur D'Qar et Ajan Kloss, il est l'un des conseillers de confiance de Leia.

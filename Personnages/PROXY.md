@@ -18,7 +18,7 @@ tags: [personnage, legendes, droide, force-unleashed, empire]
 
 # PROXY
 > [!color] Couleur signature
-> <span style="color:#BDBDBD">█</span> **Gris droïde** — droïde holographique programmé pour tuer Starkiller (qui le considère ami).
+> <span style="color:#90A4AE">█</span> **Gris droïde** — droïde holographique programmé pour tuer Starkiller (qui le considère ami).
 
 ## Résumé
 **[Légendes]** Droïde compagnon de [[Starkiller]] / Galen Marek. Programmé pour tuer son maître. Holocron-projecteur intégré (peut imiter n'importe qui).

@@ -19,7 +19,7 @@ tags: [personnage, clone, bad-batch, ingenieur, clone-wars, empire]
 # Tech
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — clone-ingénieur surdoué, lunettes signature.
+> <span style="color:#FF9800">█</span> **Or République** — clone-ingénieur surdoué, lunettes signature.
 
 ## Résumé
 Clone défectueux à l'intelligence accrue, ingénieur et hacker. Personnalité analytique, possible neurodivergence implicite. Sacrifice sur le rail-tram d'Eriadu pour sauver Omega et la team.

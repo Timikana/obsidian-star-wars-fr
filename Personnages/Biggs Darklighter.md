@@ -18,7 +18,7 @@ tags: [personnage, rebellion, pilote, tatooine, empire, trilogie-originale]
 
 # Biggs Darklighter
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — meilleur ami de Luke, pilote rebelle.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — meilleur ami de Luke, pilote rebelle.
 
 ## Résumé
 Ami d'enfance de [[Luke Skywalker]] sur Tatooine. Pilote rebelle, tué pendant l'attaque de l'Étoile de la Mort.

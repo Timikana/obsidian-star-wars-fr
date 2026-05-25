@@ -19,7 +19,7 @@ tags: [personnage, sith, acolyte, lancien, cortosis]
 # Qimir / L'Ancien
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Seigneur Sith caché, casque cortosis qui résiste aux sabres.
+> <span style="color:#B71C1C">█</span> **Rouge** — Seigneur Sith caché, casque cortosis qui résiste aux sabres.
 
 ## Résumé
 Seigneur Sith caché de l'ère de la Haute République, maître de [[Mae Aniseya]] puis recrute [[Osha Aniseya]]. Ancien apprenti de [[Plagueis]] est suggéré (lien à débattre). Massacre une équipe Jedi sur Khofar avec un casque en cortosis.

@@ -18,7 +18,7 @@ tags: [personnage, clone, commando, delta-squad, clone-wars]
 
 # Sev
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — sniper du Delta Squad, disparu sur Kashyyyk.
+> <span style="color:#FF9800">█</span> **Or République** — sniper du Delta Squad, disparu sur Kashyyyk.
 
 ## Résumé
 Sniper Republic Commando du Delta Squad. Disparu lors de la bataille de Kashyyyk — laissé pour compte par ses frères.

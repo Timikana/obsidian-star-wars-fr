@@ -14,7 +14,7 @@ tags: [evenement, bataille, empire]
 
 # Bataille de Hoth
 > [!color] Faction victorieuse
-> <span style="color:#424242">█</span> **Empire Galactique** — Échec rebelle sur Hoth, fuite de l'Alliance dans les confins.
+> <span style="color:#616161">█</span> **Empire Galactique** — Échec rebelle sur Hoth, fuite de l'Alliance dans les confins.
 
 ## Résumé
 La base Echo de l'Alliance sur [[Hoth]] est repérée par une sonde impériale. L'Empire lance la Force Vador et ses AT-AT contre les tranchées rebelles. Évacuation chaotique pendant que [[Han Solo]] et [[Princesse Leia]] fuient à bord du [[Faucon Millenium]].

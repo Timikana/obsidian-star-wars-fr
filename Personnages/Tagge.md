@@ -18,7 +18,7 @@ tags: [personnage, empire, general, canon]
 
 # Tagge
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Empire** — Général impérial prudent qui mit en garde contre la Rébellion à bord de l'Étoile de la Mort.
+> <span style="color:#616161">█</span> **Empire** — Général impérial prudent qui mit en garde contre la Rébellion à bord de l'Étoile de la Mort.
 
 ## Résumé
 Cassio Tagge est un général impérial issu de la puissante famille Tagge. Lors de la conférence à bord de l'Étoile de la Mort, il met en garde contre la menace que représente l'Alliance Rebelle. Après la destruction de l'arme et la mort de Tarkin, il est promu Grand Général, devenant l'un des plus hauts officiers de l'Empire.

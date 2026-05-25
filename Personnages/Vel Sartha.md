@@ -19,7 +19,7 @@ tags: [personnage, rebellion, andor, chandrila, empire]
 # Vel Sartha
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — leader de la cellule Aldhani, cousine de Mon Mothma.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — leader de la cellule Aldhani, cousine de Mon Mothma.
 
 ## Résumé
 Cousine de [[Mon Mothma]] (Chandrila). Leader de la cellule rebelle qui frappe la garnison d'Aldhani. Compagne de [[Cinta Kaz]].

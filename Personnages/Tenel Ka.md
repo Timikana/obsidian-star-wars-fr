@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, hapes, dathomir]
 
 # Tenel Ka
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Reine Mère de Hapes, Jedi à un seul bras, mère d'Allana.
+> <span style="color:#B71C1C">█</span> **Rouge** — Reine Mère de Hapes, Jedi à un seul bras, mère d'Allana.
 
 ## Résumé
 **[Légendes]** Princesse Hapane, mère de [[Allana Solo]] (avec [[Jacen Solo]]). Reine Mère de Hapes. Perd son bras dans un accident de sabre, devient guerrière à un bras.

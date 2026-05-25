@@ -5,7 +5,7 @@ affiliation: [Domaine Shai, Empire Yuuzhan Vong]
 periode: [New Jedi Order (Légendes)]
 statut: "mort (26 ABY)"
 canon: Légendes
-premiere_apparition: Dark Tide I: Onslaught (2000)
+premiere_apparition: "Dark Tide I: Onslaught (2000)"
 acteur_voix: —
 couleur: rouge
 couleur_hex: "#B71C1C"

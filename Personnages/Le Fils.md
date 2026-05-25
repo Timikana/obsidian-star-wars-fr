@@ -18,7 +18,7 @@ tags: [personnage, mortis, force-wielder, cote-obscur, clone-wars]
 
 # Le Fils
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — incarnation du côté obscur, tente de corrompre Anakin.
+> <span style="color:#B71C1C">█</span> **Rouge** — incarnation du côté obscur, tente de corrompre Anakin.
 
 ## Résumé
 Avatar du côté obscur de la Force sur Mortis. Tente de retourner [[Anakin Skywalker]] en lui montrant son futur de [[Dark Vador]]. Tué par [[Le Père]] au prix de sa vie.

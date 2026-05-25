@@ -18,7 +18,7 @@ tags: [personnage, rodien, senateur, rodia, clone-wars]
 
 # Onaconda Farr
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — sénateur de Rodia, parrain de Padmé ("Uncle Ono").
+> <span style="color:#FF9800">█</span> **Or République** — sénateur de Rodia, parrain de Padmé ("Uncle Ono").
 
 ## Résumé
 Sénateur Rodien de Rodia, ami de longue date et parrain (« Oncle Ono ») de [[Padmé Amidala]]. Trahit brièvement la République sous la pression alimentaire ; tué par sa collaboratrice Lolo Purs.

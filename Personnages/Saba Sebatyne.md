@@ -5,7 +5,7 @@ affiliation: [Nouvel Ordre Jedi, Conseil Jedi]
 periode: [Legacy, Legendes]
 statut: vivante (Legendes)
 canon: Legendes
-premiere_apparition: Edge of Victory: Rebirth (roman, 2001)
+premiere_apparition: "Edge of Victory: Rebirth (roman, 2001)"
 acteur_voix: —
 sabre_couleur: vert
 sabre_hex: "#4CAF50"

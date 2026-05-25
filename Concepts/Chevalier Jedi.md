@@ -11,7 +11,7 @@ tags: [concept, jedi, rang, canon, legendes]
 # Chevalier Jedi
 
 > [!color] Concept / Rang Jedi
-> <span style="color:#4169E1">█</span> **Chevalier Jedi** — Jedi accompli, opérant en mission autonome et habilité à former un [[Padawan]].
+> <span style="color:#2196F3">█</span> **Chevalier Jedi** — Jedi accompli, opérant en mission autonome et habilité à former un [[Padawan]].
 
 ## Résumé
 

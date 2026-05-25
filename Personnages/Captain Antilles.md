@@ -18,7 +18,7 @@ tags: [personnage, canon, rebellion, alderaan, empire]
 
 # Captain Antilles
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — Capitaine du Tantive IV, fidèle d'Organa.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — Capitaine du Tantive IV, fidèle d'Organa.
 
 ## Résumé
 **[Canon]** Capitaine du croiseur consulaire Tantive IV au service de [[Bail Organa]] puis de [[Leia Organa]]. Étranglé par [[Anakin Skywalker|Dark Vador]] lors de l'abordage du vaisseau, peu avant Yavin.

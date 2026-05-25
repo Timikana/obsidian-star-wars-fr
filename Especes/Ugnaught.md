@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Ugnaught
 
 > [!color] Espèce sentiente — Bordure Extérieure
-> <span style="color:#FFC0CB">█</span> **Ugnaught** — petits artisans porcins, ouvriers infatigables de [[Bespin]] et au-delà.
+> <span style="color:#8D6E63">█</span> **Ugnaught** — petits artisans porcins, ouvriers infatigables de [[Bespin]] et au-delà.
 
 ## Résumé
 

@@ -19,7 +19,7 @@ tags: [personnage, jedi-dechu, mercenaire, orange, peridea, empire, nouvelle-rep
 # Baylan Skoll
 
 > [!color] Couleur signature
-> <span style="color:#FB8C00">█</span> **Orange** — sabre orange, ton intermédiaire entre Jedi et Sith, traduisant son alignement gris.
+> <span style="color:#FF9800">█</span> **Orange** — sabre orange, ton intermédiaire entre Jedi et Sith, traduisant son alignement gris.
 
 ## Résumé
 Ancien Jedi survivant de l'Ordre 66, mentor de [[Shin Hati]]. Travaille pour [[Morgan Elsbeth]] pour ramener [[Grand Amiral Thrawn]]. Cherche quelque chose de plus grand sur Peridea — pouvoir au-delà des Jedi/Sith. Apparition coupée par la mort de Ray Stevenson.

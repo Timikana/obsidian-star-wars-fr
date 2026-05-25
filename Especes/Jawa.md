@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Jawa
 
 > [!color] Espèce sentiente — Bordure Extérieure
-> <span style="color:#8B0000">█</span> **Jawa** — petits ferrailleurs encapuchonnés des déserts de [[Tatooine]], aux yeux jaunes luisants.
+> <span style="color:#B71C1C">█</span> **Jawa** — petits ferrailleurs encapuchonnés des déserts de [[Tatooine]], aux yeux jaunes luisants.
 
 ## Résumé
 

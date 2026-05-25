@@ -19,7 +19,7 @@ tags: [personnage, cyborg, separatistes, kaleesh, sabres-voles, clone-wars]
 # Général Grievous
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — boucher cyborg Kaleesh, collectionneur de sabres Jedi.
+> <span style="color:#616161">█</span> **Gris Empire** — boucher cyborg Kaleesh, collectionneur de sabres Jedi.
 
 ## Résumé
 Général Kaleesh devenu cyborg suite à un accident orchestré par [[Comte Dooku]]. Commandant des armées droïdes Séparatistes. Collectionne les sabres des Jedi qu'il tue. Tué par [[Obi-Wan Kenobi]] sur Utapau (« So uncivilized »).

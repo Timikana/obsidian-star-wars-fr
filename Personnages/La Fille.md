@@ -18,7 +18,7 @@ tags: [personnage, mortis, force-wielder, cote-lumineux, clone-wars]
 
 # La Fille
 > [!color] Couleur signature
-> <span style="color:#00897B">█</span> **Sarcelle Jedi** — incarnation du côté lumineux, transmet sa vie à Ahsoka.
+> <span style="color:#2196F3">█</span> **Sarcelle Jedi** — incarnation du côté lumineux, transmet sa vie à Ahsoka.
 
 ## Résumé
 Avatar du côté lumineux de la Force sur Mortis. Sacrifie sa vie pour sauver [[Ahsoka Tano]] empoisonnée par [[Le Fils]], lui transmettant son essence (probable raison de la nouvelle vie d'Ahsoka post-Mortis).

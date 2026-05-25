@@ -13,7 +13,7 @@ tags: [espece, zabrak, dathomir, iridonia]
 
 # Zabrak
 > [!color] Origine
-> <span style="color:#00897B">█</span> — Humanoïdes à cornes et tatouages rituels, guerriers endurants.
+> <span style="color:#2196F3">█</span> — Humanoïdes à cornes et tatouages rituels, guerriers endurants.
 
 ## Résumé
 Les Zabraks sont des humanoïdes proches des humains, distingués par une couronne de petites cornes vestigiales sur le crâne et des motifs faciaux tatoués marquant les rites de passage. Originaires d'[[Iridonia]], monde aride et hostile, ils ont colonisé plusieurs systèmes. Une sous-espèce remarquable, les [[Dathomiriens]], peuple [[Dathomir]] et entretient des liens avec les [[Sœurs de la Nuit]] et le [[côté obscur]]. Endurants, fiers et indépendants, les Zabraks ont fourni des Jedi notables ainsi que certains des Sith les plus redoutés.

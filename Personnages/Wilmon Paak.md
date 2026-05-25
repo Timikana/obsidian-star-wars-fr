@@ -18,7 +18,7 @@ tags: [personnage, andor, ferrix, ghorman, empire]
 
 # Wilmon Paak
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — fils de Salman Paak (pendu par les Impériaux), rejoint la Rébellion.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — fils de Salman Paak (pendu par les Impériaux), rejoint la Rébellion.
 
 ## Résumé
 Fils de Salman Paak (pendu par l'Empire à Ferrix). Lance un cocktail explosif aux funérailles de Maarva. Rejoint la Rébellion sur Yavin et Ghorman.

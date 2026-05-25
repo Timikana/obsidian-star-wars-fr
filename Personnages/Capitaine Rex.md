@@ -19,7 +19,7 @@ tags: [personnage, clone, capitaine, 501, rebellion, clone-wars, empire]
 # Capitaine Rex
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — clone d'élite ayant retiré sa puce inhibitrice, bras droit d'Anakin et frère d'âme d'Ahsoka.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — clone d'élite ayant retiré sa puce inhibitrice, bras droit d'Anakin et frère d'âme d'Ahsoka.
 
 ## Résumé
 Capitaine de la 501e Légion, sous [[Anakin Skywalker]] et [[Ahsoka Tano]]. Retire sa puce inhibitrice avant l'Ordre 66 grâce à [[Fives]]. Survit avec [[Wolffe]] et [[Gregor]] dans un AT-TE ; rejoint la Rébellion ; combat à Endor (Rebels finale).

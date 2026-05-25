@@ -19,7 +19,7 @@ tags: [personnage, sith-eternal, premier-ordre, clone, sequels]
 # Snoke
 
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Sith** — création artificielle de [[Dark Sidious]], marionnette du côté obscur.
+> <span style="color:#B71C1C">█</span> **Sith** — création artificielle de [[Dark Sidious]], marionnette du côté obscur.
 
 ## Résumé
 Clone artificiel ("strand-cast") créé par les Sith Eternal sur Exegol pour servir de Suprême Leader. Manipule [[Ben Solo]] et le retourne en [[Kylo Ren]]. Tué par Kylo Ren.

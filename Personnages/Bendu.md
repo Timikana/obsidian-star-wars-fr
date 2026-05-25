@@ -18,7 +18,7 @@ tags: [personnage, force, atollon, equilibre, empire]
 
 # Le Bendu
 > [!color] Couleur signature
-> <span style="color:#00897B">█</span> **Sarcelle Jedi** — entité Force d'Atollon, "milieu" entre Lumière et Obscur.
+> <span style="color:#2196F3">█</span> **Sarcelle Jedi** — entité Force d'Atollon, "milieu" entre Lumière et Obscur.
 
 ## Résumé
 Entité Force massive vivant sur Atollon. Représente l'équilibre — ni Jedi ni Sith. Mentor temporaire de [[Kanan Jarrus]] aveuglé. Se manifeste comme une tempête.

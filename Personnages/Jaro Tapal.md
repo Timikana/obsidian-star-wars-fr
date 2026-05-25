@@ -19,7 +19,7 @@ tags: [personnage, jedi, lasat, fallen-order, clone-wars]
 # Jaro Tapal
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi Lasat, sabre double-lame, premier maître de Cal.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi Lasat, sabre double-lame, premier maître de Cal.
 
 ## Résumé
 Maître Jedi Lasat. Sacrifie sa vie pour sauver son padawan [[Cal Kestis]] lors de l'Ordre 66. Hante Cal sous forme de manifestation négative.

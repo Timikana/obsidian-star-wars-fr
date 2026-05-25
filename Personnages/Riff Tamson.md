@@ -18,7 +18,7 @@ tags: [personnage, karkarodon, separatiste, mon-cala, canon]
 
 # Riff Tamson
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Empire** — Ambassadeur Karkarodon, agent séparatiste qui orchestra la guerre civile de Mon Cala.
+> <span style="color:#616161">█</span> **Empire** — Ambassadeur Karkarodon, agent séparatiste qui orchestra la guerre civile de Mon Cala.
 
 ## Résumé
 Karkarodon-requin envoyé par le Comte Dooku comme ambassadeur séparatiste sur Dac, Riff Tamson assassine le Roi Yos Kolina pour déclencher la guerre civile entre Mon Calamari et Quarrens. Ses ambitions de tyran aquatique sont brisées par le jeune Prince Lee-Char.

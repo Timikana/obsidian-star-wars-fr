@@ -19,7 +19,7 @@ tags: [personnage, droide, astromecano, rebellion, spectres, clone-wars, empire]
 # Chopper (C1-10P)
 
 > [!color] Couleur signature
-> <span style="color:#BDBDBD">█</span> **Gris droïde** — astromécano caractériel orange et gris, un des plus vieux droïdes de la galaxie.
+> <span style="color:#90A4AE">█</span> **Gris droïde** — astromécano caractériel orange et gris, un des plus vieux droïdes de la galaxie.
 
 ## Résumé
 Astromécano C1 ancien, sauvé par [[Hera Syndulla]] enfant. Personnalité acariâtre, parfois brutale. Membre permanent des Spectres et du *Ghost*. Caméo dans Rogue One sur Yavin 4.

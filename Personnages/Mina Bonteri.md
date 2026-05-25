@@ -18,7 +18,7 @@ tags: [personnage, separatistes, senatrice, paix, clone-wars]
 
 # Mina Bonteri
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — sénatrice séparatiste pacifiste, amie de Padmé.
+> <span style="color:#FF9800">█</span> **Or République** — sénatrice séparatiste pacifiste, amie de Padmé.
 
 ## Résumé
 Sénatrice séparatiste de Onderon, vieille amie de [[Padmé Amidala]]. Mère de [[Lux Bonteri]]. Tente de négocier la paix ; assassinée par [[Dark Sidious]].

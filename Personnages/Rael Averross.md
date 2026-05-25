@@ -18,7 +18,7 @@ tags: [personnage, canon, jedi, haute-republique]
 
 # Rael Averross
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu Jedi** — Maître Jedi rebelle, ex-padawan de Dooku.
+> <span style="color:#2196F3">█</span> **Bleu Jedi** — Maître Jedi rebelle, ex-padawan de Dooku.
 
 ## Résumé
 **[Canon — Haute République Phase II]** Ancien padawan de [[Comte Dooku]], Rael Averross est un Jedi peu orthodoxe affecté comme Lord Régent de Pijal. Il croise un jeune [[Qui-Gon Jinn]] et son padawan [[Obi-Wan Kenobi]].

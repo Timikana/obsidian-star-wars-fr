@@ -11,7 +11,7 @@ tags: [organisation, jedi, force, lumiere]
 
 # Ordre Jedi
 > [!color] Allégeance
-> <span style="color:#00897B">█</span> **Jedi (Lumière)** — gardiens millénaires de la paix.
+> <span style="color:#2196F3">█</span> **Jedi (Lumière)** — gardiens millénaires de la paix.
 
 ## Résumé
 Ordre millénaire de gardiens de la Force du côté lumineux, fondé sur Tython. Détruit par l'**Ordre 66** en 19 BBY orchestré par [[Dark Sidious]]. Refondé par [[Luke Skywalker]] en ~5 ABY, détruit en 28 ABY par [[Kylo Ren]], reformé encore par [[Rey Skywalker]].

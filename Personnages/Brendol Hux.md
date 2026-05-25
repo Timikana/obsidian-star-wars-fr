@@ -18,7 +18,7 @@ tags: [personnage, empire, premier-ordre, hux]
 
 # Brendol Hux
 > [!color] Couleur signature
-> <span style="color:#B71C1C">█</span> **Rouge Premier Ordre** — père d'Armitage Hux, architecte de l'enfance-soldat.
+> <span style="color:#D32F2F">█</span> **Rouge Premier Ordre** — père d'Armitage Hux, architecte de l'enfance-soldat.
 
 ## Résumé
 Commandant impérial, architecte du programme stormtrooper-enfant du Premier Ordre. Père abusif d'[[Général Hux]] qui finit par l'empoisonner.

@@ -19,7 +19,7 @@ tags: [personnage, jedi, cerean, conseil, clone-wars]
 # Ki-Adi-Mundi
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Cerean au crâne allongé (binaire), membre du Conseil.
+> <span style="color:#2196F3">█</span> **Bleu** — Cerean au crâne allongé (binaire), membre du Conseil.
 
 ## Résumé
 Maître Jedi Cerean au Haut Conseil. Général de la Guerre des Clones, tué par ses clones sur Mygeeto pendant l'Ordre 66. Fait exception culturelle Cerean : autorisé à avoir plusieurs épouses (faible natalité de l'espèce — Légendes).

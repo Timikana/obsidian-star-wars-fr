@@ -18,7 +18,7 @@ tags: [personnage, resistance, tarsunt, sequels]
 
 # Vober Dand
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — officier Tarsunt de la Résistance.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — officier Tarsunt de la Résistance.
 
 ## Résumé
 Lieutenant Tarsunt de la Résistance, présent à la Crait et à Exegol.

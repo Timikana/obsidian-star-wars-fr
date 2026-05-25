@@ -14,7 +14,7 @@ tags: [artefact, holocron, sith, savoir-interdit]
 
 # Holocron Sith
 > [!color] Symbolique
-> <span style="color:#4A148C">█</span> — Pyramide rouge sang gardant les secrets interdits du côté obscur.
+> <span style="color:#B71C1C">█</span> — Pyramide rouge sang gardant les secrets interdits du côté obscur.
 
 ## Résumé
 Les holocrons Sith sont de petites pyramides cristallines rouges renfermant le savoir interdit du côté obscur : sortilèges, manipulations de la Force, prophéties anciennes. Ils ne s'ouvrent qu'à ceux qui maîtrisent la haine et la colère. Leur simple présence corrompt les esprits faibles.

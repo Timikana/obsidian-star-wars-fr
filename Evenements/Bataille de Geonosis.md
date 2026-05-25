@@ -14,7 +14,7 @@ tags: [evenement, bataille, guerre-des-clones, clone-wars]
 
 # Bataille de Geonosis
 > [!color] Faction victorieuse
-> <span style="color:#C9A227">█</span> **République Galactique** — Premier engagement de la Grande Armée de la République, début de la Guerre des Clones.
+> <span style="color:#FF9800">█</span> **République Galactique** — Premier engagement de la Grande Armée de la République, début de la Guerre des Clones.
 
 ## Résumé
 Sur [[Geonosis]], 200 Jedi tentent de sauver [[Anakin Skywalker]], [[Padmé Amidala]] et [[Obi-Wan Kenobi]] des arènes droïdes. [[Yoda]] arrive avec l'armée clone fraîchement révélée. La République repousse la CIS mais la guerre éclate à pleine échelle.

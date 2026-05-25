@@ -18,7 +18,7 @@ tags: [personnage, onderon, resistance, romance-ahsoka, clone-wars]
 
 # Lux Bonteri
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — résistant d'Onderon, romance brève avec Ahsoka.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — résistant d'Onderon, romance brève avec Ahsoka.
 
 ## Résumé
 Fils de [[Mina Bonteri]]. Combattant de la résistance d'Onderon avec [[Steela Gerrera]] et [[Saw Gerrera]]. Brève romance avec [[Ahsoka Tano]].

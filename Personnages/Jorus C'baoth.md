@@ -18,7 +18,7 @@ tags: [personnage, jedi, clone, legendes]
 
 # Jorus C'baoth
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Violet Sith** — Maître Jedi de la fin de la République, dont le clone fou est manipulé par [[Grand Amiral Thrawn]].
+> <span style="color:#B71C1C">█</span> **Violet Sith** — Maître Jedi de la fin de la République, dont le clone fou est manipulé par [[Grand Amiral Thrawn]].
 
 ## Résumé
 Maître Jedi disparu lors de l'expédition de l'Outbound Flight, tué par [[Grand Amiral Thrawn]]. Un clone instable, Joruus C'baoth, est utilisé par Thrawn dans sa campagne. Mégalomane, le clone tente d'asservir la famille Skywalker-Solo avant d'être tué par [[Mara Jade]].

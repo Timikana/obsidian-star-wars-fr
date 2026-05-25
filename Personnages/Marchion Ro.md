@@ -18,7 +18,7 @@ tags: [personnage, haute-republique, nihil, evereni, antagoniste]
 
 # Marchion Ro
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — leader des Nihil, antagoniste central de la Haute République Phase I.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — leader des Nihil, antagoniste central de la Haute République Phase I.
 
 ## Résumé
 "Œil des Nihil", chef machiavélique des pirates Nihil. Détient les "Lévieurs" (Drengir et autres horreurs). Tue [[Stellan Gios]] et plusieurs Jedi.

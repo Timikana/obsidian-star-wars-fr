@@ -18,7 +18,7 @@ tags: [personnage, haute-republique, jedi, tholothienne]
 
 # Indeera Stokes
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Maîtresse de Bell Zettifar après Loden.
+> <span style="color:#2196F3">█</span> **Bleu** — Maîtresse de Bell Zettifar après Loden.
 
 ## Résumé
 Maîtresse Jedi Tholothienne, deuxième maître de [[Bell Zettifar]] après la capture de [[Loden Greatstorm]].

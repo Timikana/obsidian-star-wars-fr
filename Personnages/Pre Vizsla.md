@@ -19,7 +19,7 @@ tags: [personnage, mandalorien, darksaber, death-watch, vizsla, clone-wars]
 # Pré Vizsla
 
 > [!color] Couleur signature
-> <span style="color:#1A1A1A">█</span> **Noir / Darksaber** — descendant de [[Tarre Vizsla]], porteur héréditaire.
+> <span style="color:#212121">█</span> **Noir / Darksaber** — descendant de [[Tarre Vizsla]], porteur héréditaire.
 
 ## Résumé
 Chef de la Death Watch, gouverneur de Concordia, ennemi de [[Satine Kryze]]. S'allie à [[Dark Maul]] et [[Savage Opress]] pour conquérir Mandalore, puis trahi et décapité par Maul en duel rituel pour le Darksaber.

@@ -18,7 +18,7 @@ tags: [personnage, haute-republique, jedi, twilek]
 
 # Loden Greatstorm
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Maître Twi'lek, formateur de Bell Zettifar, capturé par les Nihil.
+> <span style="color:#2196F3">█</span> **Bleu** — Maître Twi'lek, formateur de Bell Zettifar, capturé par les Nihil.
 
 ## Résumé
 Maître Jedi Twi'lek, maître de [[Bell Zettifar]]. Capturé par les Nihil, vidé de sa Force par les Lévieurs.

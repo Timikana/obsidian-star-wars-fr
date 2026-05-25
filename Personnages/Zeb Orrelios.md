@@ -19,7 +19,7 @@ tags: [personnage, lasat, rebellion, spectres, empire]
 # Zeb Orrelios
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — guerrier lasat survivant du génocide de Lasan.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — guerrier lasat survivant du génocide de Lasan.
 
 ## Résumé
 Ancien Garde d'Honneur de Lasan, l'un des derniers Lasat vivants après le génocide impérial. Membre des Spectres. Découvre le sanctuaire Lira San de son peuple grâce à un combat avec [[Agent Kallus]].

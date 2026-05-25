@@ -14,7 +14,7 @@ tags: [evenement, genocide, ordre-66, sith, clone-wars]
 
 # Ordre 66
 > [!color] Faction victorieuse
-> <span style="color:#4A148C">█</span> **Sith / Palpatine** — Génocide de l'Ordre Jedi en quelques heures à travers la galaxie.
+> <span style="color:#B71C1C">█</span> **Sith / Palpatine** — Génocide de l'Ordre Jedi en quelques heures à travers la galaxie.
 
 ## Résumé
 [[Palpatine]] active le protocole secret implanté dans les puces inhibitrices des clones. Partout dans la galaxie, les soldats clones se retournent contre leurs généraux Jedi et les exécutent. Couronnement de la Trilogie Sith de la Vengeance.

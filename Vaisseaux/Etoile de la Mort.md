@@ -12,7 +12,7 @@ tags: [vaisseau, etoile-mort, super-arme, empire]
 
 # Étoile de la Mort
 > [!color] Faction
-> <span style="color:#424242">█</span> **Empire** — station spatiale destructrice de planètes.
+> <span style="color:#616161">█</span> **Empire** — station spatiale destructrice de planètes.
 
 ## Résumé
 Station spatiale-arme de la taille d'une lune avec super-laser capable de détruire une planète entière. Conçue par [[Galen Erso]], supervisée par [[Director Krennic]] et [[Grand Moff Tarkin]].

@@ -19,7 +19,7 @@ tags: [personnage, sith, acolyte, brendok]
 # Mae Aniseya
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — assassin acolyte, traque les Jedi de Brendok.
+> <span style="color:#B71C1C">█</span> **Rouge** — assassin acolyte, traque les Jedi de Brendok.
 
 ## Résumé
 Jumelle d'[[Osha Aniseya]]. Élevée comme arme par [[Qimir]] / L'Ancien. Tue [[Indara]] et [[Torbin]], cherche à tuer [[Kelnacca]] et [[Sol]]. Mémoire effacée par Sol à la fin de la saison.

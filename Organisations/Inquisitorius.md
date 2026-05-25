@@ -11,7 +11,7 @@ tags: [organisation, empire, inquisiteurs, cote-obscur]
 
 # Inquisitorius
 > [!color] Allégeance
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Branche secrète de l'Empire chargée de traquer les Jedi survivants à l'Ordre 66.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Branche secrète de l'Empire chargée de traquer les Jedi survivants à l'Ordre 66.
 
 ## Résumé
 Composé d'anciens Jedi retournés au côté obscur, l'Inquisitorius opère sous l'autorité directe de [[Dark Vador]]. Ses agents, armés de sabres rouges rotatifs, écument la galaxie pour éliminer les derniers Padawan et Chevaliers cachés. L'organisation décline après les échecs face à [[Obi-Wan Kenobi]] et [[Ahsoka Tano]].

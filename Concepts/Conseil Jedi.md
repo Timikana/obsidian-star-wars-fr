@@ -11,7 +11,7 @@ tags: [concept, jedi, gouvernance, canon, legendes]
 # Conseil Jedi
 
 > [!color] Concept / Institution
-> <span style="color:#4169E1">█</span> **Conseil Jedi** — assemblée des douze Maîtres dirigeant l'[[Ordre Jedi]] depuis la **Haute Tour** du Temple de [[Coruscant]].
+> <span style="color:#2196F3">█</span> **Conseil Jedi** — assemblée des douze Maîtres dirigeant l'[[Ordre Jedi]] depuis la **Haute Tour** du Temple de [[Coruscant]].
 
 ## Résumé
 

@@ -14,7 +14,7 @@ tags: [evenement, bataille, sith, jedi, ruusan, ancienne-republique]
 
 # Bataille de Ruusan
 > [!color] Faction victorieuse
-> <span style="color:#8E24AA">█</span> **Armée de Lumière** — Septième et ultime bataille qui scelle la chute de la [[Confrérie des Ténèbres]] et marque la naissance secrète de la [[Règle des Deux]].
+> <span style="color:#9C27B0">█</span> **Armée de Lumière** — Septième et ultime bataille qui scelle la chute de la [[Confrérie des Ténèbres]] et marque la naissance secrète de la [[Règle des Deux]].
 
 ## Résumé
 L'ultime affrontement des [[Guerres Jedi-Sith]] se déroule sur la planète [[Ruusan]] en 1000 BBY, opposant l'**Armée de Lumière** du Maître [[Hoth]] à la **Confrérie des Ténèbres** de [[Lord Kaan]]. Acculé, [[Lord Kaan]] déclenche une **bombe de pensée** (*thought bomb*), une singularité Force qui anéantit instantanément tous les Sith et de nombreux Jedi présents. Seul [[Dark Bane]], retiré du champ de bataille, survit. Profitant du carnage, il refonde l'[[Ordre Sith]] selon la [[Règle des Deux]] — un maître, un apprenti — instaurant un millénaire de dissimulation jusqu'à la chute de [[Dark Sidious]]. Côté Jedi, l'événement scelle la **Réforme de Ruusan** : dissolution des armées Jedi, réorganisation en gardiens diplomates de la [[République Galactique]] sous l'autorité du [[Conseil Jedi]] de [[Coruscant]]. La bataille marque ainsi un tournant cosmique pour les deux ordres et redéfinit la galaxie pour mille ans, jusqu'à la [[Bataille de Naboo]].

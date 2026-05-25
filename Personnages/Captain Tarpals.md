@@ -18,7 +18,7 @@ tags: [personnage, gungan, naboo, republique, canon]
 
 # Captain Tarpals
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **République** — Officier Gungan loyal de la Grande Armée, l'un des rares à supporter Jar Jar Binks.
+> <span style="color:#FF9800">█</span> **République** — Officier Gungan loyal de la Grande Armée, l'un des rares à supporter Jar Jar Binks.
 
 ## Résumé
 Capitaine de la Grande Armée Gungan d'Otoh Gunga, Tarpals participe à la bataille des Plaines Herbeuses lors de l'invasion de Naboo. Promu Général pendant les Guerres Cloniques, il sacrifie sa vie sur Naboo pour permettre la capture de Dark Maul, sauvant ainsi son peuple.

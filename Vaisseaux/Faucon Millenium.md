@@ -12,7 +12,7 @@ tags: [vaisseau, faucon, ytt-1300, contrebande]
 
 # Faucon Millenium
 > [!color] Faction
-> <span style="color:#FF6F00">█</span> **Rébellion** — le vaisseau le plus rapide de la galaxie.
+> <span style="color:#FF5722">█</span> **Rébellion** — le vaisseau le plus rapide de la galaxie.
 
 ## Résumé
 Cargo léger Corellien YT-1300 fortement modifié. **Plus rapide hyperdrive** (point cinq passé). Iconique vaisseau de [[Han Solo]] et [[Chewbacca]] gagné à [[Lando Calrissian]] aux cartes.

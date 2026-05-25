@@ -19,7 +19,7 @@ tags: [personnage, isb, empire, andor]
 # Dedra Meero
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — superviseure ISB ambitieuse, traque le réseau rebelle de Luthen.
+> <span style="color:#616161">█</span> **Gris Empire** — superviseure ISB ambitieuse, traque le réseau rebelle de Luthen.
 
 ## Résumé
 Superviseure de l'ISB, méthodique et ambitieuse. Pionnière dans l'analyse de modèles entre cellules rebelles. Traque [[Luthen Rael]] et [[Cassian Andor]]. Liaison amoureuse avec [[Syril Karn]]. Capturée à la fin de la S2 et envoyée comme prisonnière à Narkina-5.

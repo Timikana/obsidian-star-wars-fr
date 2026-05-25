@@ -13,7 +13,7 @@ tags: [espece, humain, dominante]
 
 # Humain
 > [!color] Origine
-> <span style="color:#FF6F00">█</span> — Espèce la plus répandue de la galaxie, omniprésente dans toutes les factions.
+> <span style="color:#FF5722">█</span> — Espèce la plus répandue de la galaxie, omniprésente dans toutes les factions.
 
 ## Résumé
 Les humains sont des mammifères humanoïdes bipèdes à la longévité moyenne d'un siècle. Originaires de plusieurs mondes (notamment [[Coruscant]] et [[Corellia]]), ils dominent la galaxie sur les plans politique, militaire et culturel. Leur adaptabilité et leur taux de reproduction élevé en font la majorité écrasante de la population de l'[[Empire Galactique]] comme de la [[République Galactique]]. Leur sensibilité à la [[Force]] est variable mais a produit certains des plus grands [[Jedi]] et [[Sith]].

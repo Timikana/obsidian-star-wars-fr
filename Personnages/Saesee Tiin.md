@@ -18,7 +18,7 @@ tags: [personnage, jedi, iktotchi, conseil, pilote]
 
 # Saesee Tiin
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Iktotchi taciturne, pilote ace du Conseil.
+> <span style="color:#2196F3">█</span> **Bleu** — Iktotchi taciturne, pilote ace du Conseil.
 
 ## Résumé
 Maître Iktotchi, membre du Conseil, pilote prodigieux. Tué par [[Dark Sidious]] avec [[Mace Windu]] dans son bureau.

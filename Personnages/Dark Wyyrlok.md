@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, chagrien, legacy, one-sith]
 
 # Dark Wyyrlok
 > [!color] Sabre
-> <span style="color:#E53935">█</span> **Rouge** — Vizir et bras droit de Dark Krayt, dynastie chagrienne.
+> <span style="color:#B71C1C">█</span> **Rouge** — Vizir et bras droit de Dark Krayt, dynastie chagrienne.
 
 ## Résumé
 **[Légendes]** **Dark Wyyrlok**, troisième du nom, est le **Chagrien** vizir et principal conseiller de [[Dark Krayt]]. Hérité de la fonction de son père et grand-père, il dirige l'administration quotidienne de l'**Empire Sith** et soigne la maladie dégénérative de Krayt par des rituels d'**ysalamir vong** et de Force noire. Stratège politique redoutable, il manipule l'aristocratie impériale, l'amiral [[Antares Draco]] et les armées contre les loyalistes de [[Roan Fel]]. Quand Krayt entre en **stase régénérative** sur Korriban, Wyyrlok le **trahit en lui plongeant un poignard dans la poitrine**, prend le trône et se proclame **Dark Lord** par intérim. Krayt revient miraculeusement et l'**élimine** dans un duel sur Korriban. Wyyrlok incarne le complotisme aulique de la nouvelle dynastie Sith.

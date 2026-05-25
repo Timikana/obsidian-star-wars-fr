@@ -18,7 +18,7 @@ tags: [personnage, clone, commando, delta-squad, empire, clone-wars]
 
 # Scorch
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — démolisseur du Delta Squad, devenu officier impérial (canon).
+> <span style="color:#FF9800">█</span> **Or République** — démolisseur du Delta Squad, devenu officier impérial (canon).
 
 ## Résumé
 Spécialiste explosifs du Delta Squad. Devient officier impérial sur Kamino (Bad Batch). Affronte ses anciens frères Bad Batch.

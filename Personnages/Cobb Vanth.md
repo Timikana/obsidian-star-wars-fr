@@ -18,7 +18,7 @@ tags: [personnage, marshal, tatooine, mandalorian, empire]
 
 # Cobb Vanth
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — Marshal de Mos Pelgo qui portait l'armure de Boba Fett.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — Marshal de Mos Pelgo qui portait l'armure de Boba Fett.
 
 ## Résumé
 Marshal de Mos Pelgo (renommé Freetown). Ancien esclave de la mine de Mos Pelgo. Achetait l'armure de [[Boba Fett]] aux Jawas, la rend à [[Din Djarin]].

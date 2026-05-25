@@ -11,7 +11,7 @@ tags: [concept, force, temporel, metaphysique, canon]
 # World Between Worlds
 
 > [!color] Concept métaphysique
-> <span style="color:#9370DB">█</span> **World Between Worlds** — labyrinthe de portes temporelles entre tous les moments et lieux de la galaxie, accessible par la [[La Force|Force]].
+> <span style="color:#9C27B0">█</span> **World Between Worlds** — labyrinthe de portes temporelles entre tous les moments et lieux de la galaxie, accessible par la [[La Force|Force]].
 
 ## Résumé
 

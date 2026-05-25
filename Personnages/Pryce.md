@@ -19,7 +19,7 @@ tags: [personnage, empire, gouverneur, lothal, thrawn]
 # Gouverneure Pryce
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — gouverneure de Lothal, alliée de Thrawn.
+> <span style="color:#616161">█</span> **Gris Empire** — gouverneure de Lothal, alliée de Thrawn.
 
 ## Résumé
 Gouverneure de Lothal, ascension via [[Grand Amiral Thrawn]]. Antagoniste majeure des Spectres. Tuée dans la libération de Lothal (S4 finale Rebels) en sacrifiant l'usine impériale.

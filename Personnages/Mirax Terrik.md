@@ -18,7 +18,7 @@ tags: [personnage, contrebandier, legendes]
 
 # Mirax Terrik
 > [!color] Couleur signature
-> <span style="color:#FB8C00">█</span> **Orange Contrebandier** — capitaine de fret corellienne, épouse de [[Corran Horn]].
+> <span style="color:#FF9800">█</span> **Orange Contrebandier** — capitaine de fret corellienne, épouse de [[Corran Horn]].
 
 ## Résumé
 Fille du contrebandier Booster Terrik, capitaine du Pulsar Skate. D'abord rivale de [[Corran Horn]] (à cause de leurs pères), elle devient son épouse et mère de Valin et Jysella Horn, futurs Jedi.

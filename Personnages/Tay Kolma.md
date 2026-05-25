@@ -18,7 +18,7 @@ tags: [personnage, andor, finances, chandrila, empire]
 
 # Tay Kolma
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — banquier de Chandrila qui blanchit les fonds de Mon Mothma.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — banquier de Chandrila qui blanchit les fonds de Mon Mothma.
 
 ## Résumé
 Ami d'enfance de [[Mon Mothma]], banquier qui blanchit ses fonds vers la Rébellion. Tué sur ordre de [[Luthen Rael]] pour préserver l'opération.

@@ -18,7 +18,7 @@ tags: [personnage, clone, domino-squad, rishi, clone-wars]
 
 # Hevy
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — clone Domino Squad, sacrifice héroïque à Rishi Moon.
+> <span style="color:#FF9800">█</span> **Or République** — clone Domino Squad, sacrifice héroïque à Rishi Moon.
 
 ## Résumé
 Clone de la Domino Squad avec [[Echo]], [[Fives]], Cutup, Droidbait. Se sacrifie pour faire sauter la station de surveillance de Rishi Moon.

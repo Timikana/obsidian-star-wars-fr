@@ -18,7 +18,7 @@ tags: [personnage, canon, rebellion, hoth]
 
 # Captain Bren Derlin
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — Officier rebelle d'Echo Base.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — Officier rebelle d'Echo Base.
 
 ## Résumé
 **[Canon]** Officier de sécurité d'Echo Base sur Hoth, Derlin est l'homme qui informe [[Han Solo]] et [[Leia Organa]] de la fermeture des portes du blindage face à la nuit glaciale. Sert sous [[General Carlist Rieekan]].

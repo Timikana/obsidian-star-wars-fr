@@ -14,7 +14,7 @@ tags: [planete, core, coruscant, capitale]
 
 # Coruscant
 > [!color] Région
-> <span style="color:#00BCD4">█</span> **Core Worlds** — ville-monde capitale de la galaxie.
+> <span style="color:#FFEB3B">█</span> **Core Worlds** — ville-monde capitale de la galaxie.
 
 ## Résumé
 Capitale galactique, planète entièrement urbanisée (écuménopole). Siège de la République, du Sénat, du Temple Jedi. Devient **Imperial Center** sous l'Empire.

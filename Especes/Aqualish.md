@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Aqualish
 
 > [!color] Espèce sentiente — Bordure Extérieure
-> <span style="color:#556B2F">█</span> **Aqualish** — humanoïdes à défenses, brutaux et guerriers, natifs d'[[Ando]].
+> <span style="color:#4CAF50">█</span> **Aqualish** — humanoïdes à défenses, brutaux et guerriers, natifs d'[[Ando]].
 
 ## Résumé
 

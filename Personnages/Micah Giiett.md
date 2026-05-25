@@ -5,7 +5,7 @@ affiliation: [Ordre Jedi, Haut Conseil Jedi]
 periode: [Prelogie]
 statut: décédé (~44 BBY, Yinchorr)
 canon: Legendes
-premiere_apparition: Jedi Council: Acts of War (comic, 2000)
+premiere_apparition: "Jedi Council: Acts of War (comic, 2000)"
 acteur_voix: —
 sabre_couleur: vert
 sabre_hex: "#4CAF50"

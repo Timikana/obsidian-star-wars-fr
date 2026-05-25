@@ -14,7 +14,7 @@ tags: [evenement, bataille, mandaloriens, legendes]
 
 # Bataille de Malachor V
 > [!color] Faction victorieuse
-> <span style="color:#4A148C">█</span> **République (victoire pyrrhique)** — Cataclysme final des Guerres Mandaloriennes.
+> <span style="color:#B71C1C">█</span> **République (victoire pyrrhique)** — Cataclysme final des Guerres Mandaloriennes.
 
 ## Résumé
 Acculés sur [[Malachor V]], les derniers Mandaloriens livrent leur ultime résistance. Sur ordre de [[Dark Revan]], le général [[Meetra Surik]] active le Mass Shadow Generator, une superarme de gravité qui broie les flottes mandaloriennes et républicaines confondues, et déchire la planète. L'écho dans la Force est si traumatique que [[Meetra Surik]] se coupe elle-même de la Force.

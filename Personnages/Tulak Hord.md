@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith-pur, duelliste, ancien]
 
 # Tulak Hord
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Dark Lord Sith duelliste légendaire de l'Ancien Empire.
+> <span style="color:#B71C1C">█</span> **Rouge** — Dark Lord Sith duelliste légendaire de l'Ancien Empire.
 
 ## Résumé
 **[Légendes]** Sith duelliste légendaire, surnommé "Le Maître des Sabres". A vaincu d'innombrables Jedi en duel.

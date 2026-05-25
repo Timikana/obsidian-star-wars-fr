@@ -18,7 +18,7 @@ tags: [personnage, legendes, yuuzhan-vong, warmaster]
 
 # Tsavong Lah
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Warmaster Yuuzhan Vong, antagoniste central de NJO.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Warmaster Yuuzhan Vong, antagoniste central de NJO.
 
 ## Résumé
 **[Légendes]** Warmaster Yuuzhan Vong, fait la guerre brutale contre la Nouvelle République. Tué par [[Jaina Solo]].

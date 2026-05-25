@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Neimoidien
 
 > [!color] Espèce sentiente — Bordure Intermédiaire
-> <span style="color:#708090">█</span> **Neimoidien** — marchands cupides de [[Neimoidia]], maîtres de la [[Fédération du Commerce]].
+> <span style="color:#1976D2">█</span> **Neimoidien** — marchands cupides de [[Neimoidia]], maîtres de la [[Fédération du Commerce]].
 
 ## Résumé
 

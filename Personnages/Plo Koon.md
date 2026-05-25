@@ -19,7 +19,7 @@ tags: [personnage, jedi, kel-dor, conseil, clone-wars]
 # Plo Koon
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi gardien, membre du Haut Conseil.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi gardien, membre du Haut Conseil.
 
 ## Résumé
 Maître Jedi Kel Dor, membre du Haut Conseil, général durant la Guerre des Clones. Découvre [[Ahsoka Tano]] enfant. Tué par ses propres clones lors de l'Ordre 66 au-dessus de Cato Neimoidia.

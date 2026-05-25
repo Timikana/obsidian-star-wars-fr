@@ -19,7 +19,7 @@ tags: [personnage, inquisiteur, empire, survivante-temple, redemption]
 # Reva (Troisième Sœur)
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Inquisitrice, mais cherche la rédemption en épargnant Luke.
+> <span style="color:#B71C1C">█</span> **Rouge** — Inquisitrice, mais cherche la rédemption en épargnant Luke.
 
 ## Résumé
 Survivante du massacre du Temple Jedi (jeune padawan en 19 BBY). Rejoint l'Inquisitorius pour approcher [[Dark Vador]] et le tuer en vengeance. Démasquée, vaincue, mais épargnée — épargne aussi [[Luke Skywalker]] et choisit la rédemption.

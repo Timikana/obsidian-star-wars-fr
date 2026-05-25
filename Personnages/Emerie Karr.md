@@ -18,7 +18,7 @@ tags: [personnage, clone, sister-omega, bad-batch, empire]
 
 # Emerie Karr
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — clone-fille de Jango, "sœur" d'Omega, scientifique de Hemlock retournée.
+> <span style="color:#FF9800">█</span> **Or République** — clone-fille de Jango, "sœur" d'Omega, scientifique de Hemlock retournée.
 
 ## Résumé
 Clone-fille de [[Jango Fett]] comme [[Omega]], "fille adoptive" du [[Doctor Hemlock]]. Découvre sa parenté avec Omega ; aide à libérer les enfants clones.

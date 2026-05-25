@@ -18,7 +18,7 @@ tags: [personnage, legendes, empire, dark-empire, sith-warrior]
 
 # Sedriss
 > [!color] Faction
-> <span style="color:#424242">█</span> **Dark Empire** — Exécuteur Suprême du Palpatine cloné, guerrier sombre.
+> <span style="color:#B71C1C">█</span> **Dark Empire** — Exécuteur Suprême du Palpatine cloné, guerrier sombre.
 
 ## Résumé
 **[Légendes]** **Sedriss QL**, surnommé **Executor Sedriss**, est l'**Exécuteur Suprême** du [[Palpatine cloné]] durant le **Dark Empire** (10 ABY). À la tête du **Cercle des Sept Gardiens** — sept seigneurs sombres et adeptes serviteurs de Palpatine — il dirige les armées impériales reconstituées depuis [[Byss]] et le **Eclipse**. Maniant la Force et un sabre rouge, il pourchasse [[Luke Skywalker]] dans toute la galaxie. Lors de la **bataille d'Ossus**, il affronte Luke aux côtés de **Vill Goir** ; vaincu, il poursuit Luke jusqu'à l'arbre sacré de la planète, où le Maître Jedi gravement blessé canalise l'énergie de l'arbre pour le **désintégrer**. Sa mort prive Palpatine ressuscité d'un de ses meilleurs lieutenants juste avant la chute finale du Dark Empire.

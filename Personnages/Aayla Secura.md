@@ -19,7 +19,7 @@ tags: [personnage, jedi, twilek, prelogie, clone-wars]
 # Aayla Secura
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi twi'lek bleue, sabre Jedi gardien.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi twi'lek bleue, sabre Jedi gardien.
 
 ## Résumé
 Maître Jedi twi'lek, générale durant la Guerre des Clones, abattue par ses propres clones (commandant Bly) sur Felucia lors de l'Ordre 66.

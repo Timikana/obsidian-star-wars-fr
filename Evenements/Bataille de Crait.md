@@ -14,7 +14,7 @@ tags: [evenement, bataille, resistance]
 
 # Bataille de Crait
 > [!color] Faction victorieuse
-> <span style="color:#B71C1C">█</span> **Premier Ordre** — Victoire tactique impériale, mais survie symbolique de la Résistance grâce à Luke.
+> <span style="color:#D32F2F">█</span> **Premier Ordre** — Victoire tactique impériale, mais survie symbolique de la Résistance grâce à Luke.
 
 ## Résumé
 La Résistance acculée se réfugie dans une vieille base rebelle sur [[Crait]]. Le Premier Ordre l'assiège avec un canon brise-porte. [[Luke Skywalker]] apparaît via une projection de Force pour défier [[Kylo Ren]] et permettre l'évasion des survivants.

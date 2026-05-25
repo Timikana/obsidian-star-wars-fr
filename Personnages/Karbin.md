@@ -18,7 +18,7 @@ tags: [personnage, canon, empire, cyborg, comics]
 
 # Karbin
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge Sith** — Cyborg Mon Calamari, remplaçant designé de Vador.
+> <span style="color:#B71C1C">█</span> **Rouge Sith** — Cyborg Mon Calamari, remplaçant designé de Vador.
 
 ## Résumé
 **[Canon — comics]** Création de [[Doctor Cylo]], Karbin est un cyborg quadri-bras inspiré de [[General Grievous]]. Conçu pour remplacer [[Dark Sidious|Dark Vador]], il est exécuté par celui-ci sur Mustafar.

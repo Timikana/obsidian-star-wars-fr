@@ -14,7 +14,7 @@ tags: [evenement, bataille, rebels, thrawn, empire]
 
 # Bataille d'Atollon
 > [!color] Faction victorieuse
-> <span style="color:#424242">█</span> **Empire Galactique** — Démonstration impitoyable du génie tactique du [[Grand Amiral Thrawn]].
+> <span style="color:#616161">█</span> **Empire Galactique** — Démonstration impitoyable du génie tactique du [[Grand Amiral Thrawn]].
 
 ## Résumé
 Localisée par [[Grand Amiral Thrawn]] grâce à la trahison du gouverneur [[Ryder Azadi]] (en fait infiltration de [[Kallus]]), la base Chopper de la Phoenix Cell sur [[Atollon]] est encerclée. Thrawn déploie un blocus interdictor et bombarde le sanctuaire rebelle. [[Sabine Wren]] revient avec [[Bo-Katan Kryze]] et les Mandaloriens pour permettre l'évacuation in extremis.

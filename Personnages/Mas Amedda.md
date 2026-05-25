@@ -19,7 +19,7 @@ tags: [personnage, chagrian, palpatine, clone-wars, empire]
 # Mas Amedda
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — Grand Vizir de Palpatine, ombre du Sénat.
+> <span style="color:#616161">█</span> **Gris Empire** — Grand Vizir de Palpatine, ombre du Sénat.
 
 ## Résumé
 Chagrian, Vice-Chancelier de Palpatine puis Grand Vizir de l'Empire. Symbole administratif de la transition de la République à la dictature. Capturé après Endor.

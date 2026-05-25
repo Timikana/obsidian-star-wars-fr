@@ -3,7 +3,7 @@ alias: [Rosh]
 espece: Humain
 affiliation: [Praxeum Jedi de Yavin IV, Disciples de Ragnos (brievement)]
 periode: [Nouvelle Republique (Legendes)]
-statut: variable (canon : vivant)
+statut: "variable (canon : vivant)"
 canon: Legendes
 premiere_apparition: Jedi Knight - Jedi Academy (2003)
 sabre_couleur: bleu

@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, killik, njo, joiner]
 
 # Raynar Thul
 > [!color] Sabre
-> <span style="color:#FDD835">█</span> **Jaune** — Jedi bothan-héritier d'Alderaan, devenu roi-ruche Killik.
+> <span style="color:#FFC107">█</span> **Jaune** — Jedi bothan-héritier d'Alderaan, devenu roi-ruche Killik.
 
 ## Résumé
 **[Légendes]** **Raynar Thul**, héritier d'une riche dynastie de Bornaryn, jeune apprenti à l'**Académie Jedi**, est un compagnon de génération de [[Jacen Solo]], [[Jaina Solo]], [[Tenel Ka]] et [[Lowbacca]]. Pendant la guerre [[Yuuzhan Vong]], son vaisseau s'écrase sur **Yoggoy**, planète peuplée par les insectes ruche **Killik**. Brûlé, mourant, il est sauvé par les Killiks qui le **fusionnent** à leur conscience collective. Émergent comme **UnuThul**, "**Joiner King**" : esprit hybride humain-Killik dirigeant la **Colony** ruche. Ses tentatives de coloniser l'espace Chiss déclenchent la **Swarm War** (Dark Nest Trilogy), forçant [[Luke Skywalker]] et le Conseil Jedi à intervenir. Vaincu mais préservé, il devient figure tragique d'identité dissoute. Étude fascinante des Légendes sur la perte de soi via la Force collective.

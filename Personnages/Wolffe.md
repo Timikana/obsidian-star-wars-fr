@@ -19,7 +19,7 @@ tags: [personnage, clone, commandant, 104, wolfpack, clone-wars, empire]
 # Wolffe
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — commandant du Wolfpack, sous Plo Koon. Prothèse oculaire signature.
+> <span style="color:#FF9800">█</span> **Or République** — commandant du Wolfpack, sous Plo Koon. Prothèse oculaire signature.
 
 ## Résumé
 Commandant Clone du Wolfpack, sous le général [[Plo Koon]]. Perd un œil face à [[Asajj Ventress]]. Retire sa puce inhibitrice avec [[Rex]] et [[Gregor]] ; vit en retraite sur Seelos avant de se rallier aux Spectres.

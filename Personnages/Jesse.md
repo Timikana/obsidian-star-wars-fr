@@ -18,7 +18,7 @@ tags: [personnage, clone, 501, arc, clone-wars, empire]
 
 # Jesse
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — ARC trooper 501e, tatouage Republic emblématique.
+> <span style="color:#FF9800">█</span> **Or République** — ARC trooper 501e, tatouage Republic emblématique.
 
 ## Résumé
 ARC trooper de la 501e, tatouage frontal du symbole républicain. Tué pendant l'Ordre 66 quand [[Ahsoka Tano]] et [[Capitaine Rex]] tentent de fuir le Star Destroyer.

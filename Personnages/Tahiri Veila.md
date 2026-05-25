@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, NJO]
 
 # Tahiri Veila
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi élevée par les Tuskens, amour d'Anakin Solo.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi élevée par les Tuskens, amour d'Anakin Solo.
 
 ## Résumé
 **[Légendes]** Jedi humaine élevée par les Tusken sur Tatooine. Amante d'[[Anakin Solo (Légendes)]]. Brièvement Sith sous [[Jacen Solo]] / Caedus.

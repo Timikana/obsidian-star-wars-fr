@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Nautolan
 
 > [!color] Espèce sentiente — Région d'Expansion
-> <span style="color:#2E8B57">█</span> **Nautolan** — humanoïdes aquatiques aux tentacules sensoriels, natifs de [[Glee Anselm]].
+> <span style="color:#4CAF50">█</span> **Nautolan** — humanoïdes aquatiques aux tentacules sensoriels, natifs de [[Glee Anselm]].
 
 ## Résumé
 

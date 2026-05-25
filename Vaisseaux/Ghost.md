@@ -11,7 +11,7 @@ tags: [vaisseau, ghost, spectres, rebels]
 
 # Ghost
 > [!color] Faction
-> <span style="color:#FF6F00">█</span> **Rébellion** — vaisseau des Spectres dans Rebels.
+> <span style="color:#FF5722">█</span> **Rébellion** — vaisseau des Spectres dans Rebels.
 
 ## Résumé
 Light freighter VCX-100 de [[Hera Syndulla]]. Vaisseau central de l'équipage **Spectres** dans *Rebels*. Capable de mode furtif. Comprend la navette détachable **Phantom**.

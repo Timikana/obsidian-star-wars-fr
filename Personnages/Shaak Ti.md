@@ -19,7 +19,7 @@ tags: [personnage, jedi, togruta, conseil, kamino, clone-wars]
 # Shaak Ti
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi togruta, instructrice des clones sur Kamino.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi togruta, instructrice des clones sur Kamino.
 
 ## Résumé
 Maître Jedi togruta, membre du Haut Conseil. Supervise l'entraînement des clones sur [[Kamino]]. Tuée pendant l'Ordre 66 (canon : Bad Batch / The Force Unleashed retiré).

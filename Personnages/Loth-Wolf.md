@@ -18,7 +18,7 @@ tags: [personnage, force, lothal, loth-wolf, empire]
 
 # Dume / Loth-Wolf blanc
 > [!color] Couleur signature
-> <span style="color:#00897B">█</span> **Sarcelle Jedi** — incarnation Force de Lothal, lié à Kanan Jarrus.
+> <span style="color:#2196F3">█</span> **Sarcelle Jedi** — incarnation Force de Lothal, lié à Kanan Jarrus.
 
 ## Résumé
 Loth-wolf alpha blanc, manifestation de la Force et de la mémoire de [[Kanan Jarrus]] (« Caleb Dume »). Guide [[Ezra Bridger]] et [[Sabine Wren]] dans le finale de Rebels.

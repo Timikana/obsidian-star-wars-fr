@@ -18,7 +18,7 @@ tags: [personnage, humain, empire, andor]
 
 # Mosk
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Empire** — Sergent corporate de la Pré-Mor Authority, bras droit de [[Syril Karn]].
+> <span style="color:#616161">█</span> **Empire** — Sergent corporate de la Pré-Mor Authority, bras droit de [[Syril Karn]].
 
 ## Résumé
 Le Sergent Linus Mosk est un officier de sécurité corporate de la Pré-Mor Authority, vétéran à la moustache épaisse et au franc-parler. Affecté à l'enquête sur le meurtre de deux agents corporate à Ferrix par [[Cassian Andor]], il devient le bras droit du Préfet adjoint [[Syril Karn]]. Plus expérimenté et plus pragmatique que Syril, Mosk lui apporte un encadrement militaire solide pendant la descente sur Ferrix. Quand l'opération tourne au désastre, Mosk subit le contrecoup avec son supérieur et perd sa place. Personnage secondaire mais marquant, il incarne le fonctionnaire compétent et obéissant écrasé entre l'ambition de son chef et la cruauté politique du système impérial.

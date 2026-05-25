@@ -18,7 +18,7 @@ tags: [personnage, lothal, gouverneur, rebellion, empire]
 
 # Ryder Azadi
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — ancien gouverneur de Lothal emprisonné par l'Empire, leader de la résistance Lothal.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — ancien gouverneur de Lothal emprisonné par l'Empire, leader de la résistance Lothal.
 
 ## Résumé
 Ancien gouverneur de Lothal emprisonné pour avoir aidé les parents d'[[Ezra Bridger]]. Libéré par les Spectres, devient leader de la résistance locale.

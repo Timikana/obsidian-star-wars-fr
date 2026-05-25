@@ -18,7 +18,7 @@ tags: [personnage, jedi, ancienne-republique, legendes, grande-guerre-sith, tale
 
 # Cay Qel-Droma
 > [!color] Couleur signature
-> <span style="color:#1976D2">█</span> **Bleu Jedi** — mécanicien-bricoleur, frère cadet d'Ulic, victime tragique de la Grande Guerre Sith.
+> <span style="color:#2196F3">█</span> **Bleu Jedi** — mécanicien-bricoleur, frère cadet d'Ulic, victime tragique de la Grande Guerre Sith.
 
 ## Résumé
 **[Légendes]** Jeune Jedi humain d'Alderaan, **Cay Qel-Droma** est le frère cadet d'[[Ulic Qel-Droma]] et fils de la défunte Maîtresse Jedi **Jedi Master Arca Jeth**. Apprenti désinvolte, plus passionné par la mécanique des **droïdes** et des speeders que par les enseignements ascétiques, Cay accompagne son frère et [[Tott Doneeta]] dans la mission diplomatique sur **Onderon** où ils interviennent dans les **Beast Wars** et exorcisent l'influence spectrale de [[Freedon Nadd]]. Au cours du conflit, il perd un bras tranché par un sabre noir, qu'il remplace par une prothèse cybernétique de sa propre fabrication — symbole de sa singularité parmi les Jedi. Lors de la **Grande Guerre Sith**, Cay reste loyal à la République alors qu'Ulic bascule du côté Sith sous l'emprise de [[Aleema Keto]] et [[Exar Kun]]. Le drame culmine sur **Ossus** : confrontant son frère pour le ramener à la lumière, Cay est abattu par Ulic dans un duel fratricide. Sa mort provoque la rédemption immédiate d'Ulic, qui se voit retirer la Force par les Jedi survivants. Figure douce-amère, Cay incarne la perte morale de toute une génération.

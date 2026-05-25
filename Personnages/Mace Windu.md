@@ -19,7 +19,7 @@ tags: [personnage, jedi, conseil, vaapad, clone-wars]
 # Mace Windu
 
 > [!color] Couleur signature
-> <span style="color:#8E24AA">█</span> **Violet** — unique sabre violet de la galaxie, demandé personnellement à George Lucas par Samuel L. Jackson.
+> <span style="color:#9C27B0">█</span> **Violet** — unique sabre violet de la galaxie, demandé personnellement à George Lucas par Samuel L. Jackson.
 
 ## Résumé
 Maître du Conseil Jedi, second seulement à [[Yoda]]. Créateur de la Forme VII (Vaapad), seul Jedi à canaliser le côté obscur sans tomber. Découvre Sidious et tente de l'arrêter avant qu'Anakin ne le trahisse.

@@ -19,7 +19,7 @@ tags: [personnage, clone, bad-batch, sniper, redemption, clone-wars, empire]
 # Crosshair
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — sniper du Bad Batch, le seul à conserver sa puce inhibitrice longtemps. Rédemption en S3.
+> <span style="color:#616161">█</span> **Gris Empire** — sniper du Bad Batch, le seul à conserver sa puce inhibitrice longtemps. Rédemption en S3.
 
 ## Résumé
 Clone défectueux à la précision extrême. Sa puce inhibitrice est restée active après la Proclamation de l'Empire ; sert l'ISB sous [[Doctor Hemlock]] avant de revenir vers ses frères. Tremblement nerveux séquellaire de la torture.

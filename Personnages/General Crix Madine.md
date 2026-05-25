@@ -18,7 +18,7 @@ tags: [personnage, canon, rebellion, defection]
 
 # General Crix Madine
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — Général transfuge, planificateur d'Endor.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — Général transfuge, planificateur d'Endor.
 
 ## Résumé
 **[Canon]** Ex-officier impérial passé à l'Alliance, Crix Madine planifie le commando d'Endor visant le bouclier de l'Étoile de la Mort II. Présent au briefing rebelle aux côtés d'[[Amiral Ackbar]] et [[Mon Mothma]].

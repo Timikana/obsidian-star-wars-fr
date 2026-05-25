@@ -18,7 +18,7 @@ tags: [personnage, rebellion, alderaan, marshal, shock-trooper, empire]
 
 # Cara Dune
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — ancienne Shock Trooper rebelle d'Alderaan, marshal de Nevarro.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — ancienne Shock Trooper rebelle d'Alderaan, marshal de Nevarro.
 
 ## Résumé
 Ancienne Shock Trooper de la Rébellion (originaire d'Alderaan détruite). Marshal de Nevarro. Recrutée par les Rangers de la Nouvelle République (off-screen).

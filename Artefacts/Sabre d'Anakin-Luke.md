@@ -15,7 +15,7 @@ tags: [artefact, sabre, skywalker, jedi]
 
 # Sabre d'Anakin / Luke
 > [!color] Symbolique
-> <span style="color:#2E9DF7">█</span> — Lame bleue de la lignée Skywalker, transmise de génération en génération.
+> <span style="color:#2196F3">█</span> — Lame bleue de la lignée Skywalker, transmise de génération en génération.
 
 ## Résumé
 Construit par [[Anakin Skywalker]] avant les Guerres des Clones, ce sabre laser à lame bleue devient le symbole du Chevalier Jedi héroïque. Hérité par [[Luke Skywalker]] sur Tatooine, perdu à Bespin, il refait surface des décennies plus tard pour appeler une nouvelle génération.

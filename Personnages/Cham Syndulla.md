@@ -18,7 +18,7 @@ tags: [personnage, twilek, ryloth, resistance, clone-wars, empire]
 
 # Cham Syndulla
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — héros de la résistance de Ryloth, père d'Hera.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — héros de la résistance de Ryloth, père d'Hera.
 
 ## Résumé
 Leader de la résistance Twi'lek de Ryloth pendant la Guerre des Clones puis sous l'Empire. Père d'[[Hera Syndulla]].

@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Cerean
 
 > [!color] Espèce sentiente — Bordure Médiane
-> <span style="color:#DEB887">█</span> **Cerean** — penseurs au crâne conique abritant un double cerveau, natifs de [[Cerea]].
+> <span style="color:#8D6E63">█</span> **Cerean** — penseurs au crâne conique abritant un double cerveau, natifs de [[Cerea]].
 
 ## Résumé
 

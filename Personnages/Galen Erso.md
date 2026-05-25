@@ -19,7 +19,7 @@ tags: [personnage, empire, scientifique, rogue-one, etoile-mort]
 # Galen Erso
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — architecte forcé de l'Étoile de la Mort, sabote en cachant une faille.
+> <span style="color:#616161">█</span> **Gris Empire** — architecte forcé de l'Étoile de la Mort, sabote en cachant une faille.
 
 ## Résumé
 Brillant scientifique forcé par [[Director Krennic]] de finaliser le super-laser de l'Étoile de la Mort. Père de [[Jyn Erso]]. Cache un défaut intentionnel (le pôle d'évacuation thermique) qui permettra à Luke de la détruire.

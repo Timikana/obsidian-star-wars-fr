@@ -18,7 +18,7 @@ tags: [personnage, jedi, ancienne-republique, legendes, kotor, comic, dark-horse
 
 # Raana Tey
 > [!color] Couleur signature
-> <span style="color:#1976D2">█</span> **Bleu Jedi** — Maîtresse Bothane impulsive, la plus violente des conspirateurs du Covenant.
+> <span style="color:#2196F3">█</span> **Bleu Jedi** — Maîtresse Bothane impulsive, la plus violente des conspirateurs du Covenant.
 
 ## Résumé
 **[Légendes]** **Bothane** sensible à la Force, **Raana Tey** est l'une des cinq Maîtres Jedi recrutés par [[Krynda Draay]] pour le **Jedi Covenant**. Maîtresse de la Padawan **Shel Jelavan** (sœur de Shad), elle se rallie à la conspiration prophétique du complot du massacre de Taris avec un fanatisme particulièrement brûlant. Combattante agressive au tempérament colérique — trait souvent associé à son espèce —, Raana est la plus implacable du groupe : elle traque personnellement [[Zayne Carrick]], le seul Padawan survivant, en convaincue qu'il est le futur Sith annoncé par les visions. Sa chasse l'amène sur plusieurs mondes périphériques où elle perd progressivement le contrôle de soi, glissant ouvertement vers le **côté obscur**. Confrontée à Zayne au cours de l'arc *Knights of Suffering*, elle est tuée à son propre piège, démasquée pour ce qu'elle est devenue : une Sith de fait, justifiant rétroactivement la prophétie qu'elle voulait empêcher. Sa mort signe le premier effritement public du Covenant.

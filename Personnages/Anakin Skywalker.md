@@ -19,7 +19,7 @@ tags: [personnage, sith, jedi, skywalker, elu, prelogie, clone-wars, empire, tri
 # Anakin Skywalker / Dark Vador
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — sabre Sith de Dark Vador, identité dominante de la majeure partie de sa vie.
+> <span style="color:#B71C1C">█</span> **Rouge** — sabre Sith de Dark Vador, identité dominante de la majeure partie de sa vie.
 
 ## Résumé
 Né esclave sur Tatooine, conçu par la Force ([[Shmi Skywalker]] sans père). Padawan d'[[Obi-Wan Kenobi]], époux secret de [[Padmé Amidala]], il bascule en 19 BBY et devient [[Dark Vador]]. Père de [[Luke Skywalker]] et [[Leia Organa]]. Tue [[Dark Sidious]] pour sauver Luke.

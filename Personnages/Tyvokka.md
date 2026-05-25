@@ -5,7 +5,7 @@ affiliation: [Ordre Jedi, Haut Conseil Jedi]
 periode: [Prelogie]
 statut: décédé (~33 BBY)
 canon: Canon
-premiere_apparition: Jedi Council: Acts of War (comic, 2000)
+premiere_apparition: "Jedi Council: Acts of War (comic, 2000)"
 acteur_voix: —
 sabre_couleur: bronze
 sabre_hex: "#8D6E63"

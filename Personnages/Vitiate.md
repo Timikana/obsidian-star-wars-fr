@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, swtor, immortel]
 
 # Vitiate
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Empereur Sith immortel, principal antagoniste de SWTOR.
+> <span style="color:#B71C1C">█</span> **Rouge** — Empereur Sith immortel, principal antagoniste de SWTOR.
 
 ## Résumé
 **[Légendes]** Empereur Sith millénaire, créateur d'un nouvel Empire Sith. Antagoniste principal de *Star Wars: The Old Republic*. Dévore des planètes entières.

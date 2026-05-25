@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, jeu, mercenaire, empire]
 
 # Kyle Katarn
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — mercenaire devenu Jedi, héros de la série Jedi Knight.
+> <span style="color:#2196F3">█</span> **Bleu** — mercenaire devenu Jedi, héros de la série Jedi Knight.
 
 ## Résumé
 **[Légendes]** Ancien officier impérial, devient mercenaire pour la Rébellion. Récupère les plans de l'Étoile de la Mort (avant la rétroconnexion canon à Jyn Erso). Devient Jedi puis Maître. Héros des jeux *Dark Forces* et *Jedi Knight*.

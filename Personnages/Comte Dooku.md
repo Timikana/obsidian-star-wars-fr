@@ -19,7 +19,7 @@ tags: [personnage, sith, jedi-dechu, separatistes, serenno, clone-wars]
 # Comte Dooku / Dark Tyranus
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — sabre courbé Sith, élégance Makashi.
+> <span style="color:#B71C1C">█</span> **Rouge** — sabre courbé Sith, élégance Makashi.
 
 ## Résumé
 Ancien padawan de [[Yoda]], maître de [[Qui-Gon Jinn]]. Quitte l'Ordre Jedi par désillusion politique, devient apprenti de [[Dark Sidious]] sous le nom Dark Tyranus, dirige la Confédération.

@@ -18,7 +18,7 @@ tags: [personnage, jedi, ancienne-republique, legendes, kotor, comic, dark-horse
 
 # Krynda Draay
 > [!color] Couleur signature
-> <span style="color:#1976D2">█</span> **Bleu Jedi** — Première Vidéenne, prophétesse Jedi devenue veuve de la Grande Guerre Sith.
+> <span style="color:#2196F3">█</span> **Bleu Jedi** — Première Vidéenne, prophétesse Jedi devenue veuve de la Grande Guerre Sith.
 
 ## Résumé
 **[Légendes]** Humaine de Coruscant et **Maîtresse Jedi** de la génération suivant la **Grande Guerre Sith**, **Krynda Draay** est la veuve de **Barrison Draay**, héros mort lors du conflit contre [[Exar Kun]]. Réfugiée dans la noblesse de Coruscant après la disparition de son mari, elle abandonne le service actif Jedi pour devenir la **Première Vidéenne** — surnom donné aux Jedi dotés de la **Force Sight**, capables de voir l'avenir. Hantée par la peur d'un nouveau soulèvement Sith, Krynda fonde clandestinement le **Jedi Covenant**, un groupe occulte de prophètes Jedi décidé à empêcher préventivement toute résurgence du côté obscur. Sa vision la persuade que l'un des **Padawans formés à Taris** deviendra un Sith — déclenchant la conspiration meurtrière conduite par son fils [[Lucien Draay]]. Aveugle au sens littéral comme métaphorique, Krynda demeure manipulatrice et impériale même dans ses dernières années, ne renonçant jamais à ses convictions. Sa mort tardive coïncide avec la révélation publique des crimes du Covenant. Figure tragique et glaciale, elle incarne le Jedi qui, par peur de la prophétie, devient lui-même bourreau.

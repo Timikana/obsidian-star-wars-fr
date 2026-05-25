@@ -19,7 +19,7 @@ tags: [personnage, droide, KX, rebellion, andor, empire]
 # K-2SO
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — droïde KX impérial reprogrammé par Cassian, sarcasme légendaire.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — droïde KX impérial reprogrammé par Cassian, sarcasme légendaire.
 
 ## Résumé
 Droïde de sécurité impérial KX, capturé et reprogrammé par [[Cassian Andor]]. Compagnon sarcastique. Mort sur Scarif en couvrant Cassian et Jyn dans la salle des données.

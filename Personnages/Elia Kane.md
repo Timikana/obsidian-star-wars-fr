@@ -18,7 +18,7 @@ tags: [personnage, empire, infiltration, project-necromancer]
 
 # Elia Kane
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — agent dormant qui piège Pershing dans le programme d'amnistie.
+> <span style="color:#616161">█</span> **Gris Empire** — agent dormant qui piège Pershing dans le programme d'amnistie.
 
 ## Résumé
 Ancienne officier de communication de [[Moff Gideon]]. Infiltrée au programme d'amnistie de la NR, elle piège [[Doctor Pershing]] pour sauver les recherches de Project Necromancer.

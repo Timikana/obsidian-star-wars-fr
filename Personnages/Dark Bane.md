@@ -18,7 +18,7 @@ tags: [personnage, sith, regle-deux, fondateur]
 
 # Dark Bane
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — fondateur de la Règle des Deux.
+> <span style="color:#B71C1C">█</span> **Rouge** — fondateur de la Règle des Deux.
 
 ## Résumé
 **[Légendes / mention canon]** Seigneur Sith ayant détruit l'ancienne Confrérie des Ténèbres pour fonder la **Règle des Deux** (un maître, un apprenti). Fondateur de la lignée qui aboutit à [[Dark Sidious]].

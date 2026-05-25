@@ -18,7 +18,7 @@ tags: [personnage, rebellion, empire, inferno-squad, battlefront]
 
 # Iden Versio
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — leader d'Inferno Squad, déserte vers la Rébellion.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — leader d'Inferno Squad, déserte vers la Rébellion.
 
 ## Résumé
 Cheffe du Inferno Squad impérial. Témoin du Contingency à Endor, déserte vers la Rébellion. Héroïne du jeu *Battlefront II*. Mère de Zay Versio.

@@ -14,7 +14,7 @@ tags: [creature, faune, kamino, naboo, monture, vol]
 # Aiwha
 
 > [!color] Baleine volante de Kamino
-> <span style="color:#0288D1">█</span> **Cétacé aérien** — monture des Kaminoans.
+> <span style="color:#8D6E63">█</span> **Cétacé aérien** — monture des Kaminoans.
 
 ## Résumé
 

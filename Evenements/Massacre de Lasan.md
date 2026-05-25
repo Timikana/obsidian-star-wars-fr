@@ -14,7 +14,7 @@ tags: [evenement, genocide, empire, lasat]
 
 # Massacre de Lasan
 > [!color] Faction victorieuse
-> <span style="color:#424242">█</span> **Empire Galactique** — Génocide systématique du peuple Lasat.
+> <span style="color:#616161">█</span> **Empire Galactique** — Génocide systématique du peuple Lasat.
 
 ## Résumé
 Refusant de plier devant l'Empire, le peuple lasat de [[Lasan]] est exterminé par les troupes impériales sur ordre direct de l'Empereur. Le commandant impérial [[Agent Kallus]] supervise le déploiement des fusils-disrupteurs T-7 contre la Honor Guard. La quasi-totalité de la population lasat est tuée ou dispersée à travers la galaxie.

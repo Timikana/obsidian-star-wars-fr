@@ -18,7 +18,7 @@ tags: [personnage, clone, commandant, felucia, clone-wars]
 
 # Bly
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — commandant marshal d'Aayla Secura, l'abat à l'Ordre 66.
+> <span style="color:#FF9800">█</span> **Or République** — commandant marshal d'Aayla Secura, l'abat à l'Ordre 66.
 
 ## Résumé
 Commandant clone d'[[Aayla Secura]] sur Felucia. Abat sa Jedi générale lors de l'exécution de l'Ordre 66.

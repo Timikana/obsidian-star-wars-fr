@@ -18,7 +18,7 @@ tags: [personnage, andor, ferrix, mere-adoptive, empire]
 
 # Maarva Andor
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — mère adoptive de Cassian, son discours posthume déclenche la révolte de Ferrix.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — mère adoptive de Cassian, son discours posthume déclenche la révolte de Ferrix.
 
 ## Résumé
 Mère adoptive de [[Cassian Andor]]. Refuse l'évacuation de Ferrix. Son enregistrement posthume « Fight ! » déclenche le soulèvement.

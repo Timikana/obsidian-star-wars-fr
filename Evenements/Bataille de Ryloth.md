@@ -14,7 +14,7 @@ tags: [evenement, bataille, guerre-des-clones, twi-lek, clone-wars]
 
 # Bataille de Ryloth
 > [!color] Faction victorieuse
-> <span style="color:#00897B">█</span> **République Galactique** — Libération de la planète natale des Twi'leks aux mains des Séparatistes.
+> <span style="color:#2196F3">█</span> **République Galactique** — Libération de la planète natale des Twi'leks aux mains des Séparatistes.
 
 ## Résumé
 [[Ryloth]] est occupée par les droïdes du proconsul [[Wat Tambor]] qui pille les ressources et affame la population. La République lance une opération en trois temps : [[Ahsoka Tano]] et [[Anakin Skywalker]] brisent le blocus orbital, [[Mace Windu]] mène l'assaut au sol en s'alliant aux Twi'leks libres de [[Cham Syndulla]], tandis qu'[[Obi-Wan Kenobi]] retient les colonnes blindées séparatistes.

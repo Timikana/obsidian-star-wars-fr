@@ -19,7 +19,7 @@ tags: [personnage, rebellion, partisans, onderon, jedha, clone-wars, empire]
 # Saw Gerrera
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — révolutionnaire d'Onderon, fondateur des Partisans, méthodes extrêmes.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — révolutionnaire d'Onderon, fondateur des Partisans, méthodes extrêmes.
 
 ## Résumé
 Combattant de la résistance d'Onderon pendant la Guerre des Clones (formé par [[Anakin Skywalker]] et [[Ahsoka Tano]]). Fonde les Partisans, méthodes extrêmes ayant entraîné une rupture avec l'Alliance officielle. Père adoptif de [[Jyn Erso]]. Meurt sur Jedha lors du test du super-laser.

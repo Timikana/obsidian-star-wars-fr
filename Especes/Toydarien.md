@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Toydarien
 
 > [!color] Espèce sentiente — Bordure Extérieure
-> <span style="color:#4682B4">█</span> **Toydarien** — petits humanoïdes ailés, marchands et négociateurs immunisés à la [[Persuasion mentale (Jedi Mind Trick)|persuasion Jedi]].
+> <span style="color:#2196F3">█</span> **Toydarien** — petits humanoïdes ailés, marchands et négociateurs immunisés à la [[Persuasion mentale (Jedi Mind Trick)|persuasion Jedi]].
 
 ## Résumé
 

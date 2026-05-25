@@ -18,7 +18,7 @@ tags: [personnage, garde-royal, sith, empire, legendes]
 
 # Carnor Jax
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Sith** — Garde Royal traître entraîné aux arts Sith, usurpateur du trône impérial.
+> <span style="color:#B71C1C">█</span> **Sith** — Garde Royal traître entraîné aux arts Sith, usurpateur du trône impérial.
 
 ## Résumé
 Ancien Garde Royal de Palpatine entraîné secrètement par Sith, Carnor Jax orchestre la chute des clones de l'Empereur pour s'emparer du trône impérial. Son règne tyrannique et bref se termine sous la lame de Kir Kanos, son ancien frère d'armes.

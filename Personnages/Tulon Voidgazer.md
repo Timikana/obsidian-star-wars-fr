@@ -18,7 +18,7 @@ tags: [personnage, canon, empire, cyborg, comics]
 
 # Tulon Voidgazer
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge Sith** — Scientifique cyborg de Cylo.
+> <span style="color:#B71C1C">█</span> **Rouge Sith** — Scientifique cyborg de Cylo.
 
 ## Résumé
 **[Canon — comics]** Scientifique cybernétique recrutée par [[Doctor Cylo]], Tulon dirige des expériences de bio-technologie et combat avec une bête modifiée. Tuée par [[Anakin Skywalker|Dark Vador]] lors de la purge des candidats.

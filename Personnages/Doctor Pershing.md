@@ -18,7 +18,7 @@ tags: [personnage, empire, scientifique, clonage]
 
 # Doctor Pershing
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — généticien clone-spécialiste, employé de Moff Gideon puis défecteur capturé.
+> <span style="color:#616161">█</span> **Gris Empire** — généticien clone-spécialiste, employé de Moff Gideon puis défecteur capturé.
 
 ## Résumé
 Généticien spécialiste du clonage, recherche sur le sang-M de [[Grogu]] pour le Project Necromancer. Reformé par la Nouvelle République puis piégé et lobotomisé par l'opération de [[Elia Kane]].

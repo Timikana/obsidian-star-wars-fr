@@ -18,7 +18,7 @@ tags: [personnage, empire, amiral, thrawn]
 
 # Pellaeon
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — capitaine puis amiral, bras droit de Thrawn.
+> <span style="color:#616161">█</span> **Gris Empire** — capitaine puis amiral, bras droit de Thrawn.
 
 ## Résumé
 **[Légendes : rôle central / Canon : mention]** Officier impérial fidèle, second de [[Grand Amiral Thrawn]]. Devient Grand Amiral en Légendes après Endor. En canon, capitaine du *Chimaera* sous Thrawn (Rebels).

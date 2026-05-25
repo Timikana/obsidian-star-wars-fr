@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi-dechu, weequay, vaapad, clone-wars]
 
 # Sora Bulq
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Jedi Weequay co-créateur de Vaapad avec Mace Windu, déchu en Sith.
+> <span style="color:#B71C1C">█</span> **Rouge** — Jedi Weequay co-créateur de Vaapad avec Mace Windu, déchu en Sith.
 
 ## Résumé
 **[Légendes]** Maître Weequay, co-créateur de la **Forme VII (Vaapad)** avec [[Mace Windu]]. Tombe du côté obscur, rejoint Dooku.

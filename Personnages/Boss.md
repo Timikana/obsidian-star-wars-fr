@@ -18,7 +18,7 @@ tags: [personnage, clone, commando, delta-squad, clone-wars]
 
 # Boss
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — leader du Delta Squad, Republic Commando.
+> <span style="color:#FF9800">█</span> **Or République** — leader du Delta Squad, Republic Commando.
 
 ## Résumé
 Sergent leader du Delta Squad, escouade Commando d'élite. Survit à la Guerre des Clones et possiblement à l'Ordre 66.

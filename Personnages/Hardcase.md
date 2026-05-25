@@ -18,7 +18,7 @@ tags: [personnage, clone, 501, umbara, clone-wars]
 
 # Hardcase
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — clone hyperactif, sacrifie sa vie sur Umbara.
+> <span style="color:#FF9800">█</span> **Or République** — clone hyperactif, sacrifie sa vie sur Umbara.
 
 ## Résumé
 Clone hyperactif de la 501e. Sacrifie sa vie pour détruire un cuirassé umbarien sur Umbara, sous les ordres aberrants de [[Pong Krell]].

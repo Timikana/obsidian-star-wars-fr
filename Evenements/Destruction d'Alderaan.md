@@ -14,7 +14,7 @@ tags: [evenement, genocide, etoile-de-la-mort]
 
 # Destruction d'Alderaan
 > [!color] Faction victorieuse
-> <span style="color:#424242">█</span> **Empire Galactique** — Démonstration de puissance de l'Étoile de la Mort, génocide de deux milliards d'Alderaaniens.
+> <span style="color:#616161">█</span> **Empire Galactique** — Démonstration de puissance de l'Étoile de la Mort, génocide de deux milliards d'Alderaaniens.
 
 ## Résumé
 [[Grand Moff Tarkin]] choisit [[Alderaan]], planète pacifique et natale de [[Princesse Leia]], comme cible de démonstration de l'[[Étoile de la Mort]]. Malgré la coopération forcée de Leia, Tarkin tient parole et vaporise la planète sous ses yeux.

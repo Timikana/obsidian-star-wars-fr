@@ -18,7 +18,7 @@ tags: [personnage, rebellion, iron-squadron, neveu-commander-sato, empire]
 
 # Mart Mattin
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — neveu du Commander Sato, chef de l'Iron Squadron.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — neveu du Commander Sato, chef de l'Iron Squadron.
 
 ## Résumé
 Adolescent, neveu du Commander Jun Sato. Chef de l'Iron Squadron, escouade de jeunes rebelles indépendants ralliée à l'Alliance.

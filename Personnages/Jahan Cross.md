@@ -18,7 +18,7 @@ tags: [personnage, empire, renseignement-imperial, legendes, comic, dark-horse, 
 
 # Jahan Cross
 > [!color] Couleur signature
-> <span style="color:#37474F">█</span> **Empire** — agent du Renseignement Impérial, James Bond galactique au service de Palpatine.
+> <span style="color:#616161">█</span> **Empire** — agent du Renseignement Impérial, James Bond galactique au service de Palpatine.
 
 ## Résumé
 **[Légendes]** **Agent humain** de l'**Imperial Intelligence** sous le règne de [[Dark Sidious]], **Jahan Cross** est un espion d'élite formé dans la haute aristocratie impériale et déployé sur des missions diplomatico-militaires que ni la **COMPNOR** ni le **Bureau of Operations** n'oseraient confier à des cadres ordinaires. Élégant, séducteur, manieur de blasters, gadgets et droïdes espions personnalisés (**IN-GA 44**), Cross est l'archétype assumé du « James Bond impérial » conçu par John Ostrander pour la série Dark Horse *Agent of the Empire*. Loyaliste convaincu, il croit sincèrement à l'ordre impérial comme rempart contre le chaos et applique ses missions avec un mélange de cynisme et d'honneur personnel. Il croise notamment la route d'un jeune [[Han Solo]] et de l'industriel d'armement **Iaco Stark**, démantèle un complot de coup d'État impérial visant à substituer un clone à l'Empereur, et intervient à Alderaan parmi la noblesse Organa. Sa morale ambiguë — meurtrier au service d'un régime tyrannique mais respectant un code intime — fait de lui l'un des personnages impériaux les plus complexes des comics Légendes.

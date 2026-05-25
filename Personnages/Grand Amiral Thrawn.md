@@ -19,7 +19,7 @@ tags: [personnage, empire, chiss, strategie, thrawn]
 # Grand Amiral Thrawn
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — stratège chiss légendaire, meilleur tacticien de l'Empire.
+> <span style="color:#616161">█</span> **Gris Empire** — stratège chiss légendaire, meilleur tacticien de l'Empire.
 
 ## Résumé
 Chiss exilé de l'Ascendance, monte les échelons impériaux jusqu'au grade de Grand Amiral. Stratège prodigieux qui apprend ses ennemis par leur art. Vaincu sur Lothal par [[Ezra Bridger]] et les Purrgil ; revient en 9 ABY+ via Peridea (série Ahsoka).

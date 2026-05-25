@@ -19,7 +19,7 @@ tags: [personnage, mandalorien, rebellion, padawan-ahsoka, artiste, empire]
 # Sabine Wren
 
 > [!color] Couleur signature
-> <span style="color:#1A1A1A">█</span> **Noir / Darksaber** — première porteuse non-noble du Darksaber après l'avoir trouvé sur Dathomir, le transmet à Bo-Katan.
+> <span style="color:#212121">█</span> **Noir / Darksaber** — première porteuse non-noble du Darksaber après l'avoir trouvé sur Dathomir, le transmet à Bo-Katan.
 
 ## Résumé
 Mandalorienne du clan Wren, ancienne cadette impériale, artiste graffeuse, démolitionniste des Spectres aux côtés de [[Hera Syndulla]], [[Kanan Jarrus]], [[Ezra Bridger]] et [[Zeb Orrelios]]. Manie le Darksaber temporairement. Padawan tardive d'[[Ahsoka Tano]] dans la série *Ahsoka*.

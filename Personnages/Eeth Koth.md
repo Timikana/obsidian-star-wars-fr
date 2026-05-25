@@ -18,7 +18,7 @@ tags: [personnage, jedi, zabrak, conseil, clone-wars]
 
 # Eeth Koth
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Zabrak du Conseil ; quitte l'Ordre, tué par Maul devant sa famille.
+> <span style="color:#2196F3">█</span> **Bleu** — Zabrak du Conseil ; quitte l'Ordre, tué par Maul devant sa famille.
 
 ## Résumé
 Maître Jedi Zabrak, membre du Conseil. Quitte l'Ordre, fonde une famille. Tué par [[Dark Maul]] devant son nourrisson, qu'Obi-Wan sauve.

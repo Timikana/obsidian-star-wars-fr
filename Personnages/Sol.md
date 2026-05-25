@@ -19,7 +19,7 @@ tags: [personnage, jedi, haute-republique, acolyte]
 # Sol
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi gardien serein, maître d'Osha.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi gardien serein, maître d'Osha.
 
 ## Résumé
 Maître Jedi humain, prend [[Osha Aniseya]] comme padawan après la tragédie de Brendok. Cache la vérité de l'incendie de leur famille pendant 16 ans. Tué par Osha quand elle apprend la vérité.

@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, kotor-era, mere]
 
 # Nomi Sunrider
 > [!color] Couleur signature
-> <span style="color:#FB8C00">█</span> **Orange** — Jedi mère icônique des comics Tales of the Jedi.
+> <span style="color:#FF9800">█</span> **Orange** — Jedi mère icônique des comics Tales of the Jedi.
 
 ## Résumé
 **[Légendes]** Maîtresse Jedi humaine, héroïne de la Sith War (~3996 BBY). Mère de Vima Sunrider. Une des Jedi les plus puissantes de son ère.

@@ -19,7 +19,7 @@ tags: [personnage, jedi, haute-republique, padawan, tholothian]
 # Zeen Mrala
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — jeune Tholothian sensible à la Force, élevée comme « sorcière » avant de rejoindre les Jedi.
+> <span style="color:#2196F3">█</span> **Bleu** — jeune Tholothian sensible à la Force, élevée comme « sorcière » avant de rejoindre les Jedi.
 
 ## Résumé
 [[Zeen Mrala]] est une jeune [[Tholothian]] sensible à la [[Force]] originaire de Trymant IV, où la culture locale considère les utilisateurs de la Force comme des « sorciers » bénis. Quand les [[Nihil]] ravagent son monde, Zeen voit son meilleur ami d'enfance [[Krix Kamerat]] rejoindre les pirates tandis qu'elle-même est recueillie par les [[Jedi]] de l'enclave dirigée par [[Kantam Sy]]. Sa transition vers le Code Jedi est houleuse : elle peine à réprimer ses émotions naturelles et son attachement persistant à Krix, dont elle espère contre toute évidence la rédemption. Aux côtés de [[Lula Talisola]], [[Farzala Tarabal]] et [[Qort]], elle participe à de nombreuses missions de jeunesse contre la Tempête. Sa nature lumineuse, son intelligence émotionnelle et sa croyance acharnée dans la possibilité du pardon en font l'une des figures les plus aimées de l'arc jeunesse. Zeen incarne l'amour qui survit malgré la trahison, et le doute fertile sur la rigidité du Code Jedi face à l'attachement.

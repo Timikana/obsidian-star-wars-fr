@@ -18,7 +18,7 @@ tags: [personnage, canon, empire, royaute, comics]
 
 # Trios
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — Reine de Shu-Torun, vassale de l'Empire.
+> <span style="color:#616161">█</span> **Gris Empire** — Reine de Shu-Torun, vassale de l'Empire.
 
 ## Résumé
 **[Canon — comics]** Devenue reine après que Vador eut tué sa famille royale, Trios sert l'Empire avec rancœur, brièvement alliée à la Rébellion avant de retourner à l'Empire. Tuée par [[Leia Organa]] après sa trahison.

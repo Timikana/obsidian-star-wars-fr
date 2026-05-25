@@ -18,7 +18,7 @@ tags: [personnage, pilote, alderaan, legendes]
 
 # Tycho Celchu
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — pilote alderaanien d'élite, second de [[Wedge Antilles]] au Rogue Squadron.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — pilote alderaanien d'élite, second de [[Wedge Antilles]] au Rogue Squadron.
 
 ## Résumé
 Ancien pilote impérial déserteur après la destruction d'Alderaan. Devient le bras droit de [[Wedge Antilles]] au sein du Rogue Squadron, puis commandant du Wing.

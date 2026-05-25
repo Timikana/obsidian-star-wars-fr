@@ -18,7 +18,7 @@ tags: [personnage, rebellion, andor, espionne, empire]
 
 # Kleya Marki
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — assistante et lieutenante de Luthen, opératrice du réseau.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — assistante et lieutenante de Luthen, opératrice du réseau.
 
 ## Résumé
 Lieutenante de [[Luthen Rael]], opératrice de la galerie d'antiquités. Survit à la mort de Luthen et continue la mission.

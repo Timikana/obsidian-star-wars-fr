@@ -5,7 +5,7 @@ affiliation: [Ordre Jedi]
 periode: [Prelogie, Empire]
 statut: décédé (avant 14 BBY)
 canon: Canon
-premiere_apparition: Jedi: Fallen Order (jeu, 2019)
+premiere_apparition: "Jedi: Fallen Order (jeu, 2019)"
 acteur_voix: Tony Amendola
 sabre_couleur: bleu
 sabre_hex: "#2196F3"

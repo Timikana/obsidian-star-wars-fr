@@ -18,7 +18,7 @@ tags: [artefact, sabre, mandalorien, relique]
 
 # Darksaber
 > [!color] Symbolique
-> <span style="color:#1A1A1A">█</span> — Sabre laser noir, symbole sacré du pouvoir sur Mandalore.
+> <span style="color:#212121">█</span> — Sabre laser noir, symbole sacré du pouvoir sur Mandalore.
 
 ## Résumé
 Le Darksaber est un sabre laser unique à la lame noire, forgé il y a un millénaire par [[Tarre Vizsla]], premier Mandalorien admis dans l'Ordre Jedi. Il est devenu le symbole du dirigeant légitime de Mandalore. Sa possession se transmet traditionnellement par le combat.

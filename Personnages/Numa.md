@@ -18,7 +18,7 @@ tags: [personnage, twilek, ryloth, rebellion, clone-wars, empire]
 
 # Numa
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — petite Twi'lek sauvée par Waxer et Boil, devient combattante rebelle adulte.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — petite Twi'lek sauvée par Waxer et Boil, devient combattante rebelle adulte.
 
 ## Résumé
 Petite fille Twi'lek sauvée par [[Waxer]] et [[Boil]] sur Ryloth. Devient une combattante de la Résistance Ryloth puis de l'Alliance.

@@ -18,7 +18,7 @@ tags: [personnage, jedi, tholothian, clone-wars]
 
 # Stass Allie
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — cousine d'Adi Gallia, tuée par ses clones sur Saleucami.
+> <span style="color:#2196F3">█</span> **Bleu** — cousine d'Adi Gallia, tuée par ses clones sur Saleucami.
 
 ## Résumé
 Maîtresse Jedi tholothienne, cousine d'[[Adi Gallia]]. Abattue par ses clones sur sa moto BARC pendant l'Ordre 66.

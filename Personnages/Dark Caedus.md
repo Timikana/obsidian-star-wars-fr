@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, skywalker-solo, caedus]
 
 # Dark Caedus
 > [!color] Sabre
-> <span style="color:#E53935">█</span> **Rouge** — Seigneur Sith, identité corrompue de Jacen Solo.
+> <span style="color:#B71C1C">█</span> **Rouge** — Seigneur Sith, identité corrompue de Jacen Solo.
 
 ## Résumé
 **[Légendes]** Identité Sith de [[Jacen Solo]] après son basculement orchestré par [[Lumiya]]. Convaincu qu'un dirigeant unique forgé par la souffrance peut sauver la galaxie, **Dark Caedus** transforme l'**Alliance Galactique** en dictature, dirige la **Galactic Alliance Guard** (GAG) avec sa cousine [[Ben Skywalker]] sous tutelle, et déclenche la **Seconde Guerre Civile Galactique** (40 ABY). Il torture sa propre tante [[Mara Jade]] avant que celle-ci ne soit tuée par Lumiya, assassine son oncle proche, et martyrise [[Ben Skywalker]]. Sa sœur jumelle [[Jaina Solo]], formée par [[Boba Fett]] et les Mandaloriens à devenir la **Sword of the Jedi**, le traque et le tue lors d'un duel à bord du *Anakin Solo*. Son seul vestige : sa fille secrète [[Allana Solo]] (avec [[Tenel Ka]]). Tragique miroir d'[[Anakin Skywalker]] : un Jedi prometteur dévoré par la peur de perdre les siens.

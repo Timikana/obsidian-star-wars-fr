@@ -11,7 +11,7 @@ tags: [concept, force, equilibre, bendu, canon]
 # Bendu
 
 > [!color] Concept / Entité de la Force
-> <span style="color:#808080">█</span> **Bendu** — entité mystique incarnant l'**équilibre** entre [[Côté Lumineux]] et [[Côté Obscur]] de la [[La Force|Force]].
+> <span style="color:#ECEFF1">█</span> **Bendu** — entité mystique incarnant l'**équilibre** entre [[Côté Lumineux]] et [[Côté Obscur]] de la [[La Force|Force]].
 
 ## Résumé
 

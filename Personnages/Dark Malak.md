@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, kotor]
 
 # Dark Malak
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — apprenti et trahisseur de Revan, mâchoire prosthétique.
+> <span style="color:#B71C1C">█</span> **Rouge** — apprenti et trahisseur de Revan, mâchoire prosthétique.
 
 ## Résumé
 **[Légendes]** Apprenti et lieutenant de [[Dark Revan]]. Trahit Revan en tirant sur son vaisseau. Devient Dark Lord après la chute de Revan. Tué par Revan rédempté.

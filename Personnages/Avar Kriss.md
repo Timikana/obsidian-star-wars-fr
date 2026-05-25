@@ -19,7 +19,7 @@ tags: [personnage, jedi, haute-republique, marechale]
 # Avar Kriss
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Maréchale de la Force, leader Jedi de la Haute République.
+> <span style="color:#2196F3">█</span> **Bleu** — Maréchale de la Force, leader Jedi de la Haute République.
 
 ## Résumé
 Maître Jedi humaine, capable de "chanter la Force" pour synchroniser plusieurs Jedi. Maréchale durant la Grande Catastrophe. Personnage central de la Phase I de la Haute République.

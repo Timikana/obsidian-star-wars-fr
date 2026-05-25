@@ -18,7 +18,7 @@ tags: [personnage, legendes, yuuzhan-vong, warmaster]
 
 # Nas Choka
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Warmaster Vong succédant à Tsavong Lah.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Warmaster Vong succédant à Tsavong Lah.
 
 ## Résumé
 **[Légendes]** Pragmatique et stratège, Nas Choka prend la tête des armées Yuuzhan Vong après la chute de [[Tsavong Lah]]. Il accepte la paix négociée à la fin de la guerre NJO.

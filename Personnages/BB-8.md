@@ -19,7 +19,7 @@ tags: [personnage, droide, astromecano, resistance, sequels]
 # BB-8
 
 > [!color] Couleur signature
-> <span style="color:#FB8C00">█</span> **Orange signature** — boule blanche et orange.
+> <span style="color:#FF9800">█</span> **Orange signature** — boule blanche et orange.
 
 ## Résumé
 Droïde astromécano sphérique appartenant à [[Poe Dameron]]. Détient la carte menant à [[Luke Skywalker]] dans ép. VII.

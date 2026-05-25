@@ -18,7 +18,7 @@ tags: [personnage, droide, protocole, sadique, aphra, empire]
 
 # Triple-Zero (0-0-0)
 > [!color] Couleur signature
-> <span style="color:#BDBDBD">█</span> **Gris droïde** — droïde de protocole sadique, "C-3PO maléfique".
+> <span style="color:#90A4AE">█</span> **Gris droïde** — droïde de protocole sadique, "C-3PO maléfique".
 
 ## Résumé
 Droïde de protocole noir, programmé pour la torture et l'étiquette. Compagnon iconique de [[Doctor Aphra]] avec [[BT-1]].

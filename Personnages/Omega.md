@@ -19,7 +19,7 @@ tags: [personnage, clone, bad-batch, kamino, fille, empire]
 # Omega
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — fille-clone non modifiée de Jango Fett, "sœur" du Bad Batch.
+> <span style="color:#FF9800">█</span> **Or République** — fille-clone non modifiée de Jango Fett, "sœur" du Bad Batch.
 
 ## Résumé
 Clone-fille génétiquement intacte de [[Jango Fett]] (avec [[Boba Fett]]), élevée sur Kamino. Découverte par le Bad Batch, qui devient sa famille adoptive. Ses M-counts sont précieux pour [[Doctor Hemlock]] (Project Necromancer, lié au futur clonage de Sidious).

@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, sith-war, redemption]
 
 # Ulic Qel-Droma
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi tombé en Sith puis rédempté, tragédie de la Sith War.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi tombé en Sith puis rédempté, tragédie de la Sith War.
 
 ## Résumé
 **[Légendes]** Maître Jedi humain, tombe sous l'influence de Naga Sadow et Exar Kun. Devient Sith Lord, puis rédempté. Coupé de la Force par les Jedi en jugement.

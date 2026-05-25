@@ -18,7 +18,7 @@ tags: [personnage, clone, 501, medic, clone-wars, empire]
 
 # Kix
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — médecin-clone de la 501e, congelé puis libéré à l'ère de la Rébellion.
+> <span style="color:#FF9800">█</span> **Or République** — médecin-clone de la 501e, congelé puis libéré à l'ère de la Rébellion.
 
 ## Résumé
 Médecin de la 501e. Découvre la vérité sur les puces inhibitrices ; capturé et congelé en stase. Libéré 50 ans plus tard ; rejoint la Rébellion.

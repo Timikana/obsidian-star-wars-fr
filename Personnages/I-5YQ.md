@@ -5,7 +5,7 @@ affiliation: [Indépendant, allié Jedi]
 periode: [Prélogie à Dark Times (Légendes)]
 statut: "actif"
 canon: Légendes
-premiere_apparition: Darth Maul: Shadow Hunter (2001)
+premiere_apparition: "Darth Maul: Shadow Hunter (2001)"
 acteur_voix: —
 couleur: droide
 couleur_hex: "#90A4AE"

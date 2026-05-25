@@ -19,7 +19,7 @@ tags: [personnage, pantoran, senateur, clone-wars, empire]
 # Riyo Chuchi
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — sénatrice pantorane idéaliste, défend les droits clones.
+> <span style="color:#FF9800">█</span> **Or République** — sénatrice pantorane idéaliste, défend les droits clones.
 
 ## Résumé
 Jeune sénatrice pantorane, idéaliste, défenseuse des droits des clones après la guerre. Apparaît dans Bad Batch S3 dans le combat pour les droits clones.

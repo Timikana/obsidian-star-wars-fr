@@ -19,7 +19,7 @@ tags: [personnage, jedi, maitre-armes, temple]
 # Cin Drallig
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — maître d'armes du Temple Jedi, formateur de toutes les formes.
+> <span style="color:#2196F3">█</span> **Bleu** — maître d'armes du Temple Jedi, formateur de toutes les formes.
 
 ## Résumé
 Maître d'armes du Temple Jedi, formateur principal de l'Ordre. Tué par [[Anakin Skywalker]] lors du massacre du Temple.

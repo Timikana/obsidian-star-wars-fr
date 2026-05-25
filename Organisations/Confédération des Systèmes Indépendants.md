@@ -11,7 +11,7 @@ tags: [organisation, cis, separatistes, clone-wars]
 
 # Confédération des Systèmes Indépendants
 > [!color] Allégeance
-> <span style="color:#424242">█</span> **CIS / Séparatistes** — Coalition séparatiste opposée à la [[République Galactique]] durant les Guerres des Clones.
+> <span style="color:#616161">█</span> **CIS / Séparatistes** — Coalition séparatiste opposée à la [[République Galactique]] durant les Guerres des Clones.
 
 ## Résumé
 La **Confédération des Systèmes Indépendants** (CIS) est une alliance de mondes et de méga-corporations (Fédération du Commerce, Techno-Union, Clan Bancaire) qui fait sécession de la [[République Galactique]]. Officiellement dirigée par le [[Comte Dooku]] (Dark Tyranus), elle est secrètement manipulée par [[Dark Sidious]] dans le cadre du [[Plan Sith]] qui aboutira à la fondation de l'[[Empire Galactique]].

@@ -11,7 +11,7 @@ tags: [organisation, empire, cote-obscur]
 
 # Empire galactique
 > [!color] Allégeance
-> <span style="color:#424242">█</span> **Gris Empire** — Régime autoritaire fondé par [[Dark Sidious]] sur les ruines de la République.
+> <span style="color:#616161">█</span> **Gris Empire** — Régime autoritaire fondé par [[Dark Sidious]] sur les ruines de la République.
 
 ## Résumé
 Proclamé en 19 BBY par le Chancelier Palpatine devenu Empereur, l'Empire impose un règne de terreur militariste sur la galaxie. Sa puissance repose sur la flotte impériale, l'Étoile de la Mort et la traque des Jedi. Il s'effondre après Endor en 4 ABY.

@@ -18,7 +18,7 @@ tags: [personnage, canon, sorciere, dathomir, clone-wars]
 
 # Karis
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Lieutenante guerrière des Sœurs de la Nuit.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Lieutenante guerrière des Sœurs de la Nuit.
 
 ## Résumé
 **[Canon]** Sœur de la Nuit, lieutenante de combat aux côtés d'[[Asajj Ventress]]. Elle mène la défense du clan contre l'assaut de [[General Grievous]] et tombe lors du massacre orchestré par [[Comte Dooku]].

@@ -18,7 +18,7 @@ tags: [personnage, canon, jedi, haute-republique]
 
 # Cohmac Vitus
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu Jedi** — Maître Jedi tourmenté de la Haute République.
+> <span style="color:#2196F3">█</span> **Bleu Jedi** — Maître Jedi tourmenté de la Haute République.
 
 ## Résumé
 **[Canon — Haute République Phase I]** Érudit et diplomate, maître de [[Reath Silas]]. Ses doutes sur l'Ordre grandissent face aux Drengirs et aux Nihils, jusqu'à le pousser à quitter les Jedi.

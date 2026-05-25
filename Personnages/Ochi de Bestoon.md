@@ -18,7 +18,7 @@ tags: [personnage, sith-eternal, assassin, empire]
 
 # Ochi de Bestoon
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — assassin Sith Eternal qui a tué les parents de Rey.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — assassin Sith Eternal qui a tué les parents de Rey.
 
 ## Résumé
 Assassin Sith Eternal employé par [[Dark Sidious]]. Tue les parents de [[Rey Skywalker]] (le fils cloné raté de Sidious et son épouse). Le poignard Sith qu'il porte permet de localiser le wayfinder.

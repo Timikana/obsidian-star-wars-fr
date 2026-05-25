@@ -19,7 +19,7 @@ tags: [personnage, inquisiteur, mirialan, empire]
 # Septième Sœur
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Inquisitrice mirialane, traque les Jedi survivants.
+> <span style="color:#B71C1C">█</span> **Rouge** — Inquisitrice mirialane, traque les Jedi survivants.
 
 ## Résumé
 Inquisitrice mirialane envoyée traquer [[Kanan Jarrus]] et [[Ezra Bridger]]. Tuée par [[Dark Maul]] sur Malachor.

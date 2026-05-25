@@ -14,7 +14,7 @@ tags: [evenement, bataille, sith, resistance]
 
 # Bataille d'Exegol
 > [!color] Faction victorieuse
-> <span style="color:#FF6F00">█</span> **Résistance + Flotte Citoyenne** — Mort définitive de Palpatine et destruction de la flotte Sith.
+> <span style="color:#FF5722">█</span> **Résistance + Flotte Citoyenne** — Mort définitive de Palpatine et destruction de la flotte Sith.
 
 ## Résumé
 La Résistance lance un assaut désespéré sur la planète cachée Sith [[Exegol]] où [[Palpatine]] ressuscité commande la Final Order. [[Lando Calrissian]] ramène une flotte civile galactique massive. [[Rey]] confronte Palpatine pendant que les Star Destroyers sont neutralisés.

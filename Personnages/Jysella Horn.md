@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, halcyon]
 
 # Jysella Horn
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu Jedi** — Chevalier Jedi, fille de Corran Horn.
+> <span style="color:#2196F3">█</span> **Bleu Jedi** — Chevalier Jedi, fille de Corran Horn.
 
 ## Résumé
 **[Légendes]** Fille de [[Corran Horn]] et [[Mirax Terrik]], sœur de [[Valin Horn]]. Chevalier Jedi tombée dans la psychose causée par les Aing-Tii sous l'ère Jacen Solo, puis libérée.

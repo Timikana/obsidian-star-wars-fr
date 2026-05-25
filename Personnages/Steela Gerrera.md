@@ -18,7 +18,7 @@ tags: [personnage, onderon, resistance, gerrera, clone-wars]
 
 # Steela Gerrera
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — sœur de Saw, leader naturelle de la résistance Onderon.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — sœur de Saw, leader naturelle de la résistance Onderon.
 
 ## Résumé
 Sœur cadette de [[Saw Gerrera]]. Tireuse d'élite et leader naturelle de la résistance Onderon. Tuée pendant la libération de la capitale.

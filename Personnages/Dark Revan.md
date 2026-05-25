@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, jedi, kotor]
 
 # Dark Revan
 > [!color] Couleur signature
-> <span style="color:#8E24AA">█</span> **Violet** — Jedi devenu Sith puis re-redempté, héros de KOTOR.
+> <span style="color:#9C27B0">█</span> **Violet** — Jedi devenu Sith puis re-redempté, héros de KOTOR.
 
 ## Résumé
 **[Légendes]** Héros emblématique de l'ère Old Republic. Jedi, devient Seigneur Sith, mémoire effacée par les Jedi, redevient héros, finit dans la tombe de l'Empereur Sith Vitiate.

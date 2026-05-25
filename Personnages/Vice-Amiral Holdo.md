@@ -19,7 +19,7 @@ tags: [personnage, resistance, vice-amiral, sequels]
 # Vice-Amiral Holdo
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — héroïne de la Résistance, exécute la "manœuvre Holdo".
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — héroïne de la Résistance, exécute la "manœuvre Holdo".
 
 ## Résumé
 Vice-amirale, amie de [[Leia Organa]] depuis l'enfance. Sacrifie le *Raddus* en saut hyperespace pour détruire le *Supremacy* — la "manœuvre Holdo".

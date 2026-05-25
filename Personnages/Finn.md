@@ -19,7 +19,7 @@ tags: [personnage, resistance, stormtrooper, sensible-force, sequels]
 # Finn
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — ancien stormtrooper devenu héros, sensible à la Force selon ép. IX.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — ancien stormtrooper devenu héros, sensible à la Force selon ép. IX.
 
 ## Résumé
 Stormtrooper FN-2187 conditionné enfant, déserte après Jakku. Manie le sabre de [[Luke Skywalker]] / [[Anakin Skywalker]] contre [[Kylo Ren]]. Sensible à la Force (révélé ép. IX).

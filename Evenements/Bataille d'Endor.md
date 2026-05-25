@@ -14,7 +14,7 @@ tags: [evenement, bataille, etoile-de-la-mort]
 
 # Bataille d'Endor
 > [!color] Faction victorieuse
-> <span style="color:#FF6F00">█</span> **Alliance Rebelle** — Mort de l'Empereur, destruction de la seconde Étoile de la Mort, fin de l'Empire.
+> <span style="color:#FF5722">█</span> **Alliance Rebelle** — Mort de l'Empereur, destruction de la seconde Étoile de la Mort, fin de l'Empire.
 
 ## Résumé
 L'Alliance attaque la seconde [[Étoile de la Mort]] et son générateur de bouclier sur la lune forestière d'[[Endor]]. Les Ewoks aident l'équipe au sol, [[Lando Calrissian]] mène l'assaut spatial, et [[Luke Skywalker]] confronte son père et l'Empereur.

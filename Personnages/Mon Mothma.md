@@ -19,7 +19,7 @@ tags: [personnage, rebellion, senateur, chandrila, fondatrice-alliance, clone-wa
 # Mon Mothma
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — sénatrice de Chandrila, co-fondatrice et première Chancelière de l'Alliance.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — sénatrice de Chandrila, co-fondatrice et première Chancelière de l'Alliance.
 
 ## Résumé
 Sénatrice de Chandrila, voix critique du Sénat, co-fondatrice de la Délégation des 2000 puis de l'Alliance pour la Restauration de la République. Première Chancelière de la Nouvelle République après la chute de l'Empereur.

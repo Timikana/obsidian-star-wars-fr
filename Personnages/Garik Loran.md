@@ -18,7 +18,7 @@ tags: [personnage, legendes, rebellion, pilote, wraith-squadron, espion]
 
 # Garik Loran
 > [!color] Faction
-> <span style="color:#FF6F00">█</span> **Wraith Squadron** — ex-enfant-acteur de propagande devenu pilote-commando et espion.
+> <span style="color:#FF5722">█</span> **Wraith Squadron** — ex-enfant-acteur de propagande devenu pilote-commando et espion.
 
 ## Résumé
 **[Légendes]** **Garik "Face" Loran** était dans son enfance l'**acteur principal** des films de propagande impériale "Black Squadron / Winning Star" — visage adolescent connu de toute la galaxie. Honteux de ce passé, il rejoint la Rébellion adulte et devient pilote de la **Wraith Squadron** fondée par [[Wedge Antilles (Légendes)]], unité de pilotes-comédiens spécialisée en **opérations clandestines, infiltration et désinformation** où sa célébrité devient atout caméléon. Au fil des romans d'Aaron Allston (*Wraith Squadron*, *Iron Fist*, *Solo Command*), il monte en grade et finit colonel à la tête de l'unité après le départ de Wedge. Pendant la guerre [[Yuuzhan Vong]], il opère pour le **New Republic Intelligence**. Maître du déguisement et de l'impro, il incarne le pilote-comédien.

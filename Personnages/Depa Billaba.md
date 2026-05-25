@@ -19,7 +19,7 @@ tags: [personnage, jedi, conseil, vaapad, clone-wars]
 # Depa Billaba
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — padawan de Mace Windu, maître de Caleb Dume.
+> <span style="color:#2196F3">█</span> **Bleu** — padawan de Mace Windu, maître de Caleb Dume.
 
 ## Résumé
 Padawan de [[Mace Windu]], membre du Conseil, maître Vaapad. Maître de [[Caleb Dume]] / [[Kanan Jarrus]]. Sacrifie sa vie pour permettre à son padawan d'échapper à l'Ordre 66.

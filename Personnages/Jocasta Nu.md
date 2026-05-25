@@ -19,7 +19,7 @@ tags: [personnage, jedi, bibliothecaire, archives, clone-wars]
 # Jocasta Nu
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — bibliothécaire en chef des Archives Jedi.
+> <span style="color:#2196F3">█</span> **Bleu** — bibliothécaire en chef des Archives Jedi.
 
 ## Résumé
 Bibliothécaire en chef des Archives Jedi. Survit à l'Ordre 66 ; revient au Temple pour effacer les holocrons et préserver la liste des sensibles à la Force. Tuée par [[Dark Vador]].

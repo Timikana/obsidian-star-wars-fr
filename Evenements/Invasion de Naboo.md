@@ -14,7 +14,7 @@ tags: [evenement, invasion, prelogie]
 
 # Invasion de Naboo
 > [!color] Faction victorieuse
-> <span style="color:#424242">█</span> **Fédération du Commerce (vaincue)** — Blocus orchestré secrètement par [[Dark Sidious]] pour propulser Palpatine au pouvoir.
+> <span style="color:#616161">█</span> **Fédération du Commerce (vaincue)** — Blocus orchestré secrètement par [[Dark Sidious]] pour propulser Palpatine au pouvoir.
 
 ## Résumé
 La Fédération du Commerce de [[Nute Gunray]] bloque [[Naboo]] sous prétexte fiscal, puis envahit la planète avec son armée de droïdes. La Reine [[Padmé Amidala]] s'évade vers Coruscant avec [[Qui-Gon Jinn]] et [[Obi-Wan Kenobi]], rallie les Gungans et reprend Theed pendant que [[Anakin Skywalker]] détruit le vaisseau de contrôle.

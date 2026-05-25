@@ -18,7 +18,7 @@ tags: [personnage, empire, vice-amiral, kamino]
 
 # Vice-Amiral Rampart
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — architecte de la destruction de Kamino et de la fin du programme clone.
+> <span style="color:#616161">█</span> **Gris Empire** — architecte de la destruction de Kamino et de la fin du programme clone.
 
 ## Résumé
 Vice-amiral impérial responsable de la destruction de Kamino et de la transition vers les soldats stormtroopers conscrits. Boycotté par [[Mas Amedda]] comme bouc émissaire de la "tragédie de Kamino".

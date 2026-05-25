@@ -19,7 +19,7 @@ tags: [personnage, inquisiteur, empire, jeu, redemption]
 # Trilla Suduri (Seconde Sœur)
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Inquisitrice ex-padawan de Cere Junda, brisée par la torture impériale.
+> <span style="color:#B71C1C">█</span> **Rouge** — Inquisitrice ex-padawan de Cere Junda, brisée par la torture impériale.
 
 ## Résumé
 Ancienne padawan de [[Cere Junda]]. Capturée et brisée pendant l'Inquisition, elle est devenue Seconde Sœur. Antagoniste principale de *Jedi: Fallen Order*. Trouve la rédemption en aidant [[Cal Kestis]] avant d'être tuée par [[Dark Vador]].

@@ -18,7 +18,7 @@ tags: [personnage, legendes, force-unleashed, sith, jedi, empire]
 
 # Starkiller / Galen Marek
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — apprenti secret de Vador, fondateur de l'Alliance dans Légendes.
+> <span style="color:#2196F3">█</span> **Bleu** — apprenti secret de Vador, fondateur de l'Alliance dans Légendes.
 
 ## Résumé
 **[Légendes]** Apprenti secret de [[Dark Vador]], devient fondateur involontaire de l'Alliance Rebelle. Personnage central de la duologie *The Force Unleashed*.

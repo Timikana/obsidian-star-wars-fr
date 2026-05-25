@@ -19,7 +19,7 @@ tags: [personnage, gungan, naboo, senat, clone-wars, empire]
 # Jar Jar Binks
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — Gungan maladroit, sénateur involontaire de Naboo.
+> <span style="color:#FF9800">█</span> **Or République** — Gungan maladroit, sénateur involontaire de Naboo.
 
 ## Résumé
 Gungan exilé devenu compagnon de [[Qui-Gon Jinn]] et [[Obi-Wan Kenobi]]. Représentant de Naboo après [[Padmé Amidala]]. Propose les pouvoirs d'urgence à [[Palpatine]] (clé de la chute de la République). Devient un clown errant après l'Empire (canon Aftermath).

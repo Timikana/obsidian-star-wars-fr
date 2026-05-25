@@ -19,7 +19,7 @@ tags: [personnage, inquisiteur, empire, jedi-dechu, pauan]
 # Le Grand Inquisiteur
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — sabre double rotatif, signature des Inquisiteurs.
+> <span style="color:#B71C1C">█</span> **Rouge** — sabre double rotatif, signature des Inquisiteurs.
 
 ## Résumé
 Ancien Gardien du Temple Jedi, devenu Inquisiteur en chef après l'Ordre 66. Dirige les Inquisiteurs sous [[Dark Vador]]. Tué dans Rebels (S1) — chronologiquement après les évènements de la série Obi-Wan Kenobi (où il "meurt" puis revient).

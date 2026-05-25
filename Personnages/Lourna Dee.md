@@ -18,7 +18,7 @@ tags: [personnage, haute-republique, nihil, twilek]
 
 # Lourna Dee
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Tempest Runner Nihil, lieutenante de Marchion Ro.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Tempest Runner Nihil, lieutenante de Marchion Ro.
 
 ## Résumé
 Tempest Runner Nihil, l'une des trois lieutenantes de [[Marchion Ro]]. Twi'lek vert pâle. Brièvement présentée à tort comme "L'Œil des Nihil".

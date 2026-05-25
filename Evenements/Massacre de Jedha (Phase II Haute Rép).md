@@ -14,7 +14,7 @@ tags: [evenement, massacre, haute-republique]
 
 # Massacre de Jedha
 > [!color] Faction victorieuse
-> <span style="color:#4A148C">█</span> **Path of the Open Hand** — Manipulation cultiste qui ensanglante la lune sainte.
+> <span style="color:#B71C1C">█</span> **Path of the Open Hand** — Manipulation cultiste qui ensanglante la lune sainte.
 
 ## Résumé
 Sur la lune sacrée de [[Jedha]], [[Marda Ro]] et le Path of the Open Hand orchestrent un affrontement entre pèlerins, sectes et Jedi sous prétexte que toute utilisation de la Force serait blasphématoire. Les tensions explosent en bataille rangée dans la Cité Sainte, faisant des milliers de morts parmi les civils et les Jedi.

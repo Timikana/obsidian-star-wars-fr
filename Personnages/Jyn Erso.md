@@ -19,7 +19,7 @@ tags: [personnage, rebellion, rogue-one, erso, empire]
 # Jyn Erso
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — fille du concepteur de l'Étoile de la Mort, héroïne de Scarif.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — fille du concepteur de l'Étoile de la Mort, héroïne de Scarif.
 
 ## Résumé
 Fille de [[Galen Erso]] (architecte forcé de l'Étoile de la Mort) et Lyra Erso. Élevée par [[Saw Gerrera]] après la mort de sa mère. Recrutée par la Rébellion pour récupérer les plans. Meurt sur Scarif avec [[Cassian Andor]].

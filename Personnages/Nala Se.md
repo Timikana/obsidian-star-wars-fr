@@ -18,7 +18,7 @@ tags: [personnage, kaminoenne, clones, scientifique, clone-wars, empire]
 
 # Nala Se
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — généticienne Kaminoenne, créatrice de l'armée clone.
+> <span style="color:#FF9800">█</span> **Or République** — généticienne Kaminoenne, créatrice de l'armée clone.
 
 ## Résumé
 Scientifique en chef Kaminoenne, supervise le clonage. Couvre [[Fives]] sur les puces inhibitrices. Forcée par l'Empire après Kamino, finit par se sacrifier pour libérer Omega.

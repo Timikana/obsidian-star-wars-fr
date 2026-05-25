@@ -18,7 +18,7 @@ tags: [personnage, bothan, politicien, legendes]
 
 # Borsk Fey'lya
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — politicien Bothan ambitieux, devenu Chef d'État de la Nouvelle République.
+> <span style="color:#FF9800">█</span> **Or République** — politicien Bothan ambitieux, devenu Chef d'État de la Nouvelle République.
 
 ## Résumé
 Politicien Bothan rusé et carriériste, opposé permanent à [[Mon Mothma]] et [[Leia Organa]]. Devient Chef d'État de la Nouvelle République. Meurt héroïquement en faisant détoner Coruscant pour emporter avec lui les Yuuzhan Vong.

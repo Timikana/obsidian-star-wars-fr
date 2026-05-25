@@ -19,7 +19,7 @@ tags: [personnage, jedi, haute-republique, conseil]
 # Stellan Gios
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — membre du Conseil, ami d'Avar et Elzar, sacrifie sa vie face à Marchion Ro.
+> <span style="color:#2196F3">█</span> **Bleu** — membre du Conseil, ami d'Avar et Elzar, sacrifie sa vie face à Marchion Ro.
 
 ## Résumé
 Maître du Haut Conseil Jedi, membre de la "trinité" (avec [[Avar Kriss]] et [[Elzar Mann]]). Sacrifie sa vie en duel contre [[Marchion Ro]] sur la Starlight Beacon.

@@ -19,7 +19,7 @@ tags: [personnage, jedi, haute-republique, padawan]
 # Bell Zettifar
 
 > [!color] Couleur signature
-> <span style="color:#FDD835">█</span> **Jaune** — padawan brillant, sabre jaune signature.
+> <span style="color:#FFC107">█</span> **Jaune** — padawan brillant, sabre jaune signature.
 
 ## Résumé
 Padawan de Loden Greatstorm puis d'Indeera Stokes. Devient chevalier après les pertes. Compagnon canin Charhound nommé Ember.

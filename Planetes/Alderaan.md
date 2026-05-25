@@ -15,7 +15,7 @@ tags: [planete, core, alderaan, detruite]
 
 # Alderaan
 > [!color] Région
-> <span style="color:#00BCD4">█</span> **Core Worlds** — planète paradisiaque détruite par Tarkin pour l'exemple.
+> <span style="color:#FFEB3B">█</span> **Core Worlds** — planète paradisiaque détruite par Tarkin pour l'exemple.
 
 ## Résumé
 Monde pacifique du Core, foyer adoptif de [[Leia Organa]]. Détruite par l'Étoile de la Mort sous ordre de [[Grand Moff Tarkin]] pour intimider Leia.

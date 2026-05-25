@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Iktotchi
 
 > [!color] Espèce sentiente — Bordure Extérieure
-> <span style="color:#A0522D">█</span> **Iktotchi** — peuple cornu de précognitifs natifs de la lune austère d'Iktotch.
+> <span style="color:#8D6E63">█</span> **Iktotchi** — peuple cornu de précognitifs natifs de la lune austère d'Iktotch.
 
 ## Résumé
 

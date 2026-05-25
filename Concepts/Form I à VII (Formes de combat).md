@@ -10,7 +10,7 @@ tags: [concept, combat, sabre-laser, formes]
 
 # Form I à VII (Formes de combat)
 > [!color] Catégorie
-> <span style="color:#00897B">█</span> **Combat** — Sept formes canoniques de combat au sabre laser, codifiées par l'Ordre Jedi sur des millénaires.
+> <span style="color:#2196F3">█</span> **Combat** — Sept formes canoniques de combat au sabre laser, codifiées par l'Ordre Jedi sur des millénaires.
 
 ## Résumé
 Les **Sept Formes de combat au sabre laser** sont les styles martiaux codifiés par l'[[Ordre Jedi]] au fil des âges, chacune répondant à une menace ou philosophie particulière.

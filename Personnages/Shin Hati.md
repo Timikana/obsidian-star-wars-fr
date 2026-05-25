@@ -19,7 +19,7 @@ tags: [personnage, jedi-dechu, mercenaire, apprentie, orange]
 # Shin Hati
 
 > [!color] Couleur signature
-> <span style="color:#FB8C00">█</span> **Orange** — apprentie de Baylan, sabre orange assorti.
+> <span style="color:#FF9800">█</span> **Orange** — apprentie de Baylan, sabre orange assorti.
 
 ## Résumé
 Apprentie de [[Baylan Skoll]], duelliste agile et impitoyable. Travaille pour [[Morgan Elsbeth]]. Reste sur Peridea après la disparition de Baylan, à la recherche de pouvoir et de sa propre voie.

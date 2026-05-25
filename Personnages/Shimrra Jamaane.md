@@ -18,7 +18,7 @@ tags: [personnage, legendes, yuuzhan-vong, leader]
 
 # Shimrra Jamaane
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Suprême Overlord Yuuzhan Vong, leader de l'invasion.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Suprême Overlord Yuuzhan Vong, leader de l'invasion.
 
 ## Résumé
 **[Légendes]** Suprême Overlord des [[Yuuzhan Vong]], dirigeant l'invasion massive de la galaxie. Tué par [[Luke Skywalker]] (avec l'aide d'Onimi caché).

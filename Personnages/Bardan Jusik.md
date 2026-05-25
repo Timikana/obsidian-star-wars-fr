@@ -5,7 +5,7 @@ affiliation: [Ordre Jedi (déserteur), Mandaloriens]
 periode: [Clone Wars, Empire]
 statut: vivant (Legendes)
 canon: Legendes
-premiere_apparition: Republic Commando: Triple Zero (roman, 2006)
+premiere_apparition: "Republic Commando: Triple Zero (roman, 2006)"
 acteur_voix: —
 sabre_couleur: bleu
 sabre_hex: "#2196F3"

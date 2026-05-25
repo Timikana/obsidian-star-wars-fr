@@ -11,7 +11,7 @@ tags: [vaisseau, star-destroyer, empire, dreadnought]
 
 # Star Destroyer
 > [!color] Faction
-> <span style="color:#424242">█</span> **Empire** — vaisseau capital triangulaire signature.
+> <span style="color:#616161">█</span> **Empire** — vaisseau capital triangulaire signature.
 
 ## Résumé
 Vaisseau capital triangulaire signature de l'Empire. **Variantes** :

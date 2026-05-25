@@ -18,7 +18,7 @@ tags: [personnage, empire, lothal]
 
 # Cumberlayne Aresko
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — commandant impérial de Lothal, exécuté par Vador.
+> <span style="color:#616161">█</span> **Gris Empire** — commandant impérial de Lothal, exécuté par Vador.
 
 ## Résumé
 Commandant impérial de Lothal, dirigeant l'académie de cadets. Étranglé par [[Dark Vador]] avec [[Myles Grint]] pour incompétence répétée face aux Spectres.

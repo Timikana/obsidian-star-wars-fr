@@ -19,7 +19,7 @@ tags: [personnage, sorciere-nuit, dathomir, magie, clone-wars]
 # Mère Talzin
 
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — sorcière des Sœurs de la Nuit, magie de la Force du côté obscur.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — sorcière des Sœurs de la Nuit, magie de la Force du côté obscur.
 
 ## Résumé
 Cheffe spirituelle des Sœurs de la Nuit de Dathomir. Mère biologique de [[Dark Maul]], [[Savage Opress]] et [[Feral]]. A approché Plagueis et Sidious (pourrait être impliquée dans la conception d'Anakin selon certaines théories). Meurt en duel mystique contre [[Comte Dooku]] et [[Général Grievous]] manipulés par Sidious.

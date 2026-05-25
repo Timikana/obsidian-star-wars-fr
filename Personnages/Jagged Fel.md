@@ -18,7 +18,7 @@ tags: [personnage, pilote, chiss, fel, legendes]
 
 # Jagged Fel
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Empire** — Pilote d'élite chiss/humain, époux de Jaina Solo, futur Chef d'État de l'Alliance Galactique.
+> <span style="color:#616161">█</span> **Empire** — Pilote d'élite chiss/humain, époux de Jaina Solo, futur Chef d'État de l'Alliance Galactique.
 
 ## Résumé
 Fils du Baron Soontir Fel, Jagged Fel est élevé parmi les Chiss et devient l'un des meilleurs pilotes de la galaxie. Pendant la guerre Yuuzhan Vong, il combat aux côtés de la Nouvelle République et tombe amoureux de Jaina Solo. Plus tard, il devient Chef d'État de l'Alliance Galactique et l'épouse.

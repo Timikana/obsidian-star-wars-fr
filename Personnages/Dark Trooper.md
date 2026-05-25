@@ -18,7 +18,7 @@ tags: [personnage, canon, empire, droide, mando-verse]
 
 # Dark Trooper
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — Soldats noirs d'élite de Moff Gideon.
+> <span style="color:#616161">█</span> **Gris Empire** — Soldats noirs d'élite de Moff Gideon.
 
 ## Résumé
 **[Canon]** Droïdes de combat lourds en armure beskar-noir, conçus comme l'arme ultime de [[Moff Gideon]]. Une escouade entière est anéantie par [[Luke Skywalker]] lors du sauvetage de [[Grogu]].

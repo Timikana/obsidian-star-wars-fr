@@ -18,7 +18,7 @@ tags: [personnage, imperial, amiral, rebels, empire]
 
 # Brom Titus
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — amiral impérial humilié, rétrogradé après l'échec de la traque du Ghost.
+> <span style="color:#616161">█</span> **Gris Empire** — amiral impérial humilié, rétrogradé après l'échec de la traque du Ghost.
 
 ## Résumé
 Officier supérieur de l'Empire commandant un Interdictor au-dessus de Del Zennis. Capturé puis libéré par les rebelles en sous-vêtements, il est rétrogradé et finit comme commandant d'un cargo subalterne sur Lothal.

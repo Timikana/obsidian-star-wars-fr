@@ -21,13 +21,11 @@ tags: [personnage, pantoran, pirate-archeologue, bad-batch, empire]
 > <span style="color:#6D4C41">█</span> **Brun Pègre** — pirate-archéologue Pantorane, intérêt amoureux de Tech.
 
 ## Résumé
-Pirate et archéologue Pantorane, vieille connaissance de [[Cid]]. Intérêt amoureux de [[Tech]]. Aide le Bad Batch à plusieurs reprises.
+Pirate-archéologue [[Pantoran|Pantorane]] à la peau bleue et au tempérament flamboyant, Phee Genoa parcourt la galaxie post-Ordre 66 à la recherche d'artefacts oubliés à bord de son vaisseau, le _Marauder_ sister-ship. Vieille connaissance de [[Cid]], elle fréquente la cantina d'Ord Mantell où le [[Clone Force 99|Bad Batch]] — [[Hunter]], [[Wrecker]], [[Tech]], [[Echo]] et la jeune [[Omega]] — vient prendre ses contrats sous l'[[Empire Galactique]]. Elle développe une complicité particulière avec [[Tech]], dont le sérieux taquin tranche avec son hédonisme aventurier ; cette romance naissante, brisée par la chute de Tech sur Eriadu, marque profondément la troisième saison. Phee mène également la quête de la "Tantiss Heart", piste qui guide Omega et le Bad Batch vers la station secrète du [[Dr Hemlock]]. Son verbe haut, son chapeau et ses pillages mythologiques en font l'une des figures les plus colorées de la fin des [[Guerre des Clones|Guerres des Clones]], cousine spirituelle de [[Hondo Ohnaka]].
 
 ## Relations
-- Alliés : Bad Batch, [[Cid]]
-
-### Romantique
-- [[Tech]]
+- Alliés : [[Clone Force 99|Bad Batch]], [[Hunter]], [[Wrecker]], [[Echo]], [[Omega]], [[Cid]]
+- Romantique : [[Tech]]
 
 ## Apparitions
-Animés Bad Batch (S2-S3)
+- Animés : [[Bad Batch (série)|The Bad Batch]] (S2-S3)

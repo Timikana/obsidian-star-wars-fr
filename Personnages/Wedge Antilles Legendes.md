@@ -18,7 +18,7 @@ tags: [personnage, legendes, rebellion, nouvelle-republique, pilote, rogue-squad
 
 # Wedge Antilles (Légendes)
 > [!color] Faction
-> <span style="color:#FF6F00">█</span> **Nouvelle République** — pilote-fondateur, héros des Rogues et des Wraiths.
+> <span style="color:#FF5722">█</span> **Nouvelle République** — pilote-fondateur, héros des Rogues et des Wraiths.
 
 ## Résumé
 **[Légendes]** Survivant des deux Étoiles de la Mort, **Wedge Antilles** devient l'icône de l'aviation rebelle puis républicaine. Corellien orphelin (parents tués dans l'explosion d'une station-service), il fonde la **Rogue Squadron** réinventée en escadrille d'élite multi-rôle (romans *X-Wing* de Stackpole) et crée ensuite la **Wraith Squadron** (Aaron Allston), unité de pilotes-commando incluant [[Garik Loran]] et [[Kell Tainer]]. Il libère [[Coruscant]] de l'Empire en 7 ABY, traque le [[Warlord Zsinj]], affronte la résurgence sous [[Grand Amiral Thrawn (Légendes)]] et le **Dark Empire**. Marié à [[Iella Wessiri]], père de Syal et Myri, il atteint le grade de **général**, refusant systématiquement les promotions politiques pour rester en cockpit. Mentor de toute une génération de pilotes, il combat encore les [[Yuuzhan Vong]] durant la New Jedi Order. Beau-frère de [[Booster Terrik]] (via Mirax/Corran ; en réalité ami proche).

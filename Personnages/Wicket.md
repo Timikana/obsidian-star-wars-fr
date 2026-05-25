@@ -18,7 +18,7 @@ tags: [personnage, ewok, endor, rebellion, empire]
 
 # Wicket
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — premier Ewok à rencontrer Leia, héros d'Endor.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — premier Ewok à rencontrer Leia, héros d'Endor.
 
 ## Résumé
 Jeune Ewok de la tribu Bright Tree d'Endor. Premier à rencontrer [[Leia Organa]]. Joue un rôle clé dans la bataille d'Endor.

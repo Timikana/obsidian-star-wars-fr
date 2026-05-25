@@ -11,7 +11,7 @@ tags: [concept, sith, artefact, cote-obscur, canon, legendes]
 # Holocron Sith
 
 > [!color] Concept / Artefact
-> <span style="color:#8B0000">█</span> **Holocron Sith** — pyramide cristalline noire abritant des secrets obscurs, ouverte par la haine et le [[Côté Obscur]].
+> <span style="color:#B71C1C">█</span> **Holocron Sith** — pyramide cristalline noire abritant des secrets obscurs, ouverte par la haine et le [[Côté Obscur]].
 
 ## Résumé
 

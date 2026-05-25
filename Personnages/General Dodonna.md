@@ -18,7 +18,7 @@ tags: [personnage, rebellion, general, yavin, empire]
 
 # Général Dodonna
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — général qui briefe l'attaque de l'Étoile de la Mort.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — général qui briefe l'attaque de l'Étoile de la Mort.
 
 ## Résumé
 Général à Yavin 4, élabore le plan d'attaque qui exploite la faille thermique de l'Étoile de la Mort.

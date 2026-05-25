@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, nagai, legacy]
 
 # Dark Nihl
 > [!color] Sabre
-> <span style="color:#E53935">█</span> **Rouge** — guerrier-philosophe Nagai, exécuteur du Massacre de Ossus.
+> <span style="color:#B71C1C">█</span> **Rouge** — guerrier-philosophe Nagai, exécuteur du Massacre de Ossus.
 
 ## Résumé
 **[Légendes]** **Dark Nihl**, **Nagai** à la peau livide et au visage osseux, est un seigneur Sith de l'**One Sith** de [[Dark Krayt]]. Il participe au **Massacre d'Ossus** (130 ABY) où il abat personnellement [[Kol Skywalker]] devant son fils [[Cade Skywalker]]. Guerrier ascétique, il manie un sabre rouge tranchant et préfère le combat individuel à la politique de cour ; il méprise les intrigues de [[Dark Wyyrlok]]. Après la défaite des Sith et l'effondrement de l'Empire Sith de Krayt, Dark Nihl prend le titre de **Dark Lord** par défaut, devenant le dernier dirigeant connu de l'ordre One Sith en exil. Il représente l'aile **martiale** de la nouvelle dynastie Sith, par opposition à l'aile administrative de Wyyrlok.

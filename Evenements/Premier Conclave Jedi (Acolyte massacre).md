@@ -14,7 +14,7 @@ tags: [evenement, massacre, haute-republique, acolyte]
 
 # Massacre de Brendok
 > [!color] Faction victorieuse
-> <span style="color:#4A148C">█</span> **Ordre Jedi (couvre-up)** — Tragédie sur Brendok que les Jedi ont enterrée pendant seize ans.
+> <span style="color:#B71C1C">█</span> **Ordre Jedi (couvre-up)** — Tragédie sur Brendok que les Jedi ont enterrée pendant seize ans.
 
 ## Résumé
 Une équipe Jedi composée de [[Sol]], [[Indara]], [[Torbin]] et [[Kelnacca]] enquête sur le coven de sorcières de [[Brendok]] et les jumelles [[Mae Aniseya]] et [[Osha Aniseya]]. L'affrontement dégénère : [[Mère Aniseya]] et la quasi-totalité des sorcières périssent. Seize ans plus tard, [[Mae Aniseya]] et [[Qimir]] traquent et tuent les Jedi survivants pour venger le coven.

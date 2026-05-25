@@ -12,12 +12,11 @@ tags: [vaisseau, at-st, walker, endor]
 
 # AT-ST
 > [!color] Faction
-> <span style="color:#424242">█</span> **Empire** — All Terrain Scout Transport, walker bipède léger surnommé "chicken walker".
+> <span style="color:#616161">█</span> **Empire** — All Terrain Scout Transport, walker bipède léger surnommé "chicken walker".
 
 ## Résumé
-L'AT-ST est un walker bipède de reconnaissance à deux canons et lance-grenades. Plus agile que l'AT-AT, il escorte l'infanterie impériale. Lors de la bataille d'Endor, plusieurs AT-ST sont vaincus par les Ewoks à l'aide de pièges en bois, dont l'écrasement entre deux troncs orchestré par Chewbacca.
+L'**All Terrain Scout Transport** est un walker bipède de reconnaissance produit par **Kuat Drive Yards**, surnommé *chicken walker* pour sa silhouette d'oiseau et sa démarche saccadée. Armé d'un double canon laser, d'un lance-grenades et d'un blaster anti-personnel, il escorte les colonnes de [[AT-AT]] et l'infanterie [[Stormtroopers|stormtrooper]] sur les théâtres extérieurs. Lors de la **Bataille de Hoth** en 3 ABY, plusieurs AT-ST appuient l'assaut du [[Général Veers]] contre Echo Base ; mais c'est à la **Bataille d'Endor** en 4 ABY que la machine entre dans l'imaginaire collectif, lorsque les [[Ewoks]] de [[Wicket]] et [[Logray]] piègent les escouades impériales avec des rondins suspendus — [[Chewbacca]] s'emparant même d'un AT-ST pour retourner ses canons contre la garnison du bouclier. Sous la Nouvelle République, des AT-ST abandonnés sont remontés par les pillards : [[Cara Dune]] et [[Din Djarin]] en abattent un sur [[Nevarro]] aux côtés de [[Greef Karga]], tandis que des marauders en redéploient sur Sorgan.
 
 ## Apparitions
-- Le Retour du Jedi (Endor)
-- The Mandalorian
-- Rogue One
+- [[Le Retour du Jedi]] (Endor)
+- *Rogue One*, [[The Mandalorian]], [[Star Wars Rebels]]

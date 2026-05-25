@@ -18,7 +18,7 @@ tags: [personnage, clone, 501, puce-inhibitrice, clone-wars]
 
 # Tup
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — clone dont la puce inhibitrice s'active prématurément, déclenchant l'enquête de Fives.
+> <span style="color:#FF9800">█</span> **Or République** — clone dont la puce inhibitrice s'active prématurément, déclenchant l'enquête de Fives.
 
 ## Résumé
 Clone 501e dont la puce inhibitrice se déclenche par accident, lui faisant tuer un Jedi (Tiplar). Sa mort déclenche l'enquête de [[Fives]] sur les puces.

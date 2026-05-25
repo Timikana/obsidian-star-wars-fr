@@ -18,7 +18,7 @@ tags: [personnage, clone, 501, umbara, clone-wars]
 
 # Dogma
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — clone obéissant, finit par exécuter Pong Krell.
+> <span style="color:#FF9800">█</span> **Or République** — clone obéissant, finit par exécuter Pong Krell.
 
 ## Résumé
 Clone discipliné de la 501e, obéissant aveuglément à [[Pong Krell]]. Finit par tirer sur Krell après avoir compris sa trahison.

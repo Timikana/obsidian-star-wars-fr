@@ -18,7 +18,7 @@ tags: [personnage, gungan, naboo, chef]
 
 # Boss Nass
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — leader des Gungans, allié réticent contre la Fédération du Commerce.
+> <span style="color:#FF9800">█</span> **Or République** — leader des Gungans, allié réticent contre la Fédération du Commerce.
 
 ## Résumé
 Chef des Gungans de Naboo. Réconcilié avec les humains de Naboo grâce à [[Padmé Amidala]] et [[Jar Jar Binks]] pour combattre la Fédération du Commerce.

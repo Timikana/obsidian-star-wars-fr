@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, kotor, battle-meditation]
 
 # Bastila Shan
 > [!color] Couleur signature
-> <span style="color:#FDD835">█</span> **Jaune** — Maîtresse de la "Battle Meditation", lien Force avec Revan.
+> <span style="color:#FFC107">█</span> **Jaune** — Maîtresse de la "Battle Meditation", lien Force avec Revan.
 
 ## Résumé
 **[Légendes]** Maîtresse Jedi humaine, experte en Battle Meditation. Lien dyade Force avec [[Dark Revan]] dont elle devient l'amante. Brièvement tombée du côté obscur, rédemptée.

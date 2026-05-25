@@ -19,7 +19,7 @@ tags: [personnage, empire, etoile-mort, gouverneur, eriadu, clone-wars]
 # Grand Moff Tarkin
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — gouverneur des Régions de l'Outer Rim, architecte de la Doctrine Tarkin.
+> <span style="color:#616161">█</span> **Gris Empire** — gouverneur des Régions de l'Outer Rim, architecte de la Doctrine Tarkin.
 
 ## Résumé
 Gouverneur impérial originaire d'Eriadu, supervise la construction de l'Étoile de la Mort, ordonne la destruction d'Alderaan. Concepteur de la Doctrine Tarkin (gouverner par la peur). Mort dans la destruction de l'Étoile par [[Luke Skywalker]].

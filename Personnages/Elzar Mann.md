@@ -19,7 +19,7 @@ tags: [personnage, jedi, haute-republique]
 # Elzar Mann
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi puissant et impulsif, ami d'Avar.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi puissant et impulsif, ami d'Avar.
 
 ## Résumé
 Maître Jedi à la connexion Force inhabituelle, capable de canaliser brièvement le côté obscur. Ami proche d'[[Avar Kriss]] (relation amoureuse latente).

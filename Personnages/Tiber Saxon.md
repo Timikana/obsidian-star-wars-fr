@@ -18,7 +18,7 @@ tags: [personnage, mandalorien, empire, saxon]
 
 # Tiber Saxon
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — frère de Gar, déploie l'arme anti-mandalorien Duchess.
+> <span style="color:#616161">█</span> **Gris Empire** — frère de Gar, déploie l'arme anti-mandalorien Duchess.
 
 ## Résumé
 Frère cadet de [[Gar Saxon]]. Déploie l'arme thermique "Duchess" contre les Mandaloriens. Tué par [[Sabine Wren]] qui retourne l'arme contre lui.

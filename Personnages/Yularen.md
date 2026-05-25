@@ -18,7 +18,7 @@ tags: [personnage, empire, isb, amiral, clone-wars]
 
 # Yularen
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — amiral républicain devenu officier ISB de premier plan.
+> <span style="color:#616161">█</span> **Gris Empire** — amiral républicain devenu officier ISB de premier plan.
 
 ## Résumé
 Amiral républicain durant la Guerre des Clones (sous [[Anakin Skywalker]]). Devient agent ISB sous l'Empire. Mort sur l'Étoile de la Mort.

@@ -18,7 +18,7 @@ tags: [personnage, sith, swtor, old-republic, legendes, empire]
 
 # Dark Marr
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Membre stoïque et puissant du Conseil Noir Sith, défenseur de l'Empire.
+> <span style="color:#B71C1C">█</span> **Rouge** — Membre stoïque et puissant du Conseil Noir Sith, défenseur de l'Empire.
 
 ## Résumé
 Sith implacable au masque de fer, Dark Marr siège au Conseil Noir et incarne la voie martiale et pragmatique des Sith. Quand l'Empire Éternel de Valkorion menace les deux camps, il s'allie temporairement aux Jedi avant d'être tué par Vitiate. Sa Force perdure et guide le Survivant.

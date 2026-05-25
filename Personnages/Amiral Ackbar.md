@@ -18,7 +18,7 @@ tags: [personnage, rebellion, mon-calamari, amiral, trilogie-originale, empire, 
 
 # Amiral Ackbar
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — Mon Calamari, commandant de la flotte rebelle (« It's a trap ! »).
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — Mon Calamari, commandant de la flotte rebelle (« It's a trap ! »).
 
 ## Résumé
 Mon Calamari, ancien esclave personnel de [[Grand Moff Tarkin]]. Commandant en chef de la flotte rebelle à Endor. Mort dans la destruction du *Raddus* sous le bombardement du Premier Ordre.

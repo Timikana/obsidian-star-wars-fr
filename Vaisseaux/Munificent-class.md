@@ -15,7 +15,7 @@ tags: [vaisseau, frigate, cis, clone-wars, separatistes]
 
 # Munificent-class
 > [!color] Confédération des Systèmes Indépendants
-> <span style="color:#4b5563">█</span> **Star frigate Munificent** — colonne vertébrale séparatiste durant les [[Guerre des Clones|Guerres des Clones]].
+> <span style="color:#1976D2">█</span> **Star frigate Munificent** — colonne vertébrale séparatiste durant les [[Guerre des Clones|Guerres des Clones]].
 
 ## Résumé
 Le **Munificent-class star frigate** est le frégate-bataille standard de la flotte de la [[Confédération des Systèmes Indépendants]] durant la [[Guerre des Clones]] (22-19 BBY). Conçu et financé par la **Banque InterGalactique** (l'une des grandes corporations fondatrices du mouvement séparatiste avec [[San Hill]] à sa tête), le bâtiment de 825 mètres présente une silhouette aplatie en pointe avec deux énormes canons à plasma turbolaser parallèles à l'avant — assez puissants pour pulvériser un [[Acclamator-class]] en quelques salves. Robuste, économique, produit en série massive sur des chaînes Geonosiennes et Hoersch-Kessel, le Munificent forme l'épine dorsale des escouades séparatistes aux côtés des [[Lucrehulk]] de la Fédération du Commerce et des [[Providence-class]] de l'amirauté du [[Comte Dooku]]. Équipé de batteries ion idéales pour neutraliser les boucliers ennemis avant la charge des [[Vulture Droid]]s, il sert de plateforme de bombardement orbital lors d'innombrables batailles : Christophsis, Bothawui, Quell. La frégate apparaît également dans les flottes pirates et Hutt après la chute de la Confédération, ses coques bon marché étant rachetées en masse durant les Dark Times.

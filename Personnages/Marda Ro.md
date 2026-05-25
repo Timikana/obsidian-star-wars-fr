@@ -18,7 +18,7 @@ tags: [personnage, haute-republique, phase-II, evereni]
 
 # Marda Ro
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — fondatrice du culte qui deviendra les Nihil, ancêtre de Marchion.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — fondatrice du culte qui deviendra les Nihil, ancêtre de Marchion.
 
 ## Résumé
 Membre puis cheffe du Path of the Open Hand. Co-responsable du Massacre de Jedha (~382 BBY). Ancêtre de [[Marchion Ro]], fondatrice spirituelle du mouvement Nihil.

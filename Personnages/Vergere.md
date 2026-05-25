@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, fosh, vong]
 
 # Vergere
 > [!color] Couleur signature
-> <span style="color:#00897B">█</span> **Sarcelle Jedi** — Jedi pré-Empire qui survit chez les Yuuzhan Vong, mentor controversée de Jacen.
+> <span style="color:#2196F3">█</span> **Sarcelle Jedi** — Jedi pré-Empire qui survit chez les Yuuzhan Vong, mentor controversée de Jacen.
 
 ## Résumé
 **[Légendes]** Jedi Fosh disparue avant la Prélogie, capturée puis "alliée" des [[Yuuzhan Vong]]. Mentor philosophique et manipulatrice de [[Jacen Solo]] — elle plante les graines de sa chute future.

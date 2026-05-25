@@ -18,7 +18,7 @@ tags: [personnage, andor, isb, taupe, empire]
 
 # Lonni Jung
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — taupe ISB pour Luthen, sacrifié pour préserver le réseau.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — taupe ISB pour Luthen, sacrifié pour préserver le réseau.
 
 ## Résumé
 Officier ISB sous [[Dedra Meero]]. Taupe de [[Luthen Rael]] pendant des années. Tué par Luthen quand il menace de sortir.

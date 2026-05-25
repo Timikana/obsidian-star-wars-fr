@@ -19,7 +19,7 @@ tags: [personnage, sorciere-nuit, empire, dathomir, beskar]
 # Morgan Elsbeth
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — bâton beskar à pointes (Mandalorian) puis sabre laser rouge forgé via magie Nightsister (Ahsoka).
+> <span style="color:#B71C1C">█</span> **Rouge** — bâton beskar à pointes (Mandalorian) puis sabre laser rouge forgé via magie Nightsister (Ahsoka).
 
 ## Résumé
 Survivante des Sœurs de la Nuit de Dathomir, magistrate impériale de Calodan. Cheffe d'orchestre du retour de [[Grand Amiral Thrawn]]. Forge un sabre laser via magie Nightsister à partir de beskar volé. Tuée par [[Ahsoka Tano]].

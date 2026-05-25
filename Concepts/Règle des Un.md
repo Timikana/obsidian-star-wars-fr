@@ -11,7 +11,7 @@ tags: [concept, sith, doctrine, cote-obscur, canon, legendes]
 # Règle des Un
 
 > [!color] Concept / Doctrine Sith
-> <span style="color:#8B0000">█</span> **Règle des Un** — doctrine Sith ultime : un seul être absorbe la totalité du pouvoir du [[Côté Obscur]].
+> <span style="color:#B71C1C">█</span> **Règle des Un** — doctrine Sith ultime : un seul être absorbe la totalité du pouvoir du [[Côté Obscur]].
 
 ## Résumé
 

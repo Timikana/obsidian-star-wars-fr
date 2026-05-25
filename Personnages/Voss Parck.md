@@ -18,7 +18,7 @@ tags: [personnage, empire, thrawn, legendes]
 
 # Voss Parck
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Empire** — Officier impérial qui découvrit Thrawn en exil et fonda l'Empire de la Main.
+> <span style="color:#616161">█</span> **Empire** — Officier impérial qui découvrit Thrawn en exil et fonda l'Empire de la Main.
 
 ## Résumé
 C'est le Capitaine Parck qui, en patrouille dans l'Espace Inconnu, découvre Thrawn exilé sur une lune sauvage et le présente à l'Empereur Palpatine. Resté loyal au Chiss, Parck devient amiral de l'Empire de la Main, dernier vestige discipliné de l'Empire Galactique opérant dans la Région Inconnue.

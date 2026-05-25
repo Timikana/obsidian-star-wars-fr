@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, empire, skywalker, mara-jade]
 
 # Mara Jade Skywalker
 > [!color] Couleur signature
-> <span style="color:#8E24AA">█</span> **Violet** — assassin impériale devenue Jedi, épouse de Luke (Légendes).
+> <span style="color:#9C27B0">█</span> **Violet** — assassin impériale devenue Jedi, épouse de Luke (Légendes).
 
 ## Résumé
 **[Légendes]** Ancienne "Main de l'Empereur" (assassin de Palpatine), devient Jedi et épouse de [[Luke Skywalker]]. Mère de Ben Skywalker. Tuée par Lumiya. Pas (encore) introduite en canon.

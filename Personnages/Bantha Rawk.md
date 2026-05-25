@@ -18,7 +18,7 @@ tags: [personnage, skywalker, legendes, legacy, comic, dark-horse]
 
 # Bantha Rawk
 > [!color] Couleur signature
-> <span style="color:#F57C00">█</span> **Rébellion** — Skywalker exilé devenu contrebandier de l'Outer Rim, grand-oncle de Cade.
+> <span style="color:#FF5722">█</span> **Rébellion** — Skywalker exilé devenu contrebandier de l'Outer Rim, grand-oncle de Cade.
 
 ## Résumé
 **[Légendes]** Né **Nat Skywalker** dans la dynastie déchue des héritiers de [[Luke Skywalker]], **Bantha Rawk** est un descendant de la famille qui, fuyant les obligations de l'Ordre Jedi et la traque des Sith de [[Dark Krayt]], abandonne son nom légendaire pour vivre une vie de **contrebandier** dans l'Outer Rim. Établi sur la planète sauvage **Iego**, Rawk dirige une famille recomposée de hors-la-loi débrouillards. Lorsque son petit-neveu [[Cade Skywalker]] — Jedi survivant de la **Purge de Ossus** orchestrée par les Sith de Krayt — débarque traumatisé et orphelin, c'est Bantha qui le recueille, lui apprend à voler des vaisseaux et lui transmet l'éthique pragmatique des Skywalker en cavale. Père de substitution, mentor en piraterie, Rawk incarne le « Skywalker honteux » : celui qui refuse à la fois la robe Jedi et la culpabilité du sang. Il reste un pilier discret du second arc de Legacy, soutenant Cade dans sa lente acceptation de son héritage Force.

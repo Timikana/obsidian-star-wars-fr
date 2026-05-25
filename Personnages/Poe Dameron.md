@@ -19,7 +19,7 @@ tags: [personnage, resistance, pilote, yavin, sequels]
 # Poe Dameron
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — meilleur pilote de la Résistance.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — meilleur pilote de la Résistance.
 
 ## Résumé
 Fils de Shara Bey et Kes Dameron, vétérans rebelles. Pilote ace, leader de l'escadron Black. Brève période en tant qu'épicier de spice (Solo-style) sur Kijimi. Devient général après la mort de [[Leia Organa]].

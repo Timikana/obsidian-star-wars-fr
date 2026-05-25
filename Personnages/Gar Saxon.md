@@ -18,7 +18,7 @@ tags: [personnage, mandalorien, empire, saxon]
 
 # Gar Saxon
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — Mandalorien loyaliste impérial, vice-roi de Mandalore.
+> <span style="color:#616161">█</span> **Gris Empire** — Mandalorien loyaliste impérial, vice-roi de Mandalore.
 
 ## Résumé
 Ancien Super Commando Mandalorien, vice-roi de Mandalore sous l'Empire. Tué par [[Ursa Wren]] pour protéger Sabine.

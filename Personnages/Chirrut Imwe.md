@@ -19,7 +19,7 @@ tags: [personnage, force, jedha, gardiens-whills, aveugle, empire]
 # Chirrut Îmwe
 
 > [!color] Couleur signature
-> <span style="color:#00897B">█</span> **Sarcelle Jedi** — moine aveugle sensible à la Force sans être Jedi (« Je suis un avec la Force »).
+> <span style="color:#2196F3">█</span> **Sarcelle Jedi** — moine aveugle sensible à la Force sans être Jedi (« Je suis un avec la Force »).
 
 ## Résumé
 Moine aveugle de Jedha, Gardien des Whills, sensible à la Force mais non-Jedi. Compagnon de [[Baze Malbus]]. Meurt sur Scarif en activant le commutateur principal sous le feu ennemi.

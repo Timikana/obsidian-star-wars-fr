@@ -14,7 +14,7 @@ tags: [evenement, bataille, guerre-des-clones, mandalore, clone-wars]
 
 # Siège de Mandalore
 > [!color] Faction victorieuse
-> <span style="color:#C9A227">█</span> **République / Bo-Katan** — Capture de [[Dark Maul]] mais éclipsée par l'Ordre 66.
+> <span style="color:#FF9800">█</span> **République / Bo-Katan** — Capture de [[Dark Maul]] mais éclipsée par l'Ordre 66.
 
 ## Résumé
 [[Ahsoka Tano]], [[Capitaine Rex]] et [[Bo-Katan Kryze]] mènent l'assaut sur [[Mandalore]] tenue par [[Dark Maul]] et la Death Watch dissidente. Ahsoka affronte Maul en duel et le capture vivant. Le siège coïncide exactement avec le déclenchement de l'Ordre 66.

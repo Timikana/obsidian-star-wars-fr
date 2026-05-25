@@ -19,7 +19,7 @@ tags: [personnage, mandalorien, darksaber, chasseur-primes, foundling]
 # Din Djarin
 
 > [!color] Couleur signature
-> <span style="color:#1A1A1A">█</span> **Noir / Darksaber** — gagne le sabre noir de [[Moff Gideon]] en duel singulier, devenant légitime souverain de Mandalore selon la tradition.
+> <span style="color:#212121">█</span> **Noir / Darksaber** — gagne le sabre noir de [[Moff Gideon]] en duel singulier, devenant légitime souverain de Mandalore selon la tradition.
 
 ## Résumé
 Foundling humain sauvé par la Death Watch enfant. Chasseur de primes de la Guilde, devient père adoptif de [[Grogu]]. Gagne le [[Darksaber]] et redevient Mandalorien orthodoxe puis se rallie à [[Bo-Katan Kryze]] pour reprendre Mandalore.

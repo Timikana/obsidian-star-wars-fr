@@ -18,7 +18,7 @@ tags: [personnage, jedi, haute-republique, acolyte]
 
 # Torbin
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi membre de l'équipe Brendok, mort en pénitence.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi membre de l'équipe Brendok, mort en pénitence.
 
 ## Résumé
 Jeune Jedi de l'équipe Brendok avec [[Sol]], [[Indara]], [[Kelnacca]]. En pénitence dans une transe de méditation depuis Brendok. Empoisonné par [[Mae Aniseya]].

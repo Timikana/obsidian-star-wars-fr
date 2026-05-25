@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Quarren
 
 > [!color] Espèce sentiente — Bordure Extérieure
-> <span style="color:#FF7F50">█</span> **Quarren** — « hommes-calamars » des abysses de [[Mon Cala]], frères et rivaux des [[Mon Calamari]].
+> <span style="color:#FF9800">█</span> **Quarren** — « hommes-calamars » des abysses de [[Mon Cala]], frères et rivaux des [[Mon Calamari]].
 
 ## Résumé
 

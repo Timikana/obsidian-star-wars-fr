@@ -18,7 +18,7 @@ tags: [personnage, nouvelle-republique, mandalorian, canon]
 
 # Captain Bombardier
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Rébellion** — Officier excentrique de la Nouvelle République en charge des programmes d'amnistie.
+> <span style="color:#FF5722">█</span> **Rébellion** — Officier excentrique de la Nouvelle République en charge des programmes d'amnistie.
 
 ## Résumé
 Capitaine de la Nouvelle République stationné sur Coruscant, Bombardier supervise les programmes de réhabilitation des anciens impériaux et leurs nouvelles attributions. Mari de l'élégante Elia Kane, il ignore que celle-ci complote pour Moff Gideon depuis l'intérieur même de l'administration républicaine.

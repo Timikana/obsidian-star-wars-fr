@@ -14,7 +14,7 @@ tags: [evenement, genocide, premier-ordre, starkiller, sequels]
 
 # Destruction du système Hosnian
 > [!color] Faction victorieuse
-> <span style="color:#B71C1C">█</span> **Premier Ordre** — Démonstration de force qui décapite la Nouvelle République en quelques secondes.
+> <span style="color:#D32F2F">█</span> **Premier Ordre** — Démonstration de force qui décapite la Nouvelle République en quelques secondes.
 
 ## Résumé
 Depuis la [[Starkiller Base]] reconvertie de la planète Ilum, le [[Général Hux]] tire une salve hyperspatiale d'énergie de soleil drainé. Le rayon traverse la galaxie et pulvérise simultanément le système Hosnian, capitale tournante de la Nouvelle République : le Sénat, la flotte de l'État et des milliards de civils sont annihilés en un instant.

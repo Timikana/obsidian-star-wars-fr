@@ -18,7 +18,7 @@ tags: [personnage, empire, amiral, aftermath]
 
 # Rae Sloane
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — Grand Amirale impériale, fondatrice du Premier Ordre (Aftermath).
+> <span style="color:#616161">█</span> **Gris Empire** — Grand Amirale impériale, fondatrice du Premier Ordre (Aftermath).
 
 ## Résumé
 Officier impérial humaine. Devient Grand Amirale après Endor. Fonde l'Empire reliquat dans les Régions Inconnues qui devient le Premier Ordre.

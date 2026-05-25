@@ -5,7 +5,7 @@ affiliation: [Ordre Jedi]
 periode: [Prelogie, Clone Wars]
 statut: décédé (19 BBY, Ordre 66)
 canon: Canon
-premiere_apparition: Star Wars: Episode II – Attack of the Clones (2002)
+premiere_apparition: "Star Wars: Episode II – Attack of the Clones (2002)"
 acteur_voix: —
 sabre_couleur: vert
 sabre_hex: "#4CAF50"

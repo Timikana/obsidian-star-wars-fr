@@ -11,7 +11,7 @@ tags: [organisation, premier-ordre, cote-obscur]
 
 # Premier Ordre
 > [!color] Allégeance
-> <span style="color:#B71C1C">█</span> **Rouge Premier Ordre** — Successeur militariste de l'Empire né dans les Régions Inconnues.
+> <span style="color:#D32F2F">█</span> **Rouge Premier Ordre** — Successeur militariste de l'Empire né dans les Régions Inconnues.
 
 ## Résumé
 Émergé des vestiges impériaux exilés dans les Régions Inconnues, le Premier Ordre déclenche une nouvelle guerre contre la Nouvelle République, qu'il décime via la Base Starkiller. Manipulé en sous-main par le Sith Eternal, il fusionne avec l'Ordre Final avant d'être détruit à Exegol en 35 ABY.

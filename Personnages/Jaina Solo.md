@@ -18,7 +18,7 @@ tags: [personnage, legendes, solo, jedi, NJO]
 
 # Jaina Solo
 > [!color] Couleur signature
-> <span style="color:#8E24AA">█</span> **Violet** — fille aînée de Han et Leia, "L'Épée des Jedi", tueuse de son frère Caedus.
+> <span style="color:#9C27B0">█</span> **Violet** — fille aînée de Han et Leia, "L'Épée des Jedi", tueuse de son frère Caedus.
 
 ## Résumé
 **[Légendes]** Fille aînée de [[Han Solo]] et [[Leia Organa]], jumelle de [[Jacen Solo]]. Sœur d'[[Anakin Solo (Légendes)]]. Maître Jedi reconnue ("L'Épée des Jedi"). Tue son frère [[Jacen Solo]] devenu Dark Caedus.

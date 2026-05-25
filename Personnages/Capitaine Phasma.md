@@ -19,7 +19,7 @@ tags: [personnage, premier-ordre, capitaine, chrome, sequels]
 # Capitaine Phasma
 
 > [!color] Couleur signature
-> <span style="color:#B71C1C">█</span> **Rouge Premier Ordre** — armure chromée signature, capitaine des stormtroopers.
+> <span style="color:#D32F2F">█</span> **Rouge Premier Ordre** — armure chromée signature, capitaine des stormtroopers.
 
 ## Résumé
 Capitaine de la garde rapprochée et des Stormtroopers, armure chromée signature. Trahit ses propres protocoles pour survivre. Tuée par [[Finn]] (FN-2187) sur le *Supremacy*.

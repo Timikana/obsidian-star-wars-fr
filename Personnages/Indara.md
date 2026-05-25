@@ -19,7 +19,7 @@ tags: [personnage, jedi, haute-republique, acolyte]
 # Indara
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — maître Jedi prodigieuse, première victime de Mae.
+> <span style="color:#2196F3">█</span> **Bleu** — maître Jedi prodigieuse, première victime de Mae.
 
 ## Résumé
 Maîtresse Jedi de grande renommée, partenaire de [[Sol]] sur Brendok. Tuée par [[Mae Aniseya]] dans le bar d'Ueda dans le premier épisode de *The Acolyte*.

@@ -16,7 +16,7 @@ tags: [planete, force, jedi, dawn-of-the-jedi, mandalorian]
 # Tython
 
 > [!color] Région
-> <span style="color:#4A148C">█</span> **Deep Core** — berceau mythique des Je'daii et vergence de la Force.
+> <span style="color:#FFEB3B">█</span> **Deep Core** — berceau mythique des Je'daii et vergence de la Force.
 
 ## Résumé
 Monde sacré du Deep Core considéré comme le **berceau de l'Ordre Jedi** et, dans les Légendes, des [[Je'daii]] (Dawn of the Jedi, ~25 000 BBY) — ces ancêtres qui équilibraient Ashla et Bogan avant la scission entre [[Ordre Jedi]] et adeptes du côté obscur. Planète-vergence saturée de [[Force]], elle abrite tempêtes de Force, ruines monumentales et le célèbre **Siège des Voyants** (Seeing Stone) au sommet d'une montagne. Dans le canon, c'est sur Tython que [[Din Djarin]] amène [[Grogu]] à la fin de *The Mandalorian* saison 2 pour qu'il appelle un Jedi via la pierre — appel qui sera entendu par [[Luke Skywalker]]. Lieu de passage obligé pour tout pèlerin de la Force, Tython a vu défiler [[Yoda]] (en méditation lointaine), Revan (Légendes), et de nombreux Maîtres Jedi en quête de visions.

@@ -14,7 +14,7 @@ tags: [evenement, bataille, rebels, sith, empire]
 
 # Mission de Malachor
 > [!color] Faction victorieuse
-> <span style="color:#4A148C">█</span> **Camp rebelle (victoire amère)** — Affrontement à trois faces dans un temple Sith abandonné.
+> <span style="color:#B71C1C">█</span> **Camp rebelle (victoire amère)** — Affrontement à trois faces dans un temple Sith abandonné.
 
 ## Résumé
 [[Kanan Jarrus]], [[Ezra Bridger]] et [[Ahsoka Tano]] descendent sur [[Malachor]] pour trouver une arme contre les Sith. Ils croisent [[Maul]], retors et manipulateur, qui aveugle [[Kanan Jarrus]]. [[Dark Vador]] arrive et affronte [[Ahsoka Tano]] dans un duel déchirant : elle reconnaît son ancien maître Anakin sous le masque.

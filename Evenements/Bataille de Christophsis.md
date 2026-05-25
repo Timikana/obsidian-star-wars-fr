@@ -14,7 +14,7 @@ tags: [evenement, bataille, guerre-des-clones, clone-wars]
 
 # Bataille de Christophsis
 > [!color] Faction victorieuse
-> <span style="color:#00897B">█</span> **République Galactique** — Première mission commune d'[[Anakin Skywalker]] et [[Ahsoka Tano]].
+> <span style="color:#2196F3">█</span> **République Galactique** — Première mission commune d'[[Anakin Skywalker]] et [[Ahsoka Tano]].
 
 ## Résumé
 La cité-cristal de [[Christophsis]] est assiégée par les forces séparatistes d'[[Asajj Ventress]]. [[Anakin Skywalker]] et [[Obi-Wan Kenobi]] résistent grâce à l'astuce du capitaine [[Rex]] et à des renforts inattendus : la jeune Padawan [[Ahsoka Tano]], envoyée par [[Yoda]] à Anakin contre toute attente.

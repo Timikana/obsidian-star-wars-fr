@@ -18,7 +18,7 @@ tags: [personnage, legendes, miraluka, kotor]
 
 # Visas Marr
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Miraluka aveugle survivante de Katarr, esclave de Nihilus puis alliée de Surik.
+> <span style="color:#2196F3">█</span> **Bleu** — Miraluka aveugle survivante de Katarr, esclave de Nihilus puis alliée de Surik.
 
 ## Résumé
 **[Légendes]** Miraluka aveugle, dernière survivante de Katarr (planète dévorée par [[Dark Nihilus]]). Servante puis ennemie de Nihilus. Élève de [[Meetra Surik]].

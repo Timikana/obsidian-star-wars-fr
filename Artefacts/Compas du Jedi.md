@@ -14,7 +14,7 @@ tags: [artefact, navigation, jedi, ahch-to]
 
 # Compas du Jedi
 > [!color] Symbolique
-> <span style="color:#00897B">█</span> — Boussole stellaire menant au premier Temple Jedi.
+> <span style="color:#2196F3">█</span> — Boussole stellaire menant au premier Temple Jedi.
 
 ## Résumé
 Le compas Jedi est un dispositif de navigation ancien capable de localiser les sites sacrés de l'[[Ordre Jedi]] dispersés dans la galaxie. L'un d'entre eux conduit à [[Ahch-To]], la planète où se trouve le premier Temple. Sa carte fragmentée fut dissimulée puis recherchée pendant des années.

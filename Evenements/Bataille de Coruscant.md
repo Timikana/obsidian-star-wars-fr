@@ -14,7 +14,7 @@ tags: [evenement, bataille, guerre-des-clones, clone-wars]
 
 # Bataille de Coruscant
 > [!color] Faction victorieuse
-> <span style="color:#00897B">█</span> **République Galactique** — Raid spectaculaire des Séparatistes sur la capitale et duel à bord de l'Invisible Hand.
+> <span style="color:#2196F3">█</span> **République Galactique** — Raid spectaculaire des Séparatistes sur la capitale et duel à bord de l'Invisible Hand.
 
 ## Résumé
 Le [[Général Grievous]] mène une offensive surprise au-dessus de [[Coruscant]] et enlève le Chancelier [[Palpatine]] depuis son bureau même. [[Anakin Skywalker]] et [[Obi-Wan Kenobi]] s'infiltrent à bord de l'Invisible Hand, affrontent et tuent [[Comte Dooku]] sur ordre de Palpatine, puis font crasher le vaisseau dans la capitale.

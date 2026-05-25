@@ -19,7 +19,7 @@ tags: [personnage, rebellion, espion, andor, kenari, empire]
 # Cassian Andor
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — capitaine du Renseignement, espion-soldat de l'Alliance.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — capitaine du Renseignement, espion-soldat de l'Alliance.
 
 ## Résumé
 Né sur Kenari, adopté par Maarva et Clem Andor. D'abord petit voleur, recruté par [[Luthen Rael]] dans la résistance naissante. Devient capitaine du Renseignement rebelle ; meurt sur Scarif en récupérant les plans de l'Étoile de la Mort avec [[Jyn Erso]].

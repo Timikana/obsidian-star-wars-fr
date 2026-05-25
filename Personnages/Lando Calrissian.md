@@ -19,7 +19,7 @@ tags: [personnage, rebellion, contrebandier, bespin, empire, sequels]
 # Lando Calrissian
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — joueur professionnel, ancien propriétaire du Faucon, général.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — joueur professionnel, ancien propriétaire du Faucon, général.
 
 ## Résumé
 Joueur professionnel, ancien capitaine du *Faucon Millenium* perdu à [[Han Solo]] aux cartes. Baron-administrateur de Cloud City sur Bespin. Pilote du *Faucon* lors de la destruction de la seconde Étoile de la Mort. Père de [[Jannah]] (suggéré ép. IX).

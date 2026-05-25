@@ -15,7 +15,7 @@ tags: [vaisseau, chasseur, resistance, x-wing]
 
 # X-Wing T-70
 > [!color] Résistance
-> <span style="color:#f59e0b">█</span> **X-wing T-70** — chasseur emblématique de la [[Résistance]].
+> <span style="color:#FF6F00">█</span> **X-wing T-70** — chasseur emblématique de la [[Résistance]].
 
 ## Résumé
 Le **T-70 X-wing starfighter** est le successeur direct du légendaire [[X-Wing|T-65]] qui a fait la gloire de l'[[Alliance Rebelle]] durant la [[Guerre civile galactique]]. Conçu par **Incom-FreiTek** pour la [[Nouvelle République]] dans les années qui suivent la [[Bataille de Jakku]], le T-70 affine la formule : nez plus aérodynamique, S-foils repensés, suite avionique modernisée, moteurs sublight améliorés. Lorsque la République, idéaliste et désarmante, refuse d'investir dans une réponse militaire au [[Premier Ordre]] émergent, [[Leia Organa]] détourne ses propres ressources pour équiper la naissante **Résistance** — et le T-70 devient le chasseur de prédilection du **Black Squadron** de [[Poe Dameron]]. Sous les couleurs noires et oranges de la Résistance, des T-70 mènent l'attaque sur la [[Base Starkiller]], les opérations de couverture de la fuite de la flotte, et participent à des dizaines d'escarmouches contre les [[TIE Fighter|TIE/fo]] du [[Finalizer]]. Le T-70 personnel de Poe, *Black One*, devient une icône de la résistance armée. À la veille de la [[Bataille d'Exegol]], les T-70 restants forment la colonne vertébrale de la flotte rebelle.

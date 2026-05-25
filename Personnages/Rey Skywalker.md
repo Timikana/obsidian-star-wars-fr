@@ -19,7 +19,7 @@ tags: [personnage, jedi, palpatine, resistance, skywalker, sequels]
 # Rey Skywalker
 
 > [!color] Couleur signature
-> <span style="color:#FDD835">█</span> **Jaune** — sabre construit à la fin de TROS, signature de sa nouvelle voie Jedi.
+> <span style="color:#FFC107">█</span> **Jaune** — sabre construit à la fin de TROS, signature de sa nouvelle voie Jedi.
 
 ## Résumé
 Petite-fille de [[Dark Sidious]], abandonnée sur Jakku. Découvre la Force, formée par [[Luke Skywalker]] puis [[Leia Organa]]. Détruit Sidious, choisit le nom "Skywalker" en hommage.

@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, onderon]
 
 # Freedon Nadd
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Sith Lord d'Onderon, esprit hantant la lune Dxun.
+> <span style="color:#B71C1C">█</span> **Rouge** — Sith Lord d'Onderon, esprit hantant la lune Dxun.
 
 ## Résumé
 **[Légendes]** Ancien Jedi tombé en Sith. Conquit Onderon. Esprit corrupteur sur la lune Dxun, manipule [[Ulic Qel-Droma]] depuis l'au-delà.

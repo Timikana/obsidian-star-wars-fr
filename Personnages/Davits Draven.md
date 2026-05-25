@@ -18,7 +18,7 @@ tags: [personnage, canon, rebellion, renseignement]
 
 # Davits Draven
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — Général du Renseignement Rebelle, sans pitié.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — Général du Renseignement Rebelle, sans pitié.
 
 ## Résumé
 **[Canon]** Chef opérationnel du Renseignement Rebelle, Draven donne à [[Cassian Andor]] l'ordre d'éliminer [[Galen Erso]]. Pragmatique, il privilégie les missions noires aux principes idéalistes de [[Mon Mothma]].

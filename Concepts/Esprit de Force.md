@@ -10,7 +10,7 @@ tags: [concept, force, jedi, immortalite]
 
 # Esprit de Force
 > [!color] Catégorie
-> <span style="color:#00897B">█</span> — capacité à conserver sa conscience après la mort en se fondant dans le Côté Lumineux.
+> <span style="color:#2196F3">█</span> — capacité à conserver sa conscience après la mort en se fondant dans le Côté Lumineux.
 
 ## Résumé
 L'Esprit de Force permet à un Jedi de se manifester sous forme spectrale pour guider les vivants. Cette technique, perdue depuis des millénaires, est redécouverte par [[Qui-Gon Jinn]] auprès des Prêtres Shaman du Whills, puis transmise à [[Maître Yoda]] et [[Obi-Wan Kenobi]].

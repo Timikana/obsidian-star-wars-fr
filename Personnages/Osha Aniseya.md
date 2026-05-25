@@ -19,7 +19,7 @@ tags: [personnage, jedi-dechu, sith, acolyte, brendok]
 # Osha Aniseya
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — bascule du côté obscur, sabre rouge à la fin de la saison.
+> <span style="color:#B71C1C">█</span> **Rouge** — bascule du côté obscur, sabre rouge à la fin de la saison.
 
 ## Résumé
 Jumelle d'[[Mae Aniseya]], créée par la Force par leurs mères Sœurs de Brendok. Padawan de [[Sol]], elle quitte l'Ordre. Découvre la vérité sur Brendok, tue Sol, rejoint [[Qimir]] (L'Ancien).

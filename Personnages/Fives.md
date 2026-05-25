@@ -19,7 +19,7 @@ tags: [personnage, clone, arc, 501, puces-inhibitrices, clone-wars]
 # Fives
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — ARC trooper qui découvre les puces inhibitrices ; tué pour cela.
+> <span style="color:#FF9800">█</span> **Or République** — ARC trooper qui découvre les puces inhibitrices ; tué pour cela.
 
 ## Résumé
 Clone de la Domino Squad, devenu ARC trooper. Découvre la puce inhibitrice biologique des clones (Order 66) après l'incident de Tup. Sa mort silenciée préserve le secret de l'Ordre 66.

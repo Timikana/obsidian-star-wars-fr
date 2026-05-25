@@ -18,7 +18,7 @@ tags: [personnage, canon, rebellion, hoth, alderaan]
 
 # General Carlist Rieekan
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — Commandant rebelle d'Echo Base sur Hoth.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — Commandant rebelle d'Echo Base sur Hoth.
 
 ## Résumé
 **[Canon]** Aldérien rescapé, Rieekan dirige Echo Base et orchestre l'évacuation lors de l'assaut impérial. Stratège prudent, il sauve l'essentiel de la flotte rebelle face aux forces de [[General Veers]].

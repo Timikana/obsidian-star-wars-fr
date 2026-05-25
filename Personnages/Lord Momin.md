@@ -18,7 +18,7 @@ tags: [personnage, canon, sith, esprit, comics, empire]
 
 # Lord Momin
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Esprit Sith ancien dans un casque, conseille Vador.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Esprit Sith ancien dans un casque, conseille Vador.
 
 ## Résumé
 **[Canon — comics]** Sith antique, artiste obsédé par la création par la souffrance. Son esprit subsiste dans son casque ; il aide [[Anakin Skywalker|Dark Vador]] à bâtir sa forteresse de Mustafar avant de tenter de le trahir.

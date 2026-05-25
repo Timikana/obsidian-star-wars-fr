@@ -19,7 +19,7 @@ tags: [personnage, droide, compagnon, fallen-order, empire]
 # BD-1
 
 > [!color] Couleur signature
-> <span style="color:#BDBDBD">█</span> **Gris droïde** — compagnon de Cal, scanner et brouilleur.
+> <span style="color:#90A4AE">█</span> **Gris droïde** — compagnon de Cal, scanner et brouilleur.
 
 ## Résumé
 Petit droïde BD compagnon d'[[Eno Cordova]] puis de [[Cal Kestis]]. Conserve les holocrons et les souvenirs des Jedi tombés.

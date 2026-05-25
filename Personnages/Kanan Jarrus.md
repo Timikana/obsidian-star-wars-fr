@@ -19,7 +19,7 @@ tags: [personnage, jedi, rebellion, spectres, lothal, clone-wars, empire]
 # Kanan Jarrus
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — sabre Jedi reconstruit en exil, gardien du fils de Hera.
+> <span style="color:#2196F3">█</span> **Bleu** — sabre Jedi reconstruit en exil, gardien du fils de Hera.
 
 ## Résumé
 Padawan de [[Depa Billaba]] enfant ; survit à l'Ordre 66 grâce au sacrifice de sa maître. Vit en cachette pendant des années, devient pilote du *Ghost* sous le nom Kanan Jarrus. Renoue avec la Force, forme [[Ezra Bridger]]. Aveuglé par [[Maul]] sur Malachor. Se sacrifie sur Lothal pour sauver les siens.

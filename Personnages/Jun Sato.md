@@ -18,7 +18,7 @@ tags: [personnage, rebellion, phoenix, commander, empire]
 
 # Jun Sato
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — Commander de la Phoenix Cell.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — Commander de la Phoenix Cell.
 
 ## Résumé
 Commander de la cellule Phoenix de la Rébellion. Sacrifice héroïque en s'écrasant contre un Interdictor de Thrawn.

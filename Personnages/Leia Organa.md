@@ -19,7 +19,7 @@ tags: [personnage, rebellion, resistance, skywalker, jedi, empire, sequels]
 # Leia Organa
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — figure centrale de l'Alliance puis de la Résistance ; bien que sensible à la Force, elle a abandonné l'entraînement Jedi.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — figure centrale de l'Alliance puis de la Résistance ; bien que sensible à la Force, elle a abandonné l'entraînement Jedi.
 
 ## Résumé
 Fille d'[[Anakin Skywalker]] et [[Padmé Amidala]], jumelle de [[Luke Skywalker]], adoptée par [[Bail Organa]] et la reine d'Alderaan. Princesse, sénatrice, leader rebelle, générale de la Résistance. Brièvement padawan de Luke.

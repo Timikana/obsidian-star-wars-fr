@@ -19,7 +19,7 @@ tags: [personnage, rebellion, andor, ghorman, empire]
 # Cinta Kaz
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — résistante endurcie, perd sa famille à cause des Impériaux.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — résistante endurcie, perd sa famille à cause des Impériaux.
 
 ## Résumé
 Combattante rebelle ayant perdu sa famille aux mains de l'Empire. Compagne de [[Vel Sartha]]. Tuée accidentellement par un membre de sa propre cellule pendant la S2.

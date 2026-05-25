@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Bothan
 
 > [!color] Espèce sentiente — Bordure Médiane
-> <span style="color:#8B4513">█</span> **Bothan** — peuple velu de [[Bothawui]], maîtres incontestés du renseignement galactique.
+> <span style="color:#8D6E63">█</span> **Bothan** — peuple velu de [[Bothawui]], maîtres incontestés du renseignement galactique.
 
 ## Résumé
 

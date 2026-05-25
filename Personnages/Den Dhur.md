@@ -5,7 +5,7 @@ affiliation: [Presse indépendante, allié Jax Pavan]
 periode: [Guerre des Clones à Dark Times (Légendes)]
 statut: "vivant (~17 BBY)"
 canon: Légendes
-premiere_apparition: MedStar I: Battle Surgeons (2004)
+premiere_apparition: "MedStar I: Battle Surgeons (2004)"
 acteur_voix: —
 couleur: rebellion
 couleur_hex: "#FF5722"

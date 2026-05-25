@@ -14,7 +14,7 @@ tags: [evenement, bataille, aftermath]
 
 # Bataille de Jakku
 > [!color] Faction victorieuse
-> <span style="color:#FF6F00">█</span> **Nouvelle République** — Coup final contre les forces impériales et signature des Accords de Concession.
+> <span style="color:#FF5722">█</span> **Nouvelle République** — Coup final contre les forces impériales et signature des Accords de Concession.
 
 ## Résumé
 Un an après [[Endor]], les restes de l'Empire font leur dernier stand sur [[Jakku]] selon le plan posthume de [[Palpatine]] (Contingence). La Nouvelle République remporte une bataille terrestre et orbitale dévastatrice qui jonche le désert d'épaves.

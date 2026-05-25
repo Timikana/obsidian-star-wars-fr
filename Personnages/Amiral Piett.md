@@ -19,7 +19,7 @@ tags: [personnage, empire, executor, marine, trilogie-originale]
 # Amiral Piett
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — capitaine puis amiral de l'Executor, fidèle à Vador.
+> <span style="color:#616161">█</span> **Gris Empire** — capitaine puis amiral de l'Executor, fidèle à Vador.
 
 ## Résumé
 Officier de marine impérial, monte les échelons sur l'*Executor* après que Vador ait étranglé l'amiral Ozzel. Mort à Endor quand un A-Wing s'écrase sur la passerelle de l'*Executor*.

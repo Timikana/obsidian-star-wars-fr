@@ -19,7 +19,7 @@ tags: [personnage, premier-ordre, general, starkiller, sequels]
 # Général Hux
 
 > [!color] Couleur signature
-> <span style="color:#B71C1C">█</span> **Rouge Premier Ordre** — général fanatique, bâtisseur de Starkiller Base.
+> <span style="color:#D32F2F">█</span> **Rouge Premier Ordre** — général fanatique, bâtisseur de Starkiller Base.
 
 ## Résumé
 Général du Premier Ordre, fils de Brendol Hux. Architecte de Starkiller Base. Rivalité féroce avec [[Kylo Ren]]. Devient l'espion de la Résistance par dépit, exécuté par le Général [[Pryde]].

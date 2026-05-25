@@ -18,7 +18,7 @@ tags: [personnage, naboo, doublure, garde-royale, empire]
 
 # Sabé
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — doublure officielle de la Reine Amidala.
+> <span style="color:#FF9800">█</span> **Or République** — doublure officielle de la Reine Amidala.
 
 ## Résumé
 Doublure et garde rapprochée de [[Padmé Amidala]] à Naboo. Continue ses missions secrètes après la mort de Padmé (comics Vader, série Obi-Wan Kenobi).

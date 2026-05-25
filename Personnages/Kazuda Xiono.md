@@ -18,7 +18,7 @@ tags: [personnage, resistance, pilote, espion, sequels]
 
 # Kazuda Xiono
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — pilote-espion de la Résistance, héros de l'animé Resistance.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — pilote-espion de la Résistance, héros de l'animé Resistance.
 
 ## Résumé
 Pilote rebelle, espion infiltré sur la Plateforme Colossus pour observer le Premier Ordre. Protagoniste de la série *Star Wars Resistance*.

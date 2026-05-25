@@ -18,7 +18,7 @@ tags: [personnage, garde-royal, empire, legendes]
 
 # Kir Kanos
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Empire** — Dernier Garde Royal loyal à Palpatine, traqueur implacable de Carnor Jax.
+> <span style="color:#616161">█</span> **Empire** — Dernier Garde Royal loyal à Palpatine, traqueur implacable de Carnor Jax.
 
 ## Résumé
 Garde Royal Impérial de la garnison personnelle de l'Empereur, Kir Kanos survit à la mort de Palpatine et jure de venger son maître contre Carnor Jax, le traître. Sous l'identité de Kenix Kil, il devient une légende silencieuse de l'après-Endor, refusant à la fois la Nouvelle République et l'Empire corrompu.

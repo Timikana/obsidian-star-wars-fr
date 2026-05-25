@@ -11,7 +11,7 @@ tags: [concept, force, biologie, midichloriens, canon]
 # Médichloriens
 
 > [!color] Concept / Biologie de la Force
-> <span style="color:#FFD700">█</span> **Médichloriens** — micro-organismes symbiotiques permettant à la vie consciente de communier avec la [[La Force|Force]].
+> <span style="color:#FFC107">█</span> **Médichloriens** — micro-organismes symbiotiques permettant à la vie consciente de communier avec la [[La Force|Force]].
 
 ## Résumé
 

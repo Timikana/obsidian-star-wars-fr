@@ -14,7 +14,7 @@ tags: [evenement, bataille, prelogie]
 
 # Bataille de Naboo
 > [!color] Faction victorieuse
-> <span style="color:#C9A227">█</span> **Naboo / Jedi / Gungans** — Libération de Naboo et premier duel face aux Sith depuis un millénaire.
+> <span style="color:#FF9800">█</span> **Naboo / Jedi / Gungans** — Libération de Naboo et premier duel face aux Sith depuis un millénaire.
 
 ## Résumé
 Invasion de [[Naboo]] par la Fédération du Commerce, manipulée par [[Dark Sidious]]. La reine [[Padmé Amidala]] s'allie aux Gungans tandis que les Jedi affrontent [[Dark Maul]]. La victoire propulse [[Palpatine]] au poste de Chancelier suprême.

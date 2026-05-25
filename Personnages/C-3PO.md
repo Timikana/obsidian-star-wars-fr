@@ -19,7 +19,7 @@ tags: [personnage, droide, protocole, dore, clone-wars, empire, sequels]
 # C-3PO
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Doré** — armure dorée signature, droïde de protocole 6 millions de langues.
+> <span style="color:#FF9800">█</span> **Doré** — armure dorée signature, droïde de protocole 6 millions de langues.
 
 ## Résumé
 Droïde de protocole construit enfant par [[Anakin Skywalker]] sur Tatooine. Compagnon inséparable de [[R2-D2]]. Mémoire effacée à la fin ép. III, recouvrée durant la Trilogie Originale.

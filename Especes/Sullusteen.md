@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Sullustéen
 
 > [!color] Espèce sentiente — Bordure Extérieure
-> <span style="color:#D2B48C">█</span> **Sullustéen** — peuple troglodyte aux grands yeux noirs, ingénieurs et pilotes de [[Sullust]].
+> <span style="color:#8D6E63">█</span> **Sullustéen** — peuple troglodyte aux grands yeux noirs, ingénieurs et pilotes de [[Sullust]].
 
 ## Résumé
 

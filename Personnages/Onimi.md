@@ -18,7 +18,7 @@ tags: [personnage, legendes, yuuzhan-vong, marionnettiste]
 
 # Onimi
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — bouffon Yuuzhan Vong, vrai marionnettiste de Shimrra et de l'invasion.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — bouffon Yuuzhan Vong, vrai marionnettiste de Shimrra et de l'invasion.
 
 ## Résumé
 **[Légendes]** Bouffon difforme du Suprême Overlord, **véritable** cerveau machiavélique derrière l'invasion Yuuzhan Vong et la corruption de Shimrra.

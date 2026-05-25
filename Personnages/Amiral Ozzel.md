@@ -18,7 +18,7 @@ tags: [personnage, empire, amiral, executor, trilogie-originale]
 
 # Amiral Ozzel
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — étranglé par Vador pour incompétence à Hoth.
+> <span style="color:#616161">█</span> **Gris Empire** — étranglé par Vador pour incompétence à Hoth.
 
 ## Résumé
 Premier amiral de l'*Executor*. Étranglé par [[Dark Vador]] (« You have failed me for the last time ») pour avoir alerté la Rébellion de l'arrivée de la flotte. Remplacé par [[Amiral Piett]].

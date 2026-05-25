@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith-pur, korriban, ancien]
 
 # Marka Ragnos
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Dark Lord Sith ancestral, esprit dans la Vallée des Seigneurs Noirs.
+> <span style="color:#B71C1C">█</span> **Rouge** — Dark Lord Sith ancestral, esprit dans la Vallée des Seigneurs Noirs.
 
 ## Résumé
 **[Légendes]** Dark Lord Sith ayant régné un siècle. Esprit hante sa tombe sur Korriban. [[Naga Sadow]] hérite de son sceptre.

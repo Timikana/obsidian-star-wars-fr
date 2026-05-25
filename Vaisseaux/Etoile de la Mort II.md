@@ -15,7 +15,7 @@ tags: [vaisseau, station, empire, endor]
 
 # Étoile de la Mort II
 > [!color] Empire Galactique
-> <span style="color:#6b7280">█</span> **Station de combat** — l'arme ultime de l'[[Empereur Palpatine]], piège à [[Endor]].
+> <span style="color:#616161">█</span> **Station de combat** — l'arme ultime de l'[[Empereur Palpatine]], piège à [[Endor]].
 
 ## Résumé
 La **DS-2 Death Star II** est la seconde [[Etoile de la Mort]] impériale, construite en orbite de la lune forestière d'[[Endor]] sous la supervision personnelle de l'[[Empereur Palpatine]] et de [[Moff Jerjerrod]]. Plus grande que sa devancière (~160 km de diamètre), elle corrige le défaut de l'évent thermique tout en arborant un super-laser bien plus puissant capable de pulvériser des [[Mon Calamari Star Cruiser]] d'un seul tir. Officiellement présentée comme inachevée pour attirer l'[[Alliance Rebelle]] dans un piège, elle est en réalité partiellement opérationnelle et protégée par un bouclier déflecteur projeté depuis le générateur d'Endor. La [[Bataille d'Endor]] (4 ABY) voit la flotte rebelle menée par l'[[Amiral Ackbar]] et le [[Faucon Millenium]] de [[Lando Calrissian]] charger les batteries impériales pendant que [[Han Solo]] et [[Leia Organa]] détruisent le générateur au sol. [[Luke Skywalker]] affronte simultanément [[Dark Vador]] et l'Empereur dans la salle du trône au sommet de la station. Après la rédemption d'[[Anakin Skywalker]] et la mort de [[Sheev Palpatine]], Lando et [[Wedge Antilles]] s'enfoncent dans le cœur du réacteur et détruisent l'Étoile, marquant la fin effective de l'[[Empire Galactique]] et le triomphe de la [[Rébellion]].

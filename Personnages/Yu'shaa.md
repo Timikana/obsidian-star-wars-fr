@@ -18,7 +18,7 @@ tags: [personnage, legendes, yuuzhan-vong, heretique]
 
 # Yu'shaa
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Prophète hérétique des Shamed Ones.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Prophète hérétique des Shamed Ones.
 
 ## Résumé
 **[Légendes]** Identité prise par [[Nom Anor]] pour mener le mouvement hérétique des Shamed Ones, vénérant les Jedi comme sauveurs. Manipulation devenue malgré lui un véritable espoir religieux.

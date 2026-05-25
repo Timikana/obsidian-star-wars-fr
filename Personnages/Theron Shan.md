@@ -18,7 +18,7 @@ tags: [personnage, sis, espion, swtor, old-republic, legendes]
 
 # Theron Shan
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Rébellion** — Espion d'élite du SIS, fils de Satele Shan, sans pouvoir mais redoutable.
+> <span style="color:#FF5722">█</span> **Rébellion** — Espion d'élite du SIS, fils de Satele Shan, sans pouvoir mais redoutable.
 
 ## Résumé
 Fils caché de la Grand Maître Satele Shan et du soldat Jace Malcom, Theron Shan est dépourvu de sensibilité à la Force mais devient l'un des meilleurs agents du Strategic Information Service. Co-fondateur de l'Alliance avec Lana Beniko, il joue un rôle crucial dans la chute de Valkorion.

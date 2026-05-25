@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, jedi, kotor, traya]
 
 # Kreia / Dark Traya
 > [!color] Couleur signature
-> <span style="color:#8E24AA">█</span> **Violet** — maîtresse philosophe ambiguë, Sith déchue redevenue Jedi.
+> <span style="color:#9C27B0">█</span> **Violet** — maîtresse philosophe ambiguë, Sith déchue redevenue Jedi.
 
 ## Résumé
 **[Légendes]** Maîtresse philosophe complexe, ancienne Sith Lord du Triumvirate exilée par [[Dark Nihilus]] et [[Dark Sion]]. Mentor manipulateur de [[Meetra Surik]]. Une des figures les plus respectées du Légende.

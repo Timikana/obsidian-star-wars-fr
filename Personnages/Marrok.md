@@ -19,7 +19,7 @@ tags: [personnage, inquisiteur, nightsister, revenant, marrok]
 # Marrok
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — sabre Inquisiteur, mais nature surnaturelle révélée par fumée verte de magie Nightsister à sa mort.
+> <span style="color:#B71C1C">█</span> **Rouge** — sabre Inquisiteur, mais nature surnaturelle révélée par fumée verte de magie Nightsister à sa mort.
 
 ## Résumé
 Mercenaire silencieux servant [[Morgan Elsbeth]], probable revenant créé par magie Nightsister à partir d'un Inquisiteur mort. Tué par [[Ahsoka Tano]] sur Seatos.

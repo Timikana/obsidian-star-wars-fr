@@ -18,7 +18,7 @@ tags: [personnage, jedi, tholothian, conseil, prelogie, clone-wars]
 
 # Adi Gallia
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Maîtresse du Conseil, tuée par Savage Opress.
+> <span style="color:#2196F3">█</span> **Bleu** — Maîtresse du Conseil, tuée par Savage Opress.
 
 ## Résumé
 Maîtresse Jedi du Conseil, tuée par [[Savage Opress]] dans un duel pendant la Guerre des Clones.

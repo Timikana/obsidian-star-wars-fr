@@ -19,7 +19,7 @@ tags: [personnage, jedi, gardien-temple, acolyte]
 # Yord Fandar
 
 > [!color] Couleur signature
-> <span style="color:#FDD835">█</span> **Jaune** — chevalier Gardien du Temple.
+> <span style="color:#FFC107">█</span> **Jaune** — chevalier Gardien du Temple.
 
 ## Résumé
 Chevalier Jedi rigide formé par [[Indara]]. Allié de [[Sol]] dans l'enquête sur les meurtres. Tué par [[Qimir]] sur Khofar.

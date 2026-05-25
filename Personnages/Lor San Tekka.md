@@ -18,7 +18,7 @@ tags: [personnage, eglise-force, jakku, sequels]
 
 # Lor San Tekka
 > [!color] Couleur signature
-> <span style="color:#00897B">█</span> **Sarcelle Jedi** — explorateur, gardien de la Force, indique l'emplacement de Luke.
+> <span style="color:#2196F3">█</span> **Sarcelle Jedi** — explorateur, gardien de la Force, indique l'emplacement de Luke.
 
 ## Résumé
 Membre de l'Église des Forces, ancien allié de [[Leia Organa]]. Détient la carte menant à [[Luke Skywalker]]. Tué par [[Kylo Ren]] sur Jakku.

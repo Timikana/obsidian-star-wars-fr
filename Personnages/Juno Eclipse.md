@@ -18,7 +18,7 @@ tags: [personnage, legendes, pilote, force-unleashed, starkiller, empire]
 
 # Juno Eclipse
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — pilote impériale déserteuse, compagne de Starkiller.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — pilote impériale déserteuse, compagne de Starkiller.
 
 ## Résumé
 **[Légendes]** Pilote de Starkiller / [[Galen Marek]]. Déserte vers la Rébellion ; capitaine du *Salvation*.

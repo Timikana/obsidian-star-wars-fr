@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, premier-dark-lord, korriban]
 
 # Ajunta Pall
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — premier Dark Lord des Sith, fondateur de l'ordre Sith après l'Exil.
+> <span style="color:#B71C1C">█</span> **Rouge** — premier Dark Lord des Sith, fondateur de l'ordre Sith après l'Exil.
 
 ## Résumé
 **[Légendes]** Premier Dark Lord des Sith, ancien Jedi exilé. Fonde l'Ordre Sith sur Korriban après les Hundred-Year Darkness. Esprit dans sa tombe.

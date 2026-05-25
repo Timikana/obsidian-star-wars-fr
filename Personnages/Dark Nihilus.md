@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, kotor, masque]
 
 # Dark Nihilus
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Sith dévoreur de Force, masque iconique.
+> <span style="color:#B71C1C">█</span> **Rouge** — Sith dévoreur de Force, masque iconique.
 
 ## Résumé
 **[Légendes]** Membre du Sith Triumvirate avec [[Dark Sion]] et [[Kreia]]. Dévore la Force des planètes entières. Masque blanc et capuche signature.

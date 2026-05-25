@@ -18,7 +18,7 @@ tags: [personnage, rebellion, cloud-riders, proto-alliance, empire]
 
 # Enfys Nest
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — leader des Cloud-Riders, fondatrice d'une proto-Alliance.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — leader des Cloud-Riders, fondatrice d'une proto-Alliance.
 
 ## Résumé
 Adolescente cheffe des Cloud-Riders, brigands devenus combattants pour la liberté. Se révèle alliée de la cause naissante avec [[Saw Gerrera]].

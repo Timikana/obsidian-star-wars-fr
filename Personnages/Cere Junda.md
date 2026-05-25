@@ -19,7 +19,7 @@ tags: [personnage, jedi, fallen-order, survivant, hidden-path, empire]
 # Cere Junda
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — maître de Cal, ancien torturée par les Inquisiteurs.
+> <span style="color:#2196F3">█</span> **Bleu** — maître de Cal, ancien torturée par les Inquisiteurs.
 
 ## Résumé
 Maîtresse Jedi survivante. Brisée sous la torture impériale, elle a involontairement trahi sa padawan [[Trilla Suduri]] (Seconde Sœur). Mentor de [[Cal Kestis]]. Tuée par Bode Akuna.

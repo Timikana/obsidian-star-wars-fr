@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, ombre]
 
 # Welk
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge Sith** — Apprenti Sith de [[Lumiya]], allié des Joiners.
+> <span style="color:#B71C1C">█</span> **Rouge Sith** — Apprenti Sith de [[Lumiya]], allié des Joiners.
 
 ## Résumé
 **[Légendes]** Survivant de Myrkr, Welk devient un Dark Jedi sous l'influence de [[Lumiya]] et des Killiks. Avec Lomi Plo, il enlève [[Allana Solo]] et est tué par [[Jacen Solo]].

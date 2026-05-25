@@ -14,7 +14,8 @@ tags: [creature, mythosaure, mandalore, legende]
 > <span style="color:#4A148C">█</span> **Mythique** — bête primordiale de Mandalore, symbole du peuple.
 
 ## Résumé
-Créature primordiale de [[Mandalore]] supposée éteinte. Le crâne de Mythosaure est le **symbole héraldique** des Mandaloriens. [[Bo-Katan Kryze]] en aperçoit un vivant dans les profondeurs des Mines (S3 Mando), confirmant qu'ils existent encore.
+Le mythosaure est une créature primordiale colossale de [[Mandalore]], dont la légende raconte qu'elle régnait sur les plaines et les océans avant que **Mandalore le Grand** ne les dompte au moyen du premier *beskar'gam* — fondant ainsi la culture guerrière mandalorienne. Le **crâne de mythosaure** est devenu le symbole héraldique éternel du peuple, gravé sur les armures, les bannières et le pommeau du [[Darksaber]] des Maîtres de Mandalore. Longtemps supposée éteinte depuis les guerres anciennes et stérilisée par les Excisions impériales d'[[Empereur Palpatine|Dark Sidious]], l'espèce refait surface lorsque [[Bo-Katan Kryze]] aperçoit un mythosaure vivant dans les profondeurs des **Living Waters** sous Sundari ; [[Din Djarin]] manque s'y noyer avant qu'elle ne le sauve. La vision est interprétée par [[L'Armurière]] comme un présage de la renaissance mandalorienne et de la reconquête sous bannière du [[Sabre noir]]. Sa réapparition relance les espoirs d'une **Nouvelle Mandalore** unifiée.
 
 ## Apparitions
-Séries The Mandalorian (S3) · Mention récurrente
+- [[The Mandalorian]] S3 (Living Waters)
+- *The Book of Boba Fett* (gravures, mentions)

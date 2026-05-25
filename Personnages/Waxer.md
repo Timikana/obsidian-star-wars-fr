@@ -19,7 +19,7 @@ tags: [personnage, clone, 212, ryloth, clone-wars]
 
 # Waxer
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — clone 212e, ami de Boil, sauve la jeune twi'lek Numa sur Ryloth.
+> <span style="color:#FF9800">█</span> **Or République** — clone 212e, ami de Boil, sauve la jeune twi'lek Numa sur Ryloth.
 
 ## Résumé
 Clone de la 212e, partenaire de [[Boil]]. Découvre [[Numa]] enfant sur Ryloth et l'adopte momentanément. Tué sur Umbara par tir ami orchestré par [[Pong Krell]].

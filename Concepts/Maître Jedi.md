@@ -11,7 +11,7 @@ tags: [concept, jedi, rang, canon, legendes]
 # Maître Jedi
 
 > [!color] Concept / Rang Jedi
-> <span style="color:#4169E1">█</span> **Maître Jedi** — rang suprême de l'[[Ordre Jedi]], accordé après formation complète d'un [[Padawan]] au rang de [[Chevalier Jedi]].
+> <span style="color:#2196F3">█</span> **Maître Jedi** — rang suprême de l'[[Ordre Jedi]], accordé après formation complète d'un [[Padawan]] au rang de [[Chevalier Jedi]].
 
 ## Résumé
 

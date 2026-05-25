@@ -19,7 +19,7 @@ tags: [personnage, mandalorien, darksaber, kryze, mandalor, clone-wars, empire, 
 # Bo-Katan Kryze
 
 > [!color] Couleur signature
-> <span style="color:#1A1A1A">█</span> **Noir / Darksaber** — porte le sabre noir à plusieurs reprises ; reine légitime de Mandalore.
+> <span style="color:#212121">█</span> **Noir / Darksaber** — porte le sabre noir à plusieurs reprises ; reine légitime de Mandalore.
 
 ## Résumé
 Sœur de [[Satine Kryze]], leader des Nite Owls de la Death Watch puis de la Résistance Mandalorienne. Détient le [[Darksaber]] dans Rebels (donné par Sabine), le perd à Moff Gideon, le récupère via Din Djarin (S3), unifie Mandalore.

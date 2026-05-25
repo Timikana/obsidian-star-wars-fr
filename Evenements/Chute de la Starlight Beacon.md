@@ -14,7 +14,7 @@ tags: [evenement, bataille, haute-republique, nihil]
 
 # Chute de la Starlight Beacon
 > [!color] Faction victorieuse
-> <span style="color:#4A148C">█</span> **Nihil** — Destruction du symbole le plus brillant de la Haute République.
+> <span style="color:#B71C1C">█</span> **Nihil** — Destruction du symbole le plus brillant de la Haute République.
 
 ## Résumé
 [[Marchion Ro]] infiltre la station-phare [[Starlight Beacon]] avec des Drengir et des saboteurs Nihil. Malgré la défense héroïque de [[Stellan Gios]] et des Jedi présents, les systèmes de la station s'effondrent et elle s'écrase sur la planète Eiram. Le coup symbolique brise le moral de la République.

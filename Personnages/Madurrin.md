@@ -19,7 +19,7 @@ tags: [personnage, legendes, roman, jedi-academy, jedi]
 # Madurrin
 
 > [!color] Sabre
-> <span style="color:#43A047">█</span> **Vert** — Chevalier Jedi alien, première martyre de l'Académie de Yavin.
+> <span style="color:#4CAF50">█</span> **Vert** — Chevalier Jedi alien, première martyre de l'Académie de Yavin.
 
 ## Resume
 

@@ -18,7 +18,7 @@ tags: [personnage, humaine, naboo, famille-naberrie, empire]
 
 # Ryoo Naberrie
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **République** — Nièce aînée de [[Padme Amidala]], petite-fille de [[Ruwee Naberrie]].
+> <span style="color:#FF9800">█</span> **République** — Nièce aînée de [[Padme Amidala]], petite-fille de [[Ruwee Naberrie]].
 
 ## Résumé
 Ryoo Naberrie est la fille aînée de [[Sola Naberrie]] et la nièce de [[Padme Amidala]], portant le prénom de sa grand-mère. Aperçue enfant dans L'Attaque des clones, elle joue avec sa cadette [[Pooja Naberrie|Pooja]] dans la maison du lac. Le roman Queen's Hope explore davantage son lien profond avec Padmé, qui voit en elle l'enfant qu'elle n'a pas encore eu. Tendre, observatrice, Ryoo grandit sous le règne de l'Empire et garde la mémoire de sa tante disparue à travers récits familiaux et fleurs déposées chaque année. Le canon récent la dépeint comme une artiste et historienne naboo, gardienne des archives de la famille et témoin silencieuse des décennies de tyrannie galactique.

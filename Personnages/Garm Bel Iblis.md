@@ -18,7 +18,7 @@ tags: [personnage, senateur, rebellion, corellia, legendes]
 
 # Garm Bel Iblis
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Rébellion** — Sénateur corellien fondateur de l'Alliance Rebelle aux côtés de Mon Mothma et Bail Organa.
+> <span style="color:#FF5722">█</span> **Rébellion** — Sénateur corellien fondateur de l'Alliance Rebelle aux côtés de Mon Mothma et Bail Organa.
 
 ## Résumé
 Sénateur de Corellia et l'un des trois signataires de la Déclaration de Rébellion, Garm Bel Iblis dirige son propre groupe rebelle indépendant après s'être brouillé avec Mon Mothma. Il revient finalement dans le giron de la Nouvelle République à l'époque de Thrawn et devient l'un de ses meilleurs généraux.

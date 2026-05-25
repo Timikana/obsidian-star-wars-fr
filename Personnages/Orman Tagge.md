@@ -19,7 +19,7 @@ tags: [personnage, empire, noble, comic-marvel-1977, legendes, antagoniste]
 # Orman Tagge
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Empire** — baron industriel aveugle, ennemi juré de Dark Vador et de Luke Skywalker.
+> <span style="color:#616161">█</span> **Empire** — baron industriel aveugle, ennemi juré de Dark Vador et de Luke Skywalker.
 
 ## Résumé
 **Baron Orman Tagge** est le chef de la riche et puissante **Maison Tagge**, conglomérat industriel **TaggeCo** rivalisant avec Sienar Fleet Systems et Kuat Drive Yards. Frère de [[Tagge|Cassio Tagge]], **Silas**, **Ulric** et **Domina Tagge**, il devient l'antagoniste central d'un long arc des comics Marvel (1980-1981). **Aveuglé** lors d'un duel humiliant contre [[Dark Vador]] avant la formation de l'Empire, Orman porte un **visor cybernétique** lui restituant une vue partielle et nourrit une haine inextinguible contre le Seigneur Sith. Il monte un complot ambitieux : éliminer Vador et Tarkin, prendre le contrôle de l'**Empire**, et utiliser un nouveau prototype d'arme stellaire — l'**Omega Frost** — pour s'imposer comme nouveau bras armé du **Grand Moff**. Maître d'arme accompli, il s'entraîne au sabre laser et défie [[Luke Skywalker]] en duel sur **Yavin IV**. Ses plans sont déjoués par Luke, [[Han Solo]] et la Rébellion ; il périt dans l'effondrement de ses propres installations. Figure quintessentielle de l'**aristocratie impériale** des comics Marvel, Orman a inspiré toute la mythologie ultérieure des clans nobles loyalistes (les Tagge, Valorum, Eriadu).

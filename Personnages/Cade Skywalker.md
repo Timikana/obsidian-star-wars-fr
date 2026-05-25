@@ -5,7 +5,7 @@ affiliation: [Ordre Jedi (déserteur), Pirates Mynock, Alliance Galactique]
 periode: [Ère Legacy (~130 ABY)]
 statut: "vivant (Légendes)"
 canon: Légendes
-premiere_apparition: Star Wars: Legacy #0 (2006)
+premiere_apparition: "Star Wars: Legacy #0 (2006)"
 acteur_voix: 
 sabre_couleur: vert
 sabre_hex: "#4CAF50"
@@ -18,7 +18,7 @@ tags: [personnage, jedi, skywalker, legacy, legendes]
 
 # Cade Skywalker
 > [!color] Couleur signature
-> <span style="color:#00897B">█</span> **Jedi** — Descendant de [[Luke Skywalker|Luke]], chasseur de primes Jedi déchu de l'ère Legacy.
+> <span style="color:#2196F3">█</span> **Jedi** — Descendant de [[Luke Skywalker|Luke]], chasseur de primes Jedi déchu de l'ère Legacy.
 
 ## Résumé
 Cade Skywalker est le héros de la série de comics Star Wars: Legacy, situé environ 130 ans après la Bataille de Yavin. Descendant direct de [[Luke Skywalker]] via [[Ben Skywalker]], il est le fils du Maître Jedi Kol Skywalker. Survivant du massacre du Temple Jedi par les Sith de [[Dark Krayt]], le jeune Cade renie l'Ordre Jedi, devient chasseur de primes puis pirate à bord du Mynock. Toxicomane au « death sticks », hanté par les fantômes de la Force, il finit par accepter son héritage et s'allie aux Jedi survivants et à l'Empereur [[Roan Fel]] pour combattre Krayt. Son arc explore la culpabilité, la rédemption et la nature ambivalente du nom Skywalker à travers les siècles.

@@ -19,7 +19,7 @@ tags: [personnage, neimoidien, separatistes, federation-commerce, clone-wars]
 # Nute Gunray
 
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — vice-roi de la Fédération du Commerce, lieutenant de Sidious.
+> <span style="color:#616161">█</span> **Gris Empire** — vice-roi de la Fédération du Commerce, lieutenant de Sidious.
 
 ## Résumé
 Vice-roi de la Fédération du Commerce. Bloque Naboo en 32 BBY sur ordre de [[Dark Sidious]]. Membre du Conseil Séparatiste. Tué sur Mustafar par [[Anakin Skywalker]].

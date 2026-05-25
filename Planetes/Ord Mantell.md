@@ -16,7 +16,7 @@ tags: [planete, contrebande, primes, mid-rim, ord-mantell]
 # Ord Mantell
 
 > [!color] Région
-> <span style="color:#FF8F00">█</span> **Bordure Médiane** — vieille colonie militaire devenue capitale des contrebandiers.
+> <span style="color:#9C27B0">█</span> **Bordure Médiane** — vieille colonie militaire devenue capitale des contrebandiers.
 
 ## Résumé
 Ancienne base **Ordnance/Regional Depot** de la République (d'où le préfixe "Ord"), Ord Mantell est devenue au fil des siècles l'un des plus grands hubs de **contrebande, paris, primes et marchés gris** de la Bordure Médiane. Sa Cité Junkland, ses jungles, ses montagnes et ses mégalopoles polluées en font un terrain de jeu privilégié pour chasseurs de primes, mercenaires et flibustiers. [[Han Solo]] y est célèbrement traqué par un chasseur de primes peu avant *L'Empire contre-attaque*. Dans *The Bad Batch* et *The Mandalorian*, Ord Mantell sert de plaque tournante : [[Cid]] y tient son bar-cantina au sous-sol de la Cité Mantelliane, dépôt opérationnel du **Clone Force 99** durant tout *The Bad Batch*. Sous la jeune [[Nouvelle République]], la planète reste largement hors juridiction effective et abrite trafiquants, gangs et bases pirates.

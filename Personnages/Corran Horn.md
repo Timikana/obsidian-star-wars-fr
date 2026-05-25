@@ -18,7 +18,7 @@ tags: [personnage, jedi, pilote, legendes]
 
 # Corran Horn
 > [!color] Couleur signature
-> <span style="color:#00897B">█</span> **Vert Jedi** — pilote de Rogue Squadron descendant des Halcyon, devenu Maître Jedi.
+> <span style="color:#2196F3">█</span> **Vert Jedi** — pilote de Rogue Squadron descendant des Halcyon, devenu Maître Jedi.
 
 ## Résumé
 Ancien officier de CorSec sur Corellia, devient l'un des meilleurs pilotes du Rogue Squadron sous [[Wedge Antilles]]. Plus tard formé par [[Luke Skywalker]], il révèle son héritage Jedi Halcyon et combat les Yuuzhan Vong.

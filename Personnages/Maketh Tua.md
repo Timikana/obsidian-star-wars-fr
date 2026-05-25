@@ -18,7 +18,7 @@ tags: [personnage, empire, lothal]
 
 # Maketh Tua
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — ministre impérial de Lothal qui tente de défecter.
+> <span style="color:#616161">█</span> **Gris Empire** — ministre impérial de Lothal qui tente de défecter.
 
 ## Résumé
 Ministre impérial de Lothal. Tente de faire défection vers les Spectres ; tuée dans une explosion orchestrée par [[Agent Kallus]] sur ordre.

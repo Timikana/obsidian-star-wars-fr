@@ -18,7 +18,7 @@ tags: [personnage, sorciere, brendok, coven, force]
 
 # Mère Aniseya
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — sorcière, mère des jumelles Osha/Mae, tuée par Sol.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — sorcière, mère des jumelles Osha/Mae, tuée par Sol.
 
 ## Résumé
 Cheffe du Coven de sorcières de Brendok, partage la maternité des jumelles ([[Osha Aniseya]], [[Mae Aniseya]]) avec [[Mère Koril]]. Tuée par [[Sol]] dans un malentendu tragique.

@@ -19,7 +19,7 @@ tags: [personnage, rebellion, pilote, jedha, empire]
 # Bodhi Rook
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — pilote cargo impérial déserteur, messager de Galen.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — pilote cargo impérial déserteur, messager de Galen.
 
 ## Résumé
 Pilote cargo impérial originaire de Jedha, recruté par [[Galen Erso]] pour porter son message à [[Saw Gerrera]]. Rejoint l'équipe de Rogue One. Mort en transmettant les plans depuis la base de Scarif.

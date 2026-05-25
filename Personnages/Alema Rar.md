@@ -5,7 +5,7 @@ affiliation: [Nouvel Ordre Jedi (déchue), Sœurs de la Nuit]
 periode: [NJO, Dark Nest, Legacy of the Force (Légendes)]
 statut: "morte (40 ABY)"
 canon: Légendes
-premiere_apparition: Dark Tide I: Onslaught (2000)
+premiere_apparition: "Dark Tide I: Onslaught (2000)"
 acteur_voix: —
 sabre_couleur: rouge
 sabre_hex: "#D32F2F"
@@ -19,7 +19,7 @@ tags: [personnage, legendes, roman, njo, jedi, dechue, twilek]
 # Alema Rar
 
 > [!color] Sabre
-> <span style="color:#D32F2F">█</span> **Rouge** — Jedi Twi'lek devenue folle, traquée par les Solo et Skywalker.
+> <span style="color:#B71C1C">█</span> **Rouge** — Jedi Twi'lek devenue folle, traquée par les Solo et Skywalker.
 
 ## Resume
 

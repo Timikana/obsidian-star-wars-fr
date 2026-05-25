@@ -19,7 +19,7 @@ tags: [personnage, resistance, mecanicienne, sequels]
 # Rose Tico
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — mécanicienne de la Résistance, sœur de Paige.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — mécanicienne de la Résistance, sœur de Paige.
 
 ## Résumé
 Mécanicienne de la Résistance. Sœur de Paige Tico (morte en bombardant un dreadnought du Premier Ordre). Sauve [[Finn]] de son sacrifice sur Crait. Rôle réduit dans ép. IX.

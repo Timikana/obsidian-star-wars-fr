@@ -18,7 +18,7 @@ tags: [personnage, contrebandier, courtier, legendes]
 
 # Talon Karrde
 > [!color] Couleur signature
-> <span style="color:#FB8C00">█</span> **Orange Contrebandier** — chef contrebandier et courtier d'informations, employeur de [[Mara Jade]].
+> <span style="color:#FF9800">█</span> **Orange Contrebandier** — chef contrebandier et courtier d'informations, employeur de [[Mara Jade]].
 
 ## Résumé
 Successeur de Jorj Car'das à la tête d'une vaste organisation de contrebande et de renseignement. Recueille [[Mara Jade]] comme lieutenant. Aide la Nouvelle République face au [[Grand Amiral Thrawn]] tout en restant officiellement neutre.

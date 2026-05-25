@@ -19,7 +19,7 @@ tags: [personnage, jedi-dechu, inquisitrice, mirialan, redemption, clone-wars, e
 # Barriss Offee
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — devenue Inquisitrice (Tales of the Empire) puis quitte la voie obscure.
+> <span style="color:#B71C1C">█</span> **Rouge** — devenue Inquisitrice (Tales of the Empire) puis quitte la voie obscure.
 
 ## Résumé
 Padawan de [[Luminara Unduli]]. Disillusionnée par l'Ordre, elle bombarde le Temple Jedi et accuse [[Ahsoka Tano]]. Devient Inquisitrice (Tales of the Empire) puis se rebelle contre l'Inquisitorius.

@@ -11,7 +11,7 @@ tags: [concept, jedi, rang, formation, canon, legendes]
 # Padawan
 
 > [!color] Concept / Rang Jedi
-> <span style="color:#4169E1">█</span> **Padawan** — apprenti Jedi attaché à un Maître unique pour parfaire sa formation au combat et à la [[La Force|Force]].
+> <span style="color:#2196F3">█</span> **Padawan** — apprenti Jedi attaché à un Maître unique pour parfaire sa formation au combat et à la [[La Force|Force]].
 
 ## Résumé
 

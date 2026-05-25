@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Dug
 
 > [!color] Espèce sentiente — Bordure Médiane
-> <span style="color:#8B4513">█</span> **Dug** — humanoïdes inversés et belliqueux de [[Malastare]], passionnés de courses violentes.
+> <span style="color:#8D6E63">█</span> **Dug** — humanoïdes inversés et belliqueux de [[Malastare]], passionnés de courses violentes.
 
 ## Résumé
 

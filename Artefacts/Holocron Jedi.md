@@ -12,7 +12,7 @@ tags: [artefact, holocron, jedi, savoir, empire]
 
 # Holocron Jedi
 > [!color] Symbolique
-> <span style="color:#00897B">█</span> — Sphère lumineuse contenant la mémoire millénaire de l'Ordre Jedi.
+> <span style="color:#2196F3">█</span> — Sphère lumineuse contenant la mémoire millénaire de l'Ordre Jedi.
 
 ## Résumé
 Les holocrons Jedi sont des dispositifs cubiques ou sphériques cristallins activés par la Force, contenant l'enseignement, l'histoire et les secrets de l'[[Ordre Jedi]]. Seuls les détenteurs de la Force lumineuse peuvent les ouvrir. Ils sont conservés dans la grande Bibliothèque du [[Temple Jedi]] de [[Coruscant]].

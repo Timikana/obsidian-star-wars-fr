@@ -14,7 +14,7 @@ tags: [evenement, bataille, etoile-de-la-mort]
 
 # Bataille de Yavin
 > [!color] Faction victorieuse
-> <span style="color:#FF6F00">█</span> **Alliance Rebelle** — Destruction de la première [[Étoile de la Mort]] et naissance du mythe Skywalker.
+> <span style="color:#FF5722">█</span> **Alliance Rebelle** — Destruction de la première [[Étoile de la Mort]] et naissance du mythe Skywalker.
 
 ## Résumé
 L'[[Étoile de la Mort]] arrive sur [[Yavin IV]] pour anéantir la base rebelle. Lors de l'assaut désespéré, [[Luke Skywalker]] place une torpille à protons dans le port d'évacuation grâce à la Force et à l'aide in extremis de [[Han Solo]].

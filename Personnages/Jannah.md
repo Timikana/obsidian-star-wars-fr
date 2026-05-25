@@ -18,7 +18,7 @@ tags: [personnage, resistance, stormtrooper-deserteur, sequels]
 
 # Jannah
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — ancienne stormtrooper, leader des Compagnie 77 sur Kef Bir.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — ancienne stormtrooper, leader des Compagnie 77 sur Kef Bir.
 
 ## Résumé
 Ancienne stormtrooper du Premier Ordre. Cheffe de la Compagnie 77 (déserteurs) sur Kef Bir. Possible fille de [[Lando Calrissian]] (suggéré dans le film).

@@ -19,7 +19,7 @@ tags: [personnage, legendes, roman, fate-of-the-jedi, sith, romance]
 # Vestara Khai
 
 > [!color] Sabre
-> <span style="color:#D32F2F">█</span> **Rouge** — apprentie Sith de Kesh, amour interdit de Ben Skywalker.
+> <span style="color:#B71C1C">█</span> **Rouge** — apprentie Sith de Kesh, amour interdit de Ben Skywalker.
 
 ## Resume
 

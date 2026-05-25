@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon, legendes]
 # Mirialan
 
 > [!color] Espèce sentiente — Bordure Extérieure
-> <span style="color:#8FBC8F">█</span> **Mirialan** — peuple spirituel aux tatouages rituels, originaire de [[Mirial]].
+> <span style="color:#4CAF50">█</span> **Mirialan** — peuple spirituel aux tatouages rituels, originaire de [[Mirial]].
 
 ## Résumé
 

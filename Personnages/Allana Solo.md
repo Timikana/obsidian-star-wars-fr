@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, hapes, solo]
 
 # Allana Solo (Légendes)
 > [!color] Couleur signature
-> <span style="color:#00897B">█</span> **Sarcelle Jedi** — fille de Jacen et Tenel Ka, héritière de Hapes.
+> <span style="color:#2196F3">█</span> **Sarcelle Jedi** — fille de Jacen et Tenel Ka, héritière de Hapes.
 
 ## Résumé
 **[Légendes]** Fille secrète de [[Jacen Solo]] et [[Tenel Ka]]. Héritière du trône de Hapes. Élevée comme "Amelia" par ses grands-parents [[Han Solo]] et [[Leia Organa]] après la mort de Caedus.

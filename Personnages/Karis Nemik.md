@@ -18,7 +18,7 @@ tags: [personnage, andor, manifeste, ideologue, empire]
 
 # Karis Nemik
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — idéologue de la cellule Aldhani, auteur du manifeste rebelle.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — idéologue de la cellule Aldhani, auteur du manifeste rebelle.
 
 ## Résumé
 Jeune idéologue de la cellule d'Aldhani. Auteur d'un manifeste politique posthume qui inspire [[Cassian Andor]] et la Rébellion.

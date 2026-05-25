@@ -18,7 +18,7 @@ tags: [personnage, empire, scientifique, cyborg, comics]
 
 # Doctor Cylo
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — scientifique cyborg multipliant ses corps, rival de Vador.
+> <span style="color:#616161">█</span> **Gris Empire** — scientifique cyborg multipliant ses corps, rival de Vador.
 
 ## Résumé
 Scientifique impérial cyborg, transfère sa conscience entre corps clones. Crée des cyborgs pour rivaliser avec [[Dark Vador]] sur ordre de Sidious. Tué par Vador.

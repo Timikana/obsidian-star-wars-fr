@@ -18,7 +18,7 @@ tags: [personnage, legendes, solo, jedi, NJO]
 
 # Anakin Solo (Légendes)
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — fils cadet Solo, héros de la guerre Yuuzhan Vong.
+> <span style="color:#2196F3">█</span> **Bleu** — fils cadet Solo, héros de la guerre Yuuzhan Vong.
 
 ## Résumé
 **[Légendes]** Fils cadet de [[Han Solo]] et [[Leia Organa]], frère de [[Jaina Solo]] et [[Jacen Solo]]. Nommé en hommage à son grand-père Anakin Skywalker. Mort héroïque contre les [[Yuuzhan Vong]].

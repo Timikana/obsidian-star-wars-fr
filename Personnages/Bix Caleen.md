@@ -19,7 +19,7 @@ tags: [personnage, rebellion, andor, ferrix, empire]
 # Bix Caleen
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — mécanicienne de Ferrix, intermédiaire entre Cassian et Luthen.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — mécanicienne de Ferrix, intermédiaire entre Cassian et Luthen.
 
 ## Résumé
 Mécanicienne sur Ferrix, intermédiaire originale entre [[Cassian Andor]] et [[Luthen Rael]]. Capturée et torturée par [[Dr Gorst]] (ISB). Romance avec Cassian. Quitte la galaxie à la fin de S2.

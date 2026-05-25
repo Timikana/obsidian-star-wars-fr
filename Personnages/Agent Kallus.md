@@ -19,7 +19,7 @@ tags: [personnage, isb, rebellion, fulcrum, defection, empire]
 # Agent Kallus
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — agent ISB devenu informateur Fulcrum après une nuit avec Zeb sur Bahryn.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — agent ISB devenu informateur Fulcrum après une nuit avec Zeb sur Bahryn.
 
 ## Résumé
 Agent de l'ISB chassant les Spectres, change de camp après être resté coincé sur Bahryn avec [[Zeb Orrelios]]. Devient agent Fulcrum infiltré, fait défection en saison 4 de Rebels.

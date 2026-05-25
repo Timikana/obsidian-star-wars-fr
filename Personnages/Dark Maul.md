@@ -19,7 +19,7 @@ tags: [personnage, sith, dathomir, zabrak, darksaber, clone-wars, empire]
 # Dark Maul
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — sabre laser double-lame, signature visuelle de toute la prélogie.
+> <span style="color:#B71C1C">█</span> **Rouge** — sabre laser double-lame, signature visuelle de toute la prélogie.
 
 ## Résumé
 Zabrak Dathomirien, fils de [[Mère Talzin]], frère de [[Savage Opress]]. Apprenti de [[Dark Sidious]], tue [[Qui-Gon Jinn]]. Coupé en deux par [[Obi-Wan Kenobi]], survit, retrouvé par Savage. Devient seigneur de Mandalore, du Collectif de l'Ombre, puis du Crimson Dawn.

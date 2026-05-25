@@ -19,7 +19,7 @@ tags: [personnage, rebellion, twilek, pilote, ryloth, spectres, empire]
 # Hera Syndulla
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — pilote ace, capitaine du Ghost, générale rebelle.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — pilote ace, capitaine du Ghost, générale rebelle.
 
 ## Résumé
 Fille de [[Cham Syndulla]] (héros de la résistance de Ryloth pendant la Guerre des Clones). Capitaine du *Ghost*, leader des Spectres avec son partenaire [[Kanan Jarrus]]. Mère de [[Jacen Syndulla]] (fils de Kanan). Générale dans la Nouvelle République.

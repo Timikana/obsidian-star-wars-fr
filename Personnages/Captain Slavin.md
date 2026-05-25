@@ -18,7 +18,7 @@ tags: [personnage, humain, empire, rebels]
 
 # Captain Slavin
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Empire** — Capitaine impérial occupant la résidence Syndulla sur Ryloth.
+> <span style="color:#616161">█</span> **Empire** — Capitaine impérial occupant la résidence Syndulla sur Ryloth.
 
 ## Résumé
 Le Capitaine Slavin est un officier impérial humain au tempérament arrogant, installé dans la résidence familiale des Syndulla sur Ryloth comme symbole de la domination impériale sur les Twi'leks. Lorsque [[Hera Syndulla]] et [[Ezra Bridger]] infiltrent la propriété pour libérer [[Cham Syndulla]], Slavin tient tête à Cham et exige le retour de l'esclave [[Numa]] contre la libération du résistant. L'épisode "Homecoming" de Star Wars Rebels met en valeur sa cruauté sèche et son mépris colonial. Il survit à l'épisode mais subit une humiliation politique. Figure symbolique de l'oppression impériale sur les mondes Twi'leks.

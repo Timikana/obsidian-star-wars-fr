@@ -14,7 +14,7 @@ tags: [evenement, massacre, andor]
 
 # Massacre de Ghorman
 > [!color] Faction victorieuse
-> <span style="color:#424242">█</span> **Empire Galactique** — Massacre de civils manifestants, déclencheur officiel de la formation de l'Alliance Rebelle.
+> <span style="color:#616161">█</span> **Empire Galactique** — Massacre de civils manifestants, déclencheur officiel de la formation de l'Alliance Rebelle.
 
 ## Résumé
 Sur [[Ghorman]], la population manifeste pacifiquement contre l'extraction impériale du minerai kalkite, opération qui condamne la planète. Les troupes de choc impériales ouvrent le feu sur la place publique, sur ordre direct de [[Krennic]] et avec la complicité de l'ISB.

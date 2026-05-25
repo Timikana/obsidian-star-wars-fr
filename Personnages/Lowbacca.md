@@ -18,7 +18,7 @@ tags: [personnage, legendes, wookiee, jedi]
 
 # Lowbacca
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi Wookiee, neveu de Chewbacca.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi Wookiee, neveu de Chewbacca.
 
 ## Résumé
 **[Légendes]** Jedi Wookiee, neveu de [[Chewbacca]]. Compagnon des jumeaux Solo à l'Académie Jedi. Sabre bleu de cristal kashyyyk.

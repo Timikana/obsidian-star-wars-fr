@@ -18,7 +18,7 @@ tags: [personnage, inquisiteur, dowutin, empire]
 
 # Neuvième Sœur
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Inquisitrice Dowutin imposante.
+> <span style="color:#B71C1C">█</span> **Rouge** — Inquisitrice Dowutin imposante.
 
 ## Résumé
 Inquisitrice corpulente Dowutin. Tuée par [[Cal Kestis]] dans *Fallen Order*.

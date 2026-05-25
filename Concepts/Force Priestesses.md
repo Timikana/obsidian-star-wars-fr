@@ -11,7 +11,7 @@ tags: [concept, force, esprit, metaphysique, canon]
 # Force Priestesses
 
 > [!color] Concept métaphysique
-> <span style="color:#F5F5F5">█</span> **Prêtresses de la Force** — cinq esprits-gardiens chargés de transmettre l'art de l'immortalité par la [[La Force|Force]].
+> <span style="color:#ECEFF1">█</span> **Prêtresses de la Force** — cinq esprits-gardiens chargés de transmettre l'art de l'immortalité par la [[La Force|Force]].
 
 ## Résumé
 

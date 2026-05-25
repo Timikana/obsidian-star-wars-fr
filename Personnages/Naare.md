@@ -18,7 +18,7 @@ tags: [personnage, sith, espionne, canon]
 
 # Naare
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Sith** — Sith infiltrée se faisant passer pour une Jedi auprès des enfants Pasaana.
+> <span style="color:#B71C1C">█</span> **Sith** — Sith infiltrée se faisant passer pour une Jedi auprès des enfants Pasaana.
 
 ## Résumé
 Naare est une Sith au service de l'Empire qui se déguise en Chevalier Jedi pour manipuler un groupe d'enfants ayant trouvé un holocron Jedi sur Devaron. Elle utilise un sabre laser rouge dissimulé et cherche à éliminer les derniers vestiges de l'Ordre Jedi.

@@ -13,7 +13,7 @@ tags: [espece, especes-sentientes, canon]
 # Kaminoan
 
 > [!color] Espèce sentiente — Bordure Extérieure
-> <span style="color:#E0FFFF">█</span> **Kaminoan** — généticiens élancés de [[Kamino]], créateurs de la [[Grande Armée de la République]].
+> <span style="color:#ECEFF1">█</span> **Kaminoan** — généticiens élancés de [[Kamino]], créateurs de la [[Grande Armée de la République]].
 
 ## Résumé
 

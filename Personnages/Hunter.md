@@ -19,7 +19,7 @@ tags: [personnage, clone, bad-batch, sergeant, clone-wars, empire]
 # Hunter
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — sergent du Bad Batch, mutation : sens hyper-développés.
+> <span style="color:#FF9800">█</span> **Or République** — sergent du Bad Batch, mutation : sens hyper-développés.
 
 ## Résumé
 Clone défectueux aux sens hyper-aiguisés (similaires à un traqueur), leader du Bad Batch. Père adoptif d'[[Omega]] après la chute de la République.

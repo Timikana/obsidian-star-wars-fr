@@ -18,7 +18,7 @@ tags: [personnage, andor, prison, narkina, empire]
 
 # Kino Loy
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — chef d'unité à Narkina-5, mène la révolte avec Cassian.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — chef d'unité à Narkina-5, mène la révolte avec Cassian.
 
 ## Résumé
 Chef d'unité prisonnier à la prison de Narkina-5. Mène avec [[Cassian Andor]] la révolte massive de la prison. Reste sur place car il ne sait pas nager.

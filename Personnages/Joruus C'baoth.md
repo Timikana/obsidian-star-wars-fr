@@ -18,7 +18,7 @@ tags: [personnage, legendes, jedi, sith, clone, thrawn, dark-jedi]
 
 # Joruus C'baoth
 > [!color] Sabre
-> <span style="color:#1E88E5">█</span> **Bleu** — clone dément du Maître Jedi Jorus C'baoth, allié de Thrawn.
+> <span style="color:#B71C1C">█</span> **Bleu** — clone dément du Maître Jedi Jorus C'baoth, allié de Thrawn.
 
 ## Résumé
 **[Légendes]** **Joruus C'baoth** est un **clone instable** du légendaire Maître Jedi **Jorus C'baoth**, créé en secret dans les cuves Spaarti du **Mount Tantiss** sur [[Wayland]]. Survivant de l'effondrement de l'Ordre Jedi, il a dérivé dans une folie messianique pendant des décennies de solitude, se proclamant Maître de la planète et exigeant l'adoration des **Psadan** et **Myneyrsh**. Quand [[Grand Amiral Thrawn (Légendes)]] le découvre, ils concluent un **pacte d'alliance** : C'baoth utilise sa **puissante télépathie de combat** (battle meditation) pour coordonner les flottes impériales, en échange Thrawn lui promet [[Luke Skywalker]], [[Leia Organa]] et les **jumeaux Jacen et Jaina Solo** comme apprentis. C'baoth crée un clone meurtrier de Luke baptisé **Luuke Skywalker**. Dans l'affrontement final à Tantiss, [[Mara Jade]] tue le clone de Luke avec le sabre vert qu'elle obtenait, puis abat C'baoth. Archétype du Maître Jedi corrompu, miroir sombre du Yoda exilé.

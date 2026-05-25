@@ -18,7 +18,7 @@ tags: [personnage, jedi, swtor, old-republic, legendes]
 
 # Satele Shan
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Grand Maître Jedi de l'ère SWTOR, descendante de Bastila Shan et Revan.
+> <span style="color:#2196F3">█</span> **Bleu** — Grand Maître Jedi de l'ère SWTOR, descendante de Bastila Shan et Revan.
 
 ## Résumé
 Descendante de Bastila Shan et Revan, Satele Shan est élevée au rang de Grand Maître de l'Ordre Jedi pendant la Grande Guerre Galactique contre l'Empire Sith reconstitué. Stratège brillante et combattante hors pair, elle est aussi la mère cachée de Theron Shan, fruit de sa relation avec le soldat Jace Malcom.

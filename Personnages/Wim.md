@@ -18,7 +18,7 @@ tags: [personnage, skeleton-crew, at-attin, jeune]
 
 # Wim
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — protagoniste enfant de Skeleton Crew, fan de Jedi.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — protagoniste enfant de Skeleton Crew, fan de Jedi.
 
 ## Résumé
 Enfant rêveur de la planète secrète At Attin, fan d'histoires Jedi. Découvre un vaisseau, embarque ses amis dans une aventure pirate.

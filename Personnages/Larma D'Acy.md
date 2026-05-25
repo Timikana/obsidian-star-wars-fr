@@ -18,7 +18,7 @@ tags: [personnage, resistance, officier, canon]
 
 # Larma D'Acy
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Rébellion** — Officière de la Résistance, calme et compétente, présente d'Crait à Exegol.
+> <span style="color:#FF5722">█</span> **Rébellion** — Officière de la Résistance, calme et compétente, présente d'Crait à Exegol.
 
 ## Résumé
 Officier de la Résistance originaire de Warlentta, Larma D'Acy se distingue lors de la fuite de D'Qar et du siège de Crait. Promue Vice-Amirale, elle dirige les opérations sur Ajan Kloss et joue un rôle clé dans la mobilisation finale contre le Final Order.

@@ -19,7 +19,7 @@ tags: [personnage, empire, darksaber, isb, clone-grogu]
 # Moff Gideon
 
 > [!color] Couleur signature
-> <span style="color:#1A1A1A">█</span> **Noir / Darksaber** — porteur du sabre noir, antagoniste principal du Mandalorian S1-S3.
+> <span style="color:#212121">█</span> **Noir / Darksaber** — porteur du sabre noir, antagoniste principal du Mandalorian S1-S3.
 
 ## Résumé
 Ancien officier de l'ISB qui a participé à la Grande Purge de Mandalore. Détenait le [[Darksaber]] depuis le pillage de Mandalore. Cherchait à se cloner et à transférer son esprit en utilisant le sang-M de [[Grogu]]. Vaincu par [[Din Djarin]] et [[Bo-Katan Kryze]].

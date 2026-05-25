@@ -12,7 +12,7 @@ tags: [artefact, sabre, jedi, mace-windu]
 
 # Sabre de Mace Windu
 > [!color] Symbolique
-> <span style="color:#8E24AA">█</span> — Lame violette unique, signature d'un Maître entre lumière et ombre.
+> <span style="color:#9C27B0">█</span> — Lame violette unique, signature d'un Maître entre lumière et ombre.
 
 ## Résumé
 Le sabre laser de [[Mace Windu]] est un cas unique dans l'[[Ordre Jedi]] : sa lame violette témoigne d'un cristal kyber accordé à un Maître ayant frôlé le côté obscur sans y succomber. Maître du style Vaapad, Windu en faisait une arme redoutable. Le sabre fut perdu lors de sa chute du bureau de [[Dark Sidious]] sur [[Coruscant]] en 19 av.BY.

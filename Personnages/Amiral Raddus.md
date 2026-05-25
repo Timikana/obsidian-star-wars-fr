@@ -18,7 +18,7 @@ tags: [personnage, rebellion, mon-calamari, amiral, scarif, empire, trilogie-ori
 
 # Amiral Raddus
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — amiral Mon Calamari, soutient l'opération Rogue One.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — amiral Mon Calamari, soutient l'opération Rogue One.
 
 ## Résumé
 Amiral Mon Calamari, soutient l'opération Scarif sans l'aval du Conseil. Tué quand son vaisseau, le *Profundity*, est capturé. Le futur navire amiral de la Résistance porte son nom.

@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, kotor]
 
 # Dark Sion
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Sith mort-vivant, soutenu par la haine.
+> <span style="color:#B71C1C">█</span> **Rouge** — Sith mort-vivant, soutenu par la haine.
 
 ## Résumé
 **[Légendes]** Sith maintenu en vie par la pure haine, corps brisé constamment réparé par la Force. Membre du Sith Triumvirate.

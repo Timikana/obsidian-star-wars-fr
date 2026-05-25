@@ -19,7 +19,7 @@ tags: [personnage, sith, muun, regle-deux]
 # Dark Plagueis
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Seigneur Sith Muun, maître de [[Dark Sidious]].
+> <span style="color:#B71C1C">█</span> **Rouge** — Seigneur Sith Muun, maître de [[Dark Sidious]].
 
 ## Résumé
 Seigneur Sith Muun, banquier de l'InterGalactic Banking Clan sous l'identité Hego Damask. Maîtrise la manipulation midi-chlorienne — capable de créer et préserver la vie. Tué par son apprenti [[Dark Sidious]] dans son sommeil.

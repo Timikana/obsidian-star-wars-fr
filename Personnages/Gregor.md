@@ -19,7 +19,7 @@ tags: [personnage, clone, commando, seelos, clone-wars, empire]
 # Gregor
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — Commando Clone amnésique, retrouvé sur Abafar.
+> <span style="color:#FF9800">█</span> **Or République** — Commando Clone amnésique, retrouvé sur Abafar.
 
 ## Résumé
 Clone Commando ayant perdu la mémoire après la bataille de Sarrish. Retrouvé par [[Colonel Gascon]] et un droïde. Survit à l'Ordre 66, vit avec [[Rex]] et [[Wolffe]] sur Seelos.

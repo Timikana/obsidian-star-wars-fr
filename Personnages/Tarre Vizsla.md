@@ -18,7 +18,7 @@ tags: [personnage, mandalorien, jedi, darksaber, createur]
 
 # Tarre Vizsla
 > [!color] Couleur signature
-> <span style="color:#1A1A1A">█</span> **Noir / Darksaber** — premier Mandalorien Jedi, créateur du Darksaber.
+> <span style="color:#212121">█</span> **Noir / Darksaber** — premier Mandalorien Jedi, créateur du Darksaber.
 
 ## Résumé
 Premier (et seul connu) Mandalorien admis dans l'Ordre Jedi (~1019 BBY). Forge le **Darksaber** au Temple Jedi. Devient Mand'alor de Mandalore.

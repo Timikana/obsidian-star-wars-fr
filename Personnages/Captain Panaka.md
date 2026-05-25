@@ -18,7 +18,7 @@ tags: [personnage, naboo, garde-royale, empire]
 
 # Captain Panaka
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — chef de la sécurité de la reine Amidala (ép. I), futur Moff impérial.
+> <span style="color:#FF9800">█</span> **Or République** — chef de la sécurité de la reine Amidala (ép. I), futur Moff impérial.
 
 ## Résumé
 Chef de la sécurité royale de [[Padmé Amidala]] dans ép. I. Devient plus tard Moff impérial de Naboo (Légendes/canon partiel).

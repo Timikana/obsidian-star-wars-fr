@@ -18,7 +18,7 @@ tags: [personnage, pilote, legendes]
 
 # Plourr Ilo
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — pilote du Rogue Squadron, princesse héritière d'Eiattu en exil.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — pilote du Rogue Squadron, princesse héritière d'Eiattu en exil.
 
 ## Résumé
 Pilote bagarreuse du Rogue Squadron, en réalité princesse héritière de la planète Eiattu 6. Retourne brièvement régner avant de revenir au sein de l'escadron.

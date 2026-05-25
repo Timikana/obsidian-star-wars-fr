@@ -19,7 +19,7 @@ tags: [personnage, clone, commandant, 212, clone-wars, empire]
 # Commandant Cody
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — commandant marshal, bras droit d'Obi-Wan, ordonne l'Ordre 66 contre lui sur Utapau.
+> <span style="color:#FF9800">█</span> **Or République** — commandant marshal, bras droit d'Obi-Wan, ordonne l'Ordre 66 contre lui sur Utapau.
 
 ## Résumé
 Commandant marshal de la 212e Brigade d'Attaque, sous [[Obi-Wan Kenobi]]. Exécute l'Ordre 66 sur Utapau. Plus tard officier impérial ; déserte (Bad Batch S3) après avoir réalisé la nature du régime.

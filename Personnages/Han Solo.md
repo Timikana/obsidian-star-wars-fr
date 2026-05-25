@@ -19,7 +19,7 @@ tags: [personnage, rebellion, contrebandier, corellien, empire, sequels]
 # Han Solo
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — héros rebelle iconique, capitaine du Faucon Millenium.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — héros rebelle iconique, capitaine du Faucon Millenium.
 
 ## Résumé
 Contrebandier corellien, ancien cadet impérial déserteur, capitaine du [[Faucon Millenium]]. Compagnon de [[Chewbacca]], époux de [[Leia Organa]], père de [[Ben Solo]]. Héros de la Rébellion.

@@ -5,7 +5,7 @@ affiliation: [Grande Armée République, clan Skirata, Mandaloriens]
 periode: [Guerre des Clones (Légendes)]
 statut: "vivant (post-Ordre 66)"
 canon: Légendes
-premiere_apparition: Republic Commando: Triple Zero (2006)
+premiere_apparition: "Republic Commando: Triple Zero (2006)"
 acteur_voix: —
 couleur: republique
 couleur_hex: "#FF9800"

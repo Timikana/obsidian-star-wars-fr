@@ -18,7 +18,7 @@ tags: [personnage, legendes, mon-calamari, jedi, guerisseuse]
 
 # Cilghal
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Maîtresse Jedi guérisseuse Mon Calamari.
+> <span style="color:#2196F3">█</span> **Bleu** — Maîtresse Jedi guérisseuse Mon Calamari.
 
 ## Résumé
 **[Légendes]** Maîtresse Jedi Mon Calamari, plus grande guérisseuse Force du Nouvel Ordre Jedi. Nièce de [[Amiral Ackbar]].

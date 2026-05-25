@@ -18,7 +18,7 @@ tags: [personnage, pirate, skeleton-crew, sabre-vole]
 
 # Jod Na Nawood
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — pirate ambigu, possède un sabre laser bleu volé.
+> <span style="color:#2196F3">█</span> **Bleu** — pirate ambigu, possède un sabre laser bleu volé.
 
 ## Résumé
 Pirate charismatique aux multiples identités. Possède un sabre laser bleu (origine douteuse). Manipule [[Wim]] et ses amis pour atteindre le trésor d'At Attin.

@@ -18,13 +18,16 @@ tags: [personnage, andor, rebellion, narkina, scarif, empire]
 
 # Melshi
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — codétenu de Cassian à Narkina, mort sur Scarif.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — codétenu de Cassian à Narkina, mort sur Scarif.
 
 ## Résumé
-Codétenu de [[Cassian Andor]] à la prison de Narkina-5. Évade avec lui. Sergent rebelle, mort sur Scarif aux côtés de Cassian.
+Ruescott Melshi est un humain ordinaire dont le destin bascule à la suite d'une rafle arbitraire de l'[[Empire Galactique]] : envoyé sans procès à la prison-usine de **Narkina 5**, complexe carcéral aquatique où les détenus assemblent en silence des pièces destinées à l'[[Étoile de la Mort]], il y rencontre [[Cassian Andor]]. Ensemble, dans l'épisode "One Way Out" de la première saison d'**Andor**, ils orchestrent l'une des plus impressionnantes évasions de masse de toute la franchise, plongeant dans la mer après avoir compris qu'aucun prisonnier ne sortirait vivant de Narkina. Devenu sergent de l'[[Alliance Rebelle]], Melshi est l'homme de main loyal de Cassian au sein de la cellule de [[Luthen Rael]] puis du commandement rebelle de [[Yavin IV]]. Dans **Rogue One** (2016), il commande l'escouade de commandos qui débarque sur [[Scarif]] pour saisir les plans de la station-arme : "Rogue One" précisément. Il y meurt sous le feu des stormtroopers de la garnison de [[Directeur Krennic]], permettant à [[Jyn Erso]] et Cassian d'atteindre la tour des archives.
 
 ## Relations
-- Allié : [[Cassian Andor]]
+- Alliés : [[Cassian Andor]], [[Jyn Erso]], [[K-2SO]], [[Bodhi Rook]], [[Chirrut Imwe]], [[Baze Malbus]]
+- Faction : [[Alliance Rebelle]], cellule de [[Luthen Rael]]
+- Ennemis : [[Empire Galactique]], [[Directeur Krennic]], [[ISB]]
 
 ## Apparitions
-Séries Andor (S1) · Films Rogue One
+- Séries : [[Andor]] S1 (2022), S2 (2025)
+- Films : [[Rogue One]] (2016)

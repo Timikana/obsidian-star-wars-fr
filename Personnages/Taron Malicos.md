@@ -5,7 +5,7 @@ affiliation: [Ordre Jedi (renégat), Côté Obscur]
 periode: [Empire]
 statut: décédé (~14 BBY, Dathomir)
 canon: Canon
-premiere_apparition: Jedi: Fallen Order (jeu, 2019)
+premiere_apparition: "Jedi: Fallen Order (jeu, 2019)"
 acteur_voix: Liam McIntyre
 sabre_couleur: bleu (corrompu)
 sabre_hex: "#B71C1C"

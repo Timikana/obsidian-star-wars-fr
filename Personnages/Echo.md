@@ -19,7 +19,7 @@ tags: [personnage, clone, arc, bad-batch, cyborg, clone-wars, empire]
 # Echo
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — ARC trooper devenu cyborg, intégré au Bad Batch puis à la résistance clone.
+> <span style="color:#FF9800">█</span> **Or République** — ARC trooper devenu cyborg, intégré au Bad Batch puis à la résistance clone.
 
 ## Résumé
 ARC trooper de la 501e, capturé et utilisé comme algoritmie tactique séparatiste sur le Skako Minor. Sauvé par le Bad Batch, devient leur membre. Quitte la team pour aider [[Capitaine Rex]] à libérer ses frères clones après l'Ordre 66.

@@ -18,7 +18,7 @@ tags: [personnage, jedi-dechu, sith, shadow-academy, legendes]
 
 # Brakiss
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Sith** — Bel apprenti Jedi déchu, fondateur de l'Académie de l'Ombre.
+> <span style="color:#B71C1C">█</span> **Sith** — Bel apprenti Jedi déchu, fondateur de l'Académie de l'Ombre.
 
 ## Résumé
 Élève prometteur de Luke Skywalker au Praxeum Jedi, Brakiss est en réalité un espion impérial. Démasqué, il rejoint le Côté Obscur et fonde la Shadow Academy, formant une nouvelle génération de Dark Jedi pour le Second Imperium. Il périt lors de l'effondrement de la station Khrony.

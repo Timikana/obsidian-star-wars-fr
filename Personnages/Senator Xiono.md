@@ -18,7 +18,7 @@ tags: [personnage, canon, nouvelle-republique, resistance]
 
 # Senator Xiono
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — Sénateur de la Nouvelle République, père de Kaz.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — Sénateur de la Nouvelle République, père de Kaz.
 
 ## Résumé
 **[Canon]** Sénateur du Hosnian, père de [[Kazuda Xiono]]. Sceptique vis-à-vis de la menace du Premier Ordre, il s'oppose à l'engagement clandestin de son fils auprès de la Résistance avant Hosnian Prime.

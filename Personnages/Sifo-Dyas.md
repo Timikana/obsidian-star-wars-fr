@@ -19,7 +19,7 @@ tags: [personnage, jedi, clones, prevoyance]
 # Sifo-Dyas
 
 > [!color] Couleur signature
-> <span style="color:#2E9DF7">█</span> **Bleu** — Jedi prophétique qui commande l'armée clone, manipulé puis tué par Dooku.
+> <span style="color:#2196F3">█</span> **Bleu** — Jedi prophétique qui commande l'armée clone, manipulé puis tué par Dooku.
 
 ## Résumé
 Maître Jedi visionnaire ; commande secrètement l'armée clone aux Kaminoans, manipulé par [[Dark Sidious]] / [[Comte Dooku]] qui le fait tuer pour prendre le contrôle du projet.

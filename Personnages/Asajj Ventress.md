@@ -19,7 +19,7 @@ tags: [personnage, sith-acolyte, dathomir, sorciere, primes, clone-wars]
 # Asajj Ventress
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — deux sabres courbés Sith jumelables, signature de l'ère Clone Wars.
+> <span style="color:#B71C1C">█</span> **Rouge** — deux sabres courbés Sith jumelables, signature de l'ère Clone Wars.
 
 ## Résumé
 Sœur de la Nuit Dathomirienne, ancienne padawan de Ky Narec. Apprentie de [[Comte Dooku]], trahie par [[Dark Sidious]]. Devient chasseuse de primes, s'allie aux Jedi (Quinlan Vos).

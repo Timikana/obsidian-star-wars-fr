@@ -18,7 +18,7 @@ tags: [personnage, sullusteen, rebellion, pilote, faucon, empire, sequels]
 
 # Nien Nunb
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — copilote sullustéen de Lando lors de la destruction de la 2e Étoile de la Mort.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — copilote sullustéen de Lando lors de la destruction de la 2e Étoile de la Mort.
 
 ## Résumé
 Pilote Sullustéen, copilote de [[Lando Calrissian]] sur le *Faucon Millenium* lors de la bataille d'Endor. Retour dans la Résistance.

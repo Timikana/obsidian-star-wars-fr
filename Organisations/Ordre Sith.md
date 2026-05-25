@@ -11,7 +11,7 @@ tags: [organisation, sith, cote-obscur]
 
 # Ordre Sith
 > [!color] Allégeance
-> <span style="color:#4A148C">█</span> **Pourpre Sith** — Ordre du côté obscur voué à la domination galactique via la Règle des Deux.
+> <span style="color:#B71C1C">█</span> **Pourpre Sith** — Ordre du côté obscur voué à la domination galactique via la Règle des Deux.
 
 ## Résumé
 Ordre ancien d'utilisateurs du côté obscur, refondé par [[Dark Bane]] sous la Règle des Deux : un maître, un apprenti. Leur plan millénaire culmine avec la prise de pouvoir de [[Dark Sidious]] et la chute de la République. La lignée perdure jusqu'à [[Kylo Ren]].

@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, lightwhip, empire]
 
 # Lumiya
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Dark Lady Sith maniant un fouet-énergie, mentor de Jacen Solo / Caedus.
+> <span style="color:#B71C1C">█</span> **Rouge** — Dark Lady Sith maniant un fouet-énergie, mentor de Jacen Solo / Caedus.
 
 ## Résumé
 **[Légendes]** Apprentie de Vador, devient Dark Lady Sith après l'Empire. Manipule [[Jacen Solo]] dans Legacy of the Force. Tuée par [[Mara Jade]].

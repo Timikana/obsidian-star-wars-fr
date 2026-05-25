@@ -11,7 +11,7 @@ tags: [concept, force, religion, monastique, canon, legendes]
 # Whills
 
 > [!color] Concept métaphysique
-> <span style="color:#F5F5F5">█</span> **Whills** — ordre monastique mystique vénérant la [[La Force|Force]] et gardiens cosmiques selon les couches les plus profondes de la mythologie Star Wars.
+> <span style="color:#ECEFF1">█</span> **Whills** — ordre monastique mystique vénérant la [[La Force|Force]] et gardiens cosmiques selon les couches les plus profondes de la mythologie Star Wars.
 
 ## Résumé
 

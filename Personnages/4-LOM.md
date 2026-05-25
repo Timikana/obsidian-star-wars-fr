@@ -18,7 +18,7 @@ tags: [personnage, droide, chasseur-primes, empire, trilogie-originale]
 
 # 4-LOM
 > [!color] Couleur signature
-> <span style="color:#BDBDBD">█</span> **Gris droïde** — droïde-protocole devenu chasseur de primes, partenaire de Zuckuss.
+> <span style="color:#90A4AE">█</span> **Gris droïde** — droïde-protocole devenu chasseur de primes, partenaire de Zuckuss.
 
 ## Résumé
 Droïde de protocole reprogrammé pour la chasse. Partenaire fréquent de [[Zuckuss]]. Présent dans la lineup de chasseurs sur l'*Executor* dans ép. V.

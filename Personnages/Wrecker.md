@@ -19,7 +19,7 @@ tags: [personnage, clone, bad-batch, force-brute, clone-wars, empire]
 # Wrecker
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — clone géant ultra-musclé, démolisseur du Bad Batch.
+> <span style="color:#FF9800">█</span> **Or République** — clone géant ultra-musclé, démolisseur du Bad Batch.
 
 ## Résumé
 Clone défectueux à la force démesurée. Personnalité enjouée, cœur tendre, attaché à [[Omega]]. Sa puce inhibitrice s'est activée brièvement avant d'être retirée.

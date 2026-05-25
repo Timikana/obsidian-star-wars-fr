@@ -18,7 +18,7 @@ tags: [personnage, ancienne-republique, jedi, cathar, kotor, legendes]
 
 # Juhani
 > [!color] Couleur signature
-> <span style="color:#1E88E5">█</span> **Bleu** — Cathar Jedi rescapée du génocide mandalorien, rachetée du côté obscur.
+> <span style="color:#2196F3">█</span> **Bleu** — Cathar Jedi rescapée du génocide mandalorien, rachetée du côté obscur.
 
 ## Résumé
 **[Légendes]** Jeune **Cathar** orpheline rescapée du génocide de son peuple perpétré par [[Mandalore l'Ultime]] lors des Guerres Mandaloriennes, Juhani fut achetée enfant comme esclave puis recueillie par les Jedi et formée à l'**Enclave de [[Dantooine]]** sous la tutelle de [[Quatra]]. Première héroïne Cathar et personnage homosexuel officiel de la franchise Star Wars (sa romance avec [[Belaya]] est explicite), Juhani porte en elle la rage du génocide qui la fait basculer brièvement dans le côté obscur : croyant avoir tué sa maîtresse Quatra lors d'un duel d'entraînement, elle fuit dans les bois de Dantooine où [[Dark Revan]] amnésique la confronte. Choisissant la voie de la rédemption, elle rejoint l'équipage du *[[Ebon Hawk]]* et participe à la traque de la **Forge Stellaire** jusqu'à [[Lehon]]. Sa voie représente la possibilité de revenir à la lumière même après avoir goûté à la haine, et son arc constitue l'un des plus tendres de KOTOR.

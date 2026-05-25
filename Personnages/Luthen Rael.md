@@ -19,7 +19,7 @@ tags: [personnage, rebellion, espion, andor, axis, empire]
 # Luthen Rael
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — architecte secret du réseau rebelle, antiquaire de couverture sur Coruscant.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — architecte secret du réseau rebelle, antiquaire de couverture sur Coruscant.
 
 ## Résumé
 Antiquaire de Coruscant en façade, architecte secret du réseau rebelle pré-Alliance. Manipule [[Cassian Andor]], [[Mon Mothma]], et de nombreuses cellules pour bâtir la résistance. « Je brûle ma vie pour un coucher de soleil que je ne verrai jamais. »

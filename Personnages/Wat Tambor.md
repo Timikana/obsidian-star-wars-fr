@@ -18,7 +18,7 @@ tags: [personnage, skakoan, separatistes, techno-union, clone-wars]
 
 # Wat Tambor
 > [!color] Couleur signature
-> <span style="color:#424242">█</span> **Gris Empire** — Skakoan en combinaison pressurisée, Techno Union, occupant de Ryloth.
+> <span style="color:#616161">█</span> **Gris Empire** — Skakoan en combinaison pressurisée, Techno Union, occupant de Ryloth.
 
 ## Résumé
 Cheff de la Techno Union, occupant brutal de Ryloth pendant la Guerre des Clones. Tué sur Mustafar par [[Anakin Skywalker]].

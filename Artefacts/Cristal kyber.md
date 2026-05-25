@@ -14,7 +14,7 @@ tags: [artefact, cristal, force, kyber]
 
 # Cristal kyber
 > [!color] Symbolique
-> <span style="color:#00897B">█</span> — Cœur vivant du sabre laser, sensible à la Force.
+> <span style="color:#2196F3">█</span> — Cœur vivant du sabre laser, sensible à la Force.
 
 ## Résumé
 Les cristaux kyber sont des cristaux sensibles à la Force, naturellement incolores ou clairs, qui s'accordent à leur porteur Jedi pour révéler leur couleur. Ils sont le composant central de chaque sabre laser. Les [[Ordre Sith]], n'ayant pas accès à des kybers naturels, "saignent" des cristaux volés en y infusant haine et douleur, ce qui les rend rouges.

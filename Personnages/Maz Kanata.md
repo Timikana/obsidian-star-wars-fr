@@ -19,7 +19,7 @@ tags: [personnage, force, takodana, pirate-reine, empire, sequels]
 # Maz Kanata
 
 > [!color] Couleur signature
-> <span style="color:#00897B">█</span> **Sarcelle Jedi** — sensible à la Force, garde le sabre Skywalker.
+> <span style="color:#2196F3">█</span> **Sarcelle Jedi** — sensible à la Force, garde le sabre Skywalker.
 
 ## Résumé
 Pirate millénaire (~1000 ans), tient un château refuge sur Takodana. Détient le sabre laser d'[[Anakin Skywalker]] / [[Luke Skywalker]] dans son coffre, qu'elle remet à [[Rey Skywalker]]. Se bat aux côtés de la Résistance.

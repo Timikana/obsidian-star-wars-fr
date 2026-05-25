@@ -18,7 +18,7 @@ tags: [personnage, rebellion, battlefront, inferno-squad, empire]
 
 # Del Meeko
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — ex-stormtrooper Inferno, déserte avec Iden, père de Zay.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — ex-stormtrooper Inferno, déserte avec Iden, père de Zay.
 
 ## Résumé
 Ancien membre de l'Inferno Squad impérial. Déserte avec [[Iden Versio]]. Père de [[Zay Versio]]. Tué par son ancien ami Gideon Hask.

@@ -18,7 +18,7 @@ tags: [personnage, ancienne-republique, jedi, gris, kotor, legendes]
 
 # Jolee Bindo
 > [!color] Couleur signature
-> <span style="color:#1E88E5">█</span> **Bleu** — vieux Jedi gris ermite, sagesse mordante.
+> <span style="color:#2196F3">█</span> **Bleu** — vieux Jedi gris ermite, sagesse mordante.
 
 ## Résumé
 **[Légendes]** Vieil ermite réfugié dans la **Shadowlands de [[Kashyyyk]]**, Jolee Bindo est un ancien **Chevalier Jedi** ayant quitté l'Ordre par dégoût de sa rigidité doctrinaire après les Guerres Mandaloriennes. Vétéran de la **Grande Guerre Hyperspatiale** et de l'**Affaire d'Exar Kun** où il a vu sa propre épouse, Nayama, sombrer dans le côté obscur sans qu'il puisse se résoudre à la tuer, Jolee incarne la figure tutélaire du **Jedi Gris** : ni serviteur aveugle du Conseil, ni adepte de la haine. Rencontré par [[Dark Revan]] amnésique au cœur de la jungle wookiee, il rejoint l'équipage du *[[Ebon Hawk]]* à la simple condition qu'on ne lui demande pas pourquoi. Son humour acide, ses paraboles cyniques et sa lucidité philosophique font écho — avec deux décennies d'avance — à la voix de [[Kreia]]. Il accompagne le héros jusqu'à [[Lehon]] et la confrontation finale contre [[Dark Malak]] dans la **Forge Stellaire**. Personnage adoré des fans pour son refus de tout dogme et sa morale d'expérience.

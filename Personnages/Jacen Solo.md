@@ -18,7 +18,7 @@ tags: [personnage, legendes, sith, solo, caedus]
 
 # Jacen Solo / Dark Caedus
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — fils Solo bascule en Sith Caedus, tué par sa jumelle.
+> <span style="color:#B71C1C">█</span> **Rouge** — fils Solo bascule en Sith Caedus, tué par sa jumelle.
 
 ## Résumé
 **[Légendes]** Jumeau de [[Jaina Solo]]. Maître Jedi puis Sith Lord Dark Caedus. Tué par sa sœur Jaina dans Legacy of the Force.

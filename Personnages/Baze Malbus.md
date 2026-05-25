@@ -19,7 +19,7 @@ tags: [personnage, rebellion, jedha, mercenaire, empire, trilogie-originale]
 # Baze Malbus
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — mercenaire de Jedha, ancien Gardien des Whills, garde du corps de Chirrut.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — mercenaire de Jedha, ancien Gardien des Whills, garde du corps de Chirrut.
 
 ## Résumé
 Ancien Gardien des Whills devenu cynique mercenaire, compagnon protecteur de [[Chirrut Îmwe]]. Meurt sur Scarif après son ami, en couvrant la transmission.

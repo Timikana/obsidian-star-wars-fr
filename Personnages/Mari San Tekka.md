@@ -18,7 +18,7 @@ tags: [personnage, haute-republique, navigation, san-tekka]
 
 # Mari San Tekka
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — vieille navigatrice, captive des Nihil pour ses chemins hyperespace.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — vieille navigatrice, captive des Nihil pour ses chemins hyperespace.
 
 ## Résumé
 Très vieille navigatrice de la famille San Tekka (ancêtre de [[Lor San Tekka]]). Captive des Nihil pendant des décennies pour exploiter ses "Paths" hyperespace secrets.

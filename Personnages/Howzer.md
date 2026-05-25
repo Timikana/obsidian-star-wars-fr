@@ -18,7 +18,7 @@ tags: [personnage, clone, ryloth, deserteur, empire]
 
 # Howzer
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — clone capitaine qui se rebelle contre l'Empire pour défendre les Twi'leks.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — clone capitaine qui se rebelle contre l'Empire pour défendre les Twi'leks.
 
 ## Résumé
 Capitaine clone stationné sur Ryloth après l'Ordre 66. Refuse les ordres impériaux contre la famille [[Cham Syndulla]] et déserte. Rejoint la Rébellion.

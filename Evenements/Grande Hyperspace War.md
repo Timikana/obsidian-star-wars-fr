@@ -14,7 +14,7 @@ tags: [evenement, guerre, sith, ancienne-republique]
 
 # Grande Hyperspace War
 > [!color] Faction victorieuse
-> <span style="color:#4A148C">█</span> **Empire Sith (vaincu)** — Premier choc galactique entre la République et un Empire Sith redécouvert.
+> <span style="color:#B71C1C">█</span> **Empire Sith (vaincu)** — Premier choc galactique entre la République et un Empire Sith redécouvert.
 
 ## Résumé
 Après la découverte fortuite des routes hyperspatiales menant à l'Empire Sith oublié, [[Naga Sadow]] lance une invasion massive contre la [[République Galactique]]. Les Sith frappent simultanément plusieurs Mondes du Noyau avant d'être repoussés par l'Ordre Jedi et la flotte républicaine.

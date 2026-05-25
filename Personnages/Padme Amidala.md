@@ -19,7 +19,7 @@ tags: [personnage, republique, naboo, senat, skywalker, clone-wars]
 # Padmé Amidala
 
 > [!color] Couleur signature
-> <span style="color:#C9A227">█</span> **Or République** — figure politique majeure du Sénat galactique et reine de Naboo.
+> <span style="color:#FF9800">█</span> **Or République** — figure politique majeure du Sénat galactique et reine de Naboo.
 
 ## Résumé
 Reine élue de Naboo à 14 ans, puis sénatrice. Épouse secrète d'[[Anakin Skywalker]], mère de [[Luke Skywalker]] et [[Leia Organa]]. Voix critique contre la militarisation de la République, fondatrice de la Délégation des 2000 qui préfigure l'Alliance.

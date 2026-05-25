@@ -19,7 +19,7 @@ tags: [personnage, sith, premier-ordre, skywalker, redemption, sequels]
 # Kylo Ren / Ben Solo
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — sabre Sith croisé instable, kyber fissuré nécessitant les ventilations latérales.
+> <span style="color:#B71C1C">█</span> **Rouge** — sabre Sith croisé instable, kyber fissuré nécessitant les ventilations latérales.
 
 ## Résumé
 Fils de [[Han Solo]] et [[Leia Organa]], neveu de [[Luke Skywalker]] et petit-fils d'[[Anakin Skywalker]]. Padawan trahissant Luke, devient apprenti de [[Snoke]] puis Suprême Leader. Rédempté par [[Rey Skywalker]] avant sa mort.

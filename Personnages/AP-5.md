@@ -18,7 +18,7 @@ tags: [personnage, droide, rebels, alliance, empire]
 
 # AP-5
 > [!color] Couleur signature
-> <span style="color:#BDBDBD">█</span> **Droïde** — Vieux droïde de protocole impérial à la voix lugubre rallié aux Spectres.
+> <span style="color:#90A4AE">█</span> **Droïde** — Vieux droïde de protocole impérial à la voix lugubre rallié aux Spectres.
 
 ## Résumé
 AP-5 est un droïde de protocole RA-7 désuet, anciennement officier de logistique sur un croiseur impérial où il subissait constamment l'humiliation des officiers humains. Recueilli par [[Chopper]] et l'équipage du Ghost lors d'une mission infiltration, il devient analyste pour l'Alliance naissante grâce à sa connaissance encyclopédique des routes hyperspatiales impériales. Sa voix monocorde et mélancolique, son humour pince-sans-rire et son amitié bourrue avec Chopper en font un personnage attachant de la fin de Star Wars Rebels. C'est lui qui aide les Spectres à trouver la planète Atollon (Chopper Base). Il survit aux évènements de la série et continue de servir l'Alliance.

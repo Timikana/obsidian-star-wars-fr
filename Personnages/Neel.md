@@ -18,7 +18,7 @@ tags: [personnage, skeleton-crew, at-attin, myykian]
 
 # Neel
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — enfant Myykian de Skeleton Crew, oreilles d'éléphant.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — enfant Myykian de Skeleton Crew, oreilles d'éléphant.
 
 ## Résumé
 Enfant alien Myykian, ami sensible et émotif. Membre de l'équipe d'enfants embarquée par [[Wim]] dans l'aventure du vaisseau pirate.

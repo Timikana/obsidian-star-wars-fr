@@ -19,7 +19,7 @@ tags: [personnage, rebellion, alderaan, senateur, fondateur-alliance, prelogie, 
 # Bail Organa
 
 > [!color] Couleur signature
-> <span style="color:#FF6F00">█</span> **Orange Rébellion** — sénateur, vice-roi d'Alderaan, père adoptif de Leia, fondateur de l'Alliance.
+> <span style="color:#FF5722">█</span> **Orange Rébellion** — sénateur, vice-roi d'Alderaan, père adoptif de Leia, fondateur de l'Alliance.
 
 ## Résumé
 Sénateur d'Alderaan, vice-roi consort de la reine Breha. Fondateur secret de l'Alliance Rebelle aux côtés de [[Mon Mothma]]. Père adoptif de [[Leia Organa]]. Mort lors de la destruction d'Alderaan par l'Étoile de la Mort.

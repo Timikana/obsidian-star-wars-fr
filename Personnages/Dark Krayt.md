@@ -5,7 +5,7 @@ affiliation: [Ordre Jedi (ancien), Ordre Sith de l'Unique]
 periode: [Guerres Cloniques, Ère Legacy]
 statut: "mort (Légendes : tué par Cade Skywalker)"
 canon: Légendes
-premiere_apparition: Star Wars: Legacy #0 (2006)
+premiere_apparition: "Star Wars: Legacy #0 (2006)"
 acteur_voix: 
 sabre_couleur: rouge
 sabre_hex: "#E53935"
@@ -18,7 +18,7 @@ tags: [personnage, sith, legacy, legendes, tusken]
 
 # Dark Krayt
 > [!color] Couleur signature
-> <span style="color:#4A148C">█</span> **Sith** — Ancien Jedi Tusken devenu Seigneur Sith et Empereur galactique de l'ère Legacy.
+> <span style="color:#B71C1C">█</span> **Sith** — Ancien Jedi Tusken devenu Seigneur Sith et Empereur galactique de l'ère Legacy.
 
 ## Résumé
 A'Sharad Hett, fils du Maître Jedi Sharad Hett élevé chez les Tuskens, est un Jedi décoré des Guerres Cloniques aux côtés d'[[Anakin Skywalker]]. Survivant de l'Ordre 66, exilé sur Tatooine, il rejette [[Obi-Wan Kenobi]] et erre des décennies. Tombé sur l'esprit de [[Dark Bane]] à travers des holocrons, il forge l'Ordre Sith de l'Unique, doctrine collective rejetant la Règle des Deux. Surnommé Dark Krayt, il bâtit son armée pendant un siècle, infesté d'un parasite Yuuzhan Vong qui ronge son corps. Il renverse l'Empereur [[Roan Fel]], déclenche une guerre civile galactique et persécute les Jedi. Il est finalement tué par [[Cade Skywalker]], descendant des Skywalker. Figure majeure des Légendes, il incarne le Sith impérial moderne.

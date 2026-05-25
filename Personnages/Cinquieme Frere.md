@@ -19,7 +19,7 @@ tags: [personnage, inquisiteur, dowutin, empire]
 # Cinquième Frère
 
 > [!color] Couleur signature
-> <span style="color:#E53935">█</span> **Rouge** — Inquisiteur dowutin, taille imposante.
+> <span style="color:#B71C1C">█</span> **Rouge** — Inquisiteur dowutin, taille imposante.
 
 ## Résumé
 Inquisiteur Dowutin, partenaire de la [[Septième Sœur]]. Apparaît également dans la série *Obi-Wan Kenobi* (9 BBY) avant Rebels (3 BBY) — chronologie incohérente résolue par double exposition. Tué par [[Dark Maul]] sur Malachor.
